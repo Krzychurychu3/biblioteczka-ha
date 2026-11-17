@@ -1,0 +1,11 @@
+{"nextPage": "", "bibs": [
+ {"publicationYear": "2019", "marc": {"fields": [
+  {"020": {"ind1": " ", "ind2": " ", "subfields": [{"a": "9788375780635"}]}},
+  {"245": {"ind1": "0", "ind2": "0", "subfields": [{"a": "[Bez tytułu] :"}]}},
+  {"700": {"ind1": "1", "ind2": " ", "subfields": [{"a": "Tłumacz, Jan"}, {"e": "Tłumaczenie"}]}},
+  {"700": {"ind1": "1", "ind2": " ", "subfields": [{"a": "Kowalska, Anna"}, {"e": "Autor"}]}},
+  {"260": {"ind1": " ", "ind2": " ", "subfields": [{"c": "1999"}]}},
+  {"264": {"ind1": " ", "ind2": "1", "subfields": [{"b": "Znak,"}, {"c": "2005"}]}},
+  {"490": {"ind1": "0", "ind2": " ", "subfields": [{"a": "Seria z Kotem ;"}, {"v": "t. 1-8"}]}}
+ ]}}
+]}

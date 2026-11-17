@@ -1,0 +1,1011 @@
+{
+ "_source": "Wygenerowane z oryginalnego kodu Swift (Biblioteczka/Models, Theme/Palette.swift) \u2013 nie edytowa\u0107 r\u0119cznie.",
+ "palette": [
+  {
+   "name": "indygo",
+   "start": "#7363FA",
+   "end": "#4C38CC"
+  },
+  {
+   "name": "koral",
+   "start": "#FC7D70",
+   "end": "#DB3D73"
+  },
+  {
+   "name": "morski",
+   "start": "#26BDA8",
+   "end": "#0A8087"
+  },
+  {
+   "name": "bursztyn",
+   "start": "#FFBD47",
+   "end": "#F27529"
+  },
+  {
+   "name": "niebo",
+   "start": "#54ADFF",
+   "end": "#2966E8"
+  },
+  {
+   "name": "\u015bliwka",
+   "start": "#D161D6",
+   "end": "#8536B0"
+  },
+  {
+   "name": "las",
+   "start": "#66BA70",
+   "end": "#267859"
+  },
+  {
+   "name": "\u0142upek",
+   "start": "#8C9CBA",
+   "end": "#4F5C7D"
+  },
+  {
+   "name": "r\u00f3\u017c",
+   "start": "#F294A3",
+   "end": "#BA547A"
+  },
+  {
+   "name": "ocean",
+   "start": "#218FB5",
+   "end": "#124C87"
+  }
+ ],
+ "seeds": [
+  {
+   "seed": "wied\u017amin",
+   "nameKey": "wied\u017amin",
+   "hash": "3799026350418925741",
+   "index": 1
+  },
+  {
+   "seed": "Wied\u017amin",
+   "nameKey": "wied\u017amin",
+   "hash": "3799026350418925741",
+   "index": 1
+  },
+  {
+   "seed": "harry potter",
+   "nameKey": "harry potter",
+   "hash": "12761749911506724361",
+   "index": 1
+  },
+  {
+   "seed": "Harry Potter",
+   "nameKey": "harry potter",
+   "hash": "12761749911506724361",
+   "index": 1
+  },
+  {
+   "seed": "andrzej sapkowski",
+   "nameKey": "andrzej sapkowski",
+   "hash": "16629633718904947333",
+   "index": 3
+  },
+  {
+   "seed": "stanis\u0142aw lem",
+   "nameKey": "stanis\u0142aw lem",
+   "hash": "10785050427541505072",
+   "index": 2
+  },
+  {
+   "seed": "pucio",
+   "nameKey": "pucio",
+   "hash": "3710001875413084303",
+   "index": 3
+  },
+  {
+   "seed": "Pucio",
+   "nameKey": "pucio",
+   "hash": "3710001875413084303",
+   "index": 3
+  },
+  {
+   "seed": "  Pucio  ",
+   "nameKey": "pucio",
+   "hash": "3710001875413084303",
+   "index": 3
+  },
+  {
+   "seed": "",
+   "nameKey": "",
+   "hash": "14695981039346656037",
+   "index": 7
+  },
+  {
+   "seed": "?",
+   "nameKey": "?",
+   "hash": "12638141021067257134",
+   "index": 4
+  },
+  {
+   "seed": "Opowiem ci, mamo",
+   "nameKey": "opowiem ci, mamo",
+   "hash": "18413569294059699049",
+   "index": 9
+  },
+  {
+   "seed": "Marta Galewska-Kustra",
+   "nameKey": "marta galewska-kustra",
+   "hash": "3775360039224606250",
+   "index": 0
+  },
+  {
+   "seed": "Ziemiomorze",
+   "nameKey": "ziemiomorze",
+   "hash": "17537744367695136269",
+   "index": 9
+  },
+  {
+   "seed": "Ostatnie \u017cyczenie",
+   "nameKey": "ostatnie \u017cyczenie",
+   "hash": "10016659213239776704",
+   "index": 4
+  },
+  {
+   "seed": "J.K. Rowling",
+   "nameKey": "j.k. rowling",
+   "hash": "11927646186574206984",
+   "index": 4
+  },
+  {
+   "seed": "Muminki",
+   "nameKey": "muminki",
+   "hash": "12718764382045830181",
+   "index": 1
+  },
+  {
+   "seed": "Felix, Net i Nika",
+   "nameKey": "felix, net i nika",
+   "hash": "12191227234646156084",
+   "index": 4
+  },
+  {
+   "seed": "\u0141\u00d3D\u0179",
+   "nameKey": "\u0142\u00f3d\u017a",
+   "hash": "9999603638218210367",
+   "index": 7
+  },
+  {
+   "seed": "Stra\u00dfe",
+   "nameKey": "stra\u00dfe",
+   "hash": "243361996977900408",
+   "index": 8
+  },
+  {
+   "seed": "\u65e5\u672c\u8a9e",
+   "nameKey": "\u65e5\u672c\u8a9e",
+   "hash": "17194429697725099911",
+   "index": 1
+  },
+  {
+   "seed": "Ksi\u0105\u017cka \ud83d\udc4d\ud83c\udffd",
+   "nameKey": "ksi\u0105\u017cka \ud83d\udc4d\ud83c\udffd",
+   "hash": "13540970604037952670",
+   "index": 0
+  },
+  {
+   "seed": "0\uab70\u015a\uff21\u1e9e",
+   "nameKey": "0\uab70\u015b\uff41\u00df",
+   "hash": "17546247856462585047",
+   "index": 7
+  },
+  {
+   "seed": "\u00c6/,\u200b\u03a9\u0153\u0141(",
+   "nameKey": "\u00e6/,\u200b\u03c9\u0153\u0142(",
+   "hash": "18084313132896806743",
+   "index": 3
+  },
+  {
+   "seed": "\u00d3\u2204\u00c5\u03a9\u0104\uff9e\u0149\uff9e",
+   "nameKey": "\u00f3\u2204\u00e5\u03c9\u0105\uff9e\u0149\uff9e",
+   "hash": "6033888412143759604",
+   "index": 4
+  },
+  {
+   "seed": ",\u11a8b",
+   "nameKey": ",\u11a8b",
+   "hash": "6163490863307623014",
+   "index": 4
+  },
+  {
+   "seed": "\u0130\u0345\uff21\u216b\u0345[",
+   "nameKey": "i\u0307\u0345\uff41\u217b\u0345[",
+   "hash": "15605707865547881595",
+   "index": 5
+  },
+  {
+   "seed": "/ \u094d/",
+   "nameKey": "/ /",
+   "hash": "17221822252333051823",
+   "index": 3
+  },
+  {
+   "seed": "\ud83c\uddf1\ufb01\u00f3\u001f\u0119\u0119\u03c2\ufeff",
+   "nameKey": "\ud83c\uddf1\ufb01\u00f3\u001f\u0119\u0119\u03c2\ufeff",
+   "hash": "10864914807750153347",
+   "index": 7
+  },
+  {
+   "seed": "a\u017b\u017c\u03c2\u20e3",
+   "nameKey": "a\u017c\u017c\u03c2\u20e3",
+   "hash": "9942815101375394351",
+   "index": 1
+  },
+  {
+   "seed": "\u0143\u03c3\u0143",
+   "nameKey": "\u0144\u03c3\u0144",
+   "hash": "16448250352128726607",
+   "index": 7
+  },
+  {
+   "seed": "\u00b5\ufb06\u00b2",
+   "nameKey": "\u00b5\ufb06\u00b2",
+   "hash": "3037469748466500415",
+   "index": 5
+  },
+  {
+   "seed": "\u2028\u01c6",
+   "nameKey": "\u01c6",
+   "hash": "771610905230046336",
+   "index": 6
+  },
+  {
+   "seed": "\u20e3\u0119\u24d0\u0144\u2013\uac00",
+   "nameKey": "\u20e3\u0119\u24d0\u0144\u2013\uac00",
+   "hash": "6923376458803154691",
+   "index": 1
+  },
+  {
+   "seed": "\u0153\u0118\r\u00f8\u0328\uac009\u11a8",
+   "nameKey": "\u0153\u0119 \u00f8\u0328\uac009\u11a8",
+   "hash": "14101705041910162389",
+   "index": 9
+  },
+  {
+   "seed": "\u0903\u00c6",
+   "nameKey": "\u0903\u00e6",
+   "hash": "613479169053896443",
+   "index": 3
+  },
+  {
+   "seed": "Z\u0105\"\r\n\u200cz\ufeff",
+   "nameKey": "z\u0105\" \u200cz\ufeff",
+   "hash": "8904387968228514975",
+   "index": 5
+  },
+  {
+   "seed": "\ud83d\udc68\ud83c\uddf5\uff11",
+   "nameKey": "\ud83d\udc68\ud83c\uddf5\uff11",
+   "hash": "11492376184400207490",
+   "index": 0
+  },
+  {
+   "seed": "/\u00d3\u0916\u4e00ZK\u001f",
+   "nameKey": "/\u00f3\u0916\u4e00zk\u001f",
+   "hash": "17801035093011878554",
+   "index": 4
+  },
+  {
+   "seed": "9K",
+   "nameKey": "9k",
+   "hash": "582192539517462861",
+   "index": 1
+  },
+  {
+   "seed": "\u0001\uff11",
+   "nameKey": "\u0001\uff11",
+   "hash": "14627285295155152202",
+   "index": 2
+  },
+  {
+   "seed": "\ufb00\u0085a\u001f",
+   "nameKey": "\ufb00 a\u001f",
+   "hash": "1642963843300653966",
+   "index": 6
+  },
+  {
+   "seed": "x\ufeffb\u0001K&\ud83c\uddf1\u0328",
+   "nameKey": "x\ufeffb\u0001k&\ud83c\uddf1\u0328",
+   "hash": "13455152591127001387",
+   "index": 7
+  },
+  {
+   "seed": "-\u001f\u200b\u093c",
+   "nameKey": "-\u001f\u200b\u093c",
+   "hash": "16438947668984713796",
+   "index": 6
+  },
+  {
+   "seed": "\u0903\uff21",
+   "nameKey": "\u0903\uff41",
+   "hash": "4519064753546257017",
+   "index": 7
+  },
+  {
+   "seed": "\u015a\u0153(\ufb00\u0179",
+   "nameKey": "\u015b\u0153(\ufb00\u017a",
+   "hash": "10267704722454098067",
+   "index": 7
+  },
+  {
+   "seed": "!\u0001\r\n\u0587\u2013",
+   "nameKey": "!\u0001 \u0587\u2013",
+   "hash": "17332294280625256913",
+   "index": 3
+  },
+  {
+   "seed": "\u1100\u0660\u0143\u015a\u03a9\ud83c\uddf5\u03a9-",
+   "nameKey": "\u1100\u0660\u0144\u015b\u03c9\ud83c\uddf5\u03c9-",
+   "hash": "13216289859090910396",
+   "index": 6
+  },
+  {
+   "seed": "\u00b5",
+   "nameKey": "\u00b5",
+   "hash": "776166181904778384",
+   "index": 4
+  },
+  {
+   "seed": "\u0143\u00b2\u0149\u03a3",
+   "nameKey": "\u0144\u00b2\u0149\u03c3",
+   "hash": "208095858203383460",
+   "index": 0
+  },
+  {
+   "seed": "&,\u200d\u1e9b\u0149",
+   "nameKey": "&,\u200d\u1e9b\u0149",
+   "hash": "14460917519864342522",
+   "index": 2
+  },
+  {
+   "seed": "\ud83d\udc69\u00c5",
+   "nameKey": "\ud83d\udc69\u00e5",
+   "hash": "11696709788532756950",
+   "index": 0
+  },
+  {
+   "seed": "\ufb06\u102b",
+   "nameKey": "\ufb06\u102b",
+   "hash": "3680790777586547414",
+   "index": 4
+  },
+  {
+   "seed": "\u2028\u017b)\u0915",
+   "nameKey": "\u017c)\u0915",
+   "hash": "8781619730766833170",
+   "index": 0
+  },
+  {
+   "seed": ".]\u200c\u0179\uff5a,",
+   "nameKey": ".]\u200c\u017a\uff5a,",
+   "hash": "11810004804592435955",
+   "index": 5
+  },
+  {
+   "seed": "\t\u1f80;\u015b",
+   "nameKey": "\u1f80;\u015b",
+   "hash": "16857272839006965971",
+   "index": 1
+  },
+  {
+   "seed": "\u0118\u01c4\u0149\u0105",
+   "nameKey": "\u0119\u01c6\u0149\u0105",
+   "hash": "4485295515971791706",
+   "index": 6
+  },
+  {
+   "seed": "\ufe0f\r\n\u0105&",
+   "nameKey": "\ufe0f \u0105&",
+   "hash": "16919316923458613900",
+   "index": 0
+  },
+  {
+   "seed": "\u24b6\u0915\u0141\u00b2\uff5a",
+   "nameKey": "\u24d0\u0915\u0142\u00b2\uff5a",
+   "hash": "5728762310043532868",
+   "index": 8
+  },
+  {
+   "seed": "\u00d8\u1fb3\u0105\u015b\u200b\ud83c\uddf1\u1100\u0143",
+   "nameKey": "\u00f8\u1fb3\u0105\u015b\u200b\ud83c\uddf1\u1100\u0144",
+   "hash": "12402411546016412013",
+   "index": 3
+  },
+  {
+   "seed": "\u0119\ufe0f[\u03a3\u0142\ud83c\uddf1\u0085",
+   "nameKey": "\u0119\ufe0f[\u03c3\u0142\ud83c\uddf1",
+   "hash": "4915962702454018467",
+   "index": 7
+  },
+  {
+   "seed": "\uffe3\u200c\t\ufb01Z\u0153b\u0105",
+   "nameKey": "\uffe3\u200c \ufb01z\u0153b\u0105",
+   "hash": "1975114869307329571",
+   "index": 1
+  },
+  {
+   "seed": "\u01f0-\ufb01\u03a9\u015a\u00b2K",
+   "nameKey": "\u01f0-\ufb01\u03c9\u015b\u00b2k",
+   "hash": "3550132955865758438",
+   "index": 8
+  },
+  {
+   "seed": "\u0141\u0118\uff21.\uab70\ufeff",
+   "nameKey": "\u0142\u0119\uff41.\uab70\ufeff",
+   "hash": "14279268915197487232",
+   "index": 2
+  },
+  {
+   "seed": " \u03a9",
+   "nameKey": "\u03c9",
+   "hash": "778980931672430869",
+   "index": 9
+  },
+  {
+   "seed": "[\u4e00\ufb06",
+   "nameKey": "[\u4e00\ufb06",
+   "hash": "7278750952045912661",
+   "index": 1
+  },
+  {
+   "seed": "\u200c",
+   "nameKey": "\u200c",
+   "hash": "6215068759092146569",
+   "index": 9
+  },
+  {
+   "seed": "\u1161\u00d3\u0119",
+   "nameKey": "\u1161\u00f3\u0119",
+   "hash": "8849741462873317411",
+   "index": 1
+  },
+  {
+   "seed": "\u0104\u0131\u015a\ud83d\udc69\u01190\u03a3",
+   "nameKey": "\u0105\u0131\u015b\ud83d\udc69\u01190\u03c3",
+   "hash": "6711612248624914849",
+   "index": 9
+  },
+  {
+   "seed": "\u0085]\u0153",
+   "nameKey": "]\u0153",
+   "hash": "11944916314963544940",
+   "index": 0
+  },
+  {
+   "seed": "\u01c4\uffe3\u00c5\u11a8\u0587",
+   "nameKey": "\u01c6\uffe3\u00e5\u11a8\u0587",
+   "hash": "6870372151389932919",
+   "index": 9
+  },
+  {
+   "seed": "\u00c6\u017a\u00c5z\u0142\u0001\ud83d\udc69",
+   "nameKey": "\u00e6\u017a\u00e5z\u0142\u0001\ud83d\udc69",
+   "hash": "2839345618695409572",
+   "index": 2
+  },
+  {
+   "seed": "\u3000\u0916",
+   "nameKey": "\u0916",
+   "hash": "4687174206775107637",
+   "index": 7
+  },
+  {
+   "seed": "\u0143\n\u0301\ud83d\udc69",
+   "nameKey": "\u0144 \u0301\ud83d\udc69",
+   "hash": "2113908561354478040",
+   "index": 0
+  },
+  {
+   "seed": "/\u01f0\ufb01",
+   "nameKey": "/\u01f0\ufb01",
+   "hash": "15891338588618110873",
+   "index": 3
+  },
+  {
+   "seed": "z\u2009\"\u200b\u0153",
+   "nameKey": "z \"\u200b\u0153",
+   "hash": "2882765959330875994",
+   "index": 4
+  },
+  {
+   "seed": "\u0587\u00d3",
+   "nameKey": "\u0587\u00f3",
+   "hash": "15914968135084947656",
+   "index": 6
+  },
+  {
+   "seed": ".",
+   "nameKey": ".",
+   "hash": "12638124528392833969",
+   "index": 9
+  },
+  {
+   "seed": "\u1f80(\u01c5\u2028K",
+   "nameKey": "\u1f80(\u01c6 k",
+   "hash": "13509056727466031114",
+   "index": 4
+  },
+  {
+   "seed": "\u1161",
+   "nameKey": "\u1161",
+   "hash": "4339469047626113566",
+   "index": 6
+  },
+  {
+   "seed": "\ud83c\uddf5\u017a\u0660.x",
+   "nameKey": "\ud83c\uddf5\u017a\u0660.x",
+   "hash": "8513511511977998576",
+   "index": 6
+  },
+  {
+   "seed": "\u2009\u0085 \u00d3\u00a0\ufe0f\uff9e\u200b",
+   "nameKey": "\u00f3 \u200b",
+   "hash": "485999140739609560",
+   "index": 0
+  }
+ ],
+ "initials": [
+  {
+   "input": "Harry Potter i Czara Ognia",
+   "title": "HP",
+   "person": "HO"
+  },
+  {
+   "input": "Ostatnie \u017cyczenie",
+   "title": "O\u017b",
+   "person": "O\u017b"
+  },
+  {
+   "input": "Ursula K. Le Guin",
+   "title": "UK",
+   "person": "UG"
+  },
+  {
+   "input": "Wied\u017amin",
+   "title": "W",
+   "person": "W"
+  },
+  {
+   "input": "a",
+   "title": "A",
+   "person": "A"
+  },
+  {
+   "input": "",
+   "title": "",
+   "person": "?"
+  },
+  {
+   "input": " ",
+   "title": " ",
+   "person": "?"
+  },
+  {
+   "input": "  x  ",
+   "title": " ",
+   "person": "X"
+  },
+  {
+   "input": "\u0118",
+   "title": "\u0118",
+   "person": "\u0118"
+  },
+  {
+   "input": "I",
+   "title": "I",
+   "person": "I"
+  },
+  {
+   "input": "W pustyni i w puszczy",
+   "title": "PP",
+   "person": "WP"
+  },
+  {
+   "input": "O",
+   "title": "O",
+   "person": "O"
+  },
+  {
+   "input": "\u201eAnia\u201d z Zielonego Wzg\u00f3rza",
+   "title": "\u201eZ",
+   "person": "\u201eW"
+  },
+  {
+   "input": "\u00df stra\u00dfe",
+   "title": "S",
+   "person": "SSS"
+  },
+  {
+   "input": "\u01c6ungla \u01c9",
+   "title": "\u01c4",
+   "person": "\u01c4\u01c7"
+  },
+  {
+   "input": "Andrzej Sapkowski",
+   "title": "AS",
+   "person": "AS"
+  },
+  {
+   "input": "Sapkowski",
+   "title": "S",
+   "person": "S"
+  },
+  {
+   "input": "J. R. R. Tolkien",
+   "title": "JR",
+   "person": "JT"
+  },
+  {
+   "input": "1984",
+   "title": "1",
+   "person": "1"
+  },
+  {
+   "input": "12 prac Asteriksa",
+   "title": "1P",
+   "person": "1A"
+  },
+  {
+   "input": "\u0149 abc",
+   "title": "A",
+   "person": "\u02bcNA"
+  },
+  {
+   "input": "a b c",
+   "title": "A",
+   "person": "AC"
+  },
+  {
+   "input": "ab",
+   "title": "A",
+   "person": "A"
+  },
+  {
+   "input": "a bc",
+   "title": "B",
+   "person": "AB"
+  },
+  {
+   "input": "z\u0307ycie c\u0301ma",
+   "title": "\u017b\u0106",
+   "person": "\u017b\u0106"
+  },
+  {
+   "input": "\ud83d\udc4d\ud83c\udffd emoji",
+   "title": "E",
+   "person": "\ud83d\udc4d\ud83c\udffdE"
+  },
+  {
+   "input": "\u0130zmir",
+   "title": "\u0130",
+   "person": "\u0130"
+  },
+  {
+   "input": "  \u0141  ",
+   "title": " ",
+   "person": "\u0141"
+  },
+  {
+   "input": "i i",
+   "title": "I",
+   "person": "II"
+  },
+  {
+   "input": "Marta Galewska-Kustra",
+   "title": "MG",
+   "person": "MG"
+  },
+  {
+   "input": "Ewa Stadtm\u00fcller",
+   "title": "ES",
+   "person": "ES"
+  },
+  {
+   "input": "Ludwik Jerzy Kern",
+   "title": "LJ",
+   "person": "LK"
+  },
+  {
+   "input": "0\uab70\u015a\uff21\u1e9e",
+   "title": "0",
+   "person": "0"
+  },
+  {
+   "input": "\u00c6/,\u200b\u03a9\u0153\u0141(",
+   "title": "\u00c6",
+   "person": "\u00c6"
+  },
+  {
+   "input": "\u00d3\u2204\u00c5\u03a9\u0104\uff9e\u0149\uff9e",
+   "title": "\u00d3",
+   "person": "\u00d3"
+  },
+  {
+   "input": ",\u11a8b",
+   "title": ",",
+   "person": ","
+  },
+  {
+   "input": "\u0130\u0345\uff21\u216b\u0345[",
+   "title": "\u0130\u0399",
+   "person": "\u0130\u0399"
+  },
+  {
+   "input": "/ \u094d/",
+   "title": "/",
+   "person": "//"
+  },
+  {
+   "input": "\ud83c\uddf1\ufb01\u00f3\u001f\u0119\u0119\u03c2\ufeff",
+   "title": "\ud83c\uddf1",
+   "person": "\ud83c\uddf1"
+  },
+  {
+   "input": "a\u017b\u017c\u03c2\u20e3",
+   "title": "A",
+   "person": "A"
+  },
+  {
+   "input": "\u0143\u03c3\u0143",
+   "title": "\u0143",
+   "person": "\u0143"
+  },
+  {
+   "input": "\u00b5\ufb06\u00b2",
+   "title": "\u039c",
+   "person": "\u039c"
+  },
+  {
+   "input": "\u2028\u01c6",
+   "title": "\u2028",
+   "person": "\u01c4"
+  },
+  {
+   "input": "\u20e3\u0119\u24d0\u0144\u2013\uac00",
+   "title": "\u20e3",
+   "person": "\u20e3"
+  },
+  {
+   "input": "\u0153\u0118\r\u00f8\u0328\uac009\u11a8",
+   "title": "\u0152\u00d8\u0328",
+   "person": "\u0152\u00d8\u0328"
+  },
+  {
+   "input": "\u0903\u00c6",
+   "title": "\u0903",
+   "person": "\u0903"
+  },
+  {
+   "input": "Z\u0105\"\r\n\u200cz\ufeff",
+   "title": "Z",
+   "person": "Z"
+  },
+  {
+   "input": "\ud83d\udc68\ud83c\uddf5\uff11",
+   "title": "\ud83d\udc68",
+   "person": "\ud83d\udc68"
+  },
+  {
+   "input": "/\u00d3\u0916\u4e00ZK\u001f",
+   "title": "/",
+   "person": "/"
+  },
+  {
+   "input": "9K",
+   "title": "9",
+   "person": "9"
+  },
+  {
+   "input": "\u0001\uff11",
+   "title": "\u0001",
+   "person": "\u0001"
+  },
+  {
+   "input": "\ufb00\u0085a\u001f",
+   "title": "A",
+   "person": "FFA"
+  },
+  {
+   "input": "x\ufeffb\u0001K&\ud83c\uddf1\u0328",
+   "title": "X",
+   "person": "X"
+  },
+  {
+   "input": "-\u001f\u200b\u093c",
+   "title": "-",
+   "person": "-"
+  },
+  {
+   "input": "\u0903\uff21",
+   "title": "\u0903",
+   "person": "\u0903"
+  },
+  {
+   "input": "\u015a\u0153(\ufb00\u0179",
+   "title": "\u015a",
+   "person": "\u015a"
+  },
+  {
+   "input": "!\u0001\r\n\u0587\u2013",
+   "title": "!\u0535\u0552",
+   "person": "!\u0535\u0552"
+  },
+  {
+   "input": "\u1100\u0660\u0143\u015a\u03a9\ud83c\uddf5\u03a9-",
+   "title": "\u1100",
+   "person": "\u1100"
+  },
+  {
+   "input": "\u00b5",
+   "title": "\u039c",
+   "person": "\u039c"
+  },
+  {
+   "input": "\u0143\u00b2\u0149\u03a3",
+   "title": "\u0143",
+   "person": "\u0143"
+  },
+  {
+   "input": "&,\u200d\u1e9b\u0149",
+   "title": "&",
+   "person": "&"
+  },
+  {
+   "input": "\ud83d\udc69\u00c5",
+   "title": "\ud83d\udc69",
+   "person": "\ud83d\udc69"
+  },
+  {
+   "input": "\ufb06\u102b",
+   "title": "ST",
+   "person": "ST"
+  },
+  {
+   "input": "\u2028\u017b)\u0915",
+   "title": "\u017b",
+   "person": "\u017b"
+  },
+  {
+   "input": ".]\u200c\u0179\uff5a,",
+   "title": ".",
+   "person": "."
+  },
+  {
+   "input": "\t\u1f80;\u015b",
+   "title": "\u1f08\u0399",
+   "person": "\u1f08\u0399"
+  },
+  {
+   "input": "\u0118\u01c4\u0149\u0105",
+   "title": "\u0118",
+   "person": "\u0118"
+  },
+  {
+   "input": "\ufe0f\r\n\u0105&",
+   "title": "\u0104",
+   "person": "\ufe0f\u0104"
+  },
+  {
+   "input": "\u24b6\u0915\u0141\u00b2\uff5a",
+   "title": "\u24b6",
+   "person": "\u24b6"
+  },
+  {
+   "input": "\u00d8\u1fb3\u0105\u015b\u200b\ud83c\uddf1\u1100\u0143",
+   "title": "\u00d8",
+   "person": "\u00d8"
+  },
+  {
+   "input": "\u0119\ufe0f[\u03a3\u0142\ud83c\uddf1\u0085",
+   "title": "\u0118\ufe0f",
+   "person": "\u0118\ufe0f"
+  },
+  {
+   "input": "\uffe3\u200c\t\ufb01Z\u0153b\u0105",
+   "title": "FI",
+   "person": "\uffe3\u200cFI"
+  },
+  {
+   "input": "\u01f0-\ufb01\u03a9\u015a\u00b2K",
+   "title": "J\u030c",
+   "person": "J\u030c"
+  },
+  {
+   "input": "\u0141\u0118\uff21.\uab70\ufeff",
+   "title": "\u0141",
+   "person": "\u0141"
+  },
+  {
+   "input": " \u03a9",
+   "title": " ",
+   "person": "\u03a9"
+  },
+  {
+   "input": "[\u4e00\ufb06",
+   "title": "[",
+   "person": "["
+  },
+  {
+   "input": "\u200c",
+   "title": "\u200c",
+   "person": "\u200c"
+  },
+  {
+   "input": "\u1161\u00d3\u0119",
+   "title": "\u1161",
+   "person": "\u1161"
+  },
+  {
+   "input": "\u0104\u0131\u015a\ud83d\udc69\u01190\u03a3",
+   "title": "\u0104",
+   "person": "\u0104"
+  },
+  {
+   "input": "\u0085]\u0153",
+   "title": "]",
+   "person": "]"
+  },
+  {
+   "input": "\u01c4\uffe3\u00c5\u11a8\u0587",
+   "title": "\u01c4",
+   "person": "\u01c4"
+  },
+  {
+   "input": "\u00c6\u017a\u00c5z\u0142\u0001\ud83d\udc69",
+   "title": "\u00c6",
+   "person": "\u00c6"
+  },
+  {
+   "input": "\u3000\u0916",
+   "title": "\u3000",
+   "person": "\u0916"
+  },
+  {
+   "input": "\u0143\n\u0301\ud83d\udc69",
+   "title": "\u0143",
+   "person": "\u0143"
+  },
+  {
+   "input": "/\u01f0\ufb01",
+   "title": "/",
+   "person": "/"
+  },
+  {
+   "input": "z\u2009\"\u200b\u0153",
+   "title": "\"",
+   "person": "Z\""
+  },
+  {
+   "input": "\u0587\u00d3",
+   "title": "\u0535\u0552",
+   "person": "\u0535\u0552"
+  },
+  {
+   "input": ".",
+   "title": ".",
+   "person": "."
+  },
+  {
+   "input": "\u1f80(\u01c5\u2028K",
+   "title": "\u1f08\u0399",
+   "person": "\u1f08\u0399K"
+  },
+  {
+   "input": "\u1161",
+   "title": "\u1161",
+   "person": "\u1161"
+  },
+  {
+   "input": "\ud83c\uddf5\u017a\u0660.x",
+   "title": "\ud83c\uddf5",
+   "person": "\ud83c\uddf5"
+  },
+  {
+   "input": "\u2009\u0085 \u00d3\u00a0\ufe0f\uff9e\u200b",
+   "title": "\u2009",
+   "person": "\u00d3\u200b"
+  }
+ ]
+}

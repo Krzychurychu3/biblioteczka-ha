@@ -1,0 +1,267 @@
+/* Biblioteczka – drobne uzupełnienia wyglądu ekranów (karty nagłówków, wiersze tomów,
+ * kafelki na karcie Serie). Dołączane przez js/screens/common.js. Zmienne z app.css. */
+
+/* ───────────── Karta „Serie” ───────────── */
+
+.series-dashboard {
+  margin-bottom: 20px;
+}
+
+.series-dashboard .section-body {
+  display: grid;
+  gap: 14px;
+}
+
+.empty-filter-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  white-space: normal;
+}
+
+.empty-filter-icon {
+  flex: none;
+  width: 21px;
+  height: 21px;
+}
+
+.empty-extra {
+  margin-top: 8px;
+}
+
+.cover-job {
+  display: grid;
+  gap: 8px;
+  padding: 12px 16px;
+}
+
+.cover-job-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+}
+
+.cover-job-icon {
+  flex: none;
+  width: 19px;
+  height: 19px;
+  color: var(--accent-text);
+}
+
+.cover-job-title {
+  flex: 1;
+  min-width: 0;
+  font-size: 15px;
+  line-height: 20px;
+  font-weight: 500;
+}
+
+.cover-job-count,
+.cover-job-found {
+  flex: none;
+  font-size: 13px;
+  line-height: 18px;
+  color: var(--label-2);
+}
+
+/* ───────────── Wiersze ───────────── */
+
+.series-row .row-text {
+  gap: 3px;
+}
+
+.series-row .row-detail {
+  margin-top: 2px;
+}
+
+.row-detail > .series-row-progress {
+  flex: 1 1 100%;
+  min-width: 0;
+}
+
+.series-row-progress > .progress {
+  flex: 1;
+  min-width: 0;
+}
+
+.series-row-status {
+  font-weight: 500;
+}
+
+.book-row-series {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  min-width: 0;
+  max-width: 100%;
+}
+
+.book-row-series > .icon {
+  flex: none;
+}
+
+.placeholder-row .row-title {
+  color: var(--label-2);
+  font-weight: 500;
+}
+
+.placeholder-row .row-subtitle {
+  font-size: 12px;
+  line-height: 16px;
+  color: var(--label-3);
+}
+
+.placeholder-add {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 36px;
+  height: 44px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--accent);
+  cursor: pointer;
+}
+
+.placeholder-add .icon {
+  width: 25px;
+  height: 25px;
+}
+
+/* ───────────── Karty nagłówków (seria, autor) ───────────── */
+
+.detail-header {
+  margin-bottom: 24px;
+}
+
+.series-header,
+.author-header {
+  display: flex;
+  align-items: center;
+  min-width: 0;
+}
+
+.series-header {
+  gap: 18px;
+}
+
+.author-header {
+  gap: 16px;
+}
+
+.series-header-body,
+.author-header-body {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.series-header-body {
+  gap: 8px;
+}
+
+.author-header-body {
+  gap: 6px;
+}
+
+.series-count {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0 5px;
+  font-family: var(--font-rounded);
+}
+
+.series-count-value {
+  font-size: 28px;
+  line-height: 34px;
+  font-weight: 700;
+}
+
+.series-count-caption {
+  font-size: 17px;
+  line-height: 22px;
+  font-weight: 600;
+  color: var(--label-2);
+}
+
+.series-status {
+  font-size: 13px;
+  line-height: 18px;
+  font-weight: 500;
+  overflow-wrap: anywhere;
+}
+
+.series-status-stack {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+}
+
+.series-status .series-size-btn {
+  min-height: 28px;
+  padding: 2px 0;
+  font-size: 13px;
+  font-weight: 500;
+  gap: 5px;
+}
+
+.series-status .series-size-btn .icon {
+  width: 16px;
+  height: 16px;
+}
+
+.series-status-complete {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.series-status-complete .icon {
+  width: 16px;
+  height: 16px;
+}
+
+.author-header-summary {
+  margin: 0;
+  font-size: 17px;
+  line-height: 22px;
+  font-weight: 600;
+  overflow-wrap: anywhere;
+}
+
+.author-header-stats {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 12px;
+  font-size: 13px;
+  line-height: 18px;
+  font-weight: 500;
+}
+
+.author-header-stats > span {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.author-header-stats .icon {
+  width: 14px;
+  height: 14px;
+}
+
+.text-indigo {
+  color: var(--indigo);
+}
+
+@media (prefers-color-scheme: dark) {
+  .text-indigo {
+    color: #7d7aff;
+  }
+}

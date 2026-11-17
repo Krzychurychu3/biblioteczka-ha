@@ -1,0 +1,5 @@
+{
+  "private": true,
+  "description": "Pozwala uruchomić `node --test tests/js/` – Node 22+ nie rozwija katalogów, więc wczytuje all.mjs.",
+  "main": "all.mjs"
+}

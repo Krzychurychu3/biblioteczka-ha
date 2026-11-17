@@ -1,0 +1,1829 @@
+{
+ "_source": "Wygenerowane z oryginalnego kodu Swift (Biblioteczka/Models, Theme/Palette.swift) \u2013 nie edytowa\u0107 r\u0119cznie.",
+ "cases": [
+  {
+   "n": 0,
+   "noun": "book",
+   "count": "0 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 0,
+   "noun": "series",
+   "count": "0 serii",
+   "form": "serii"
+  },
+  {
+   "n": 0,
+   "noun": "volume",
+   "count": "0 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 0,
+   "noun": "author",
+   "count": "0 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 1,
+   "noun": "book",
+   "count": "1 ksi\u0105\u017cka",
+   "form": "ksi\u0105\u017cka"
+  },
+  {
+   "n": 1,
+   "noun": "series",
+   "count": "1 seria",
+   "form": "seria"
+  },
+  {
+   "n": 1,
+   "noun": "volume",
+   "count": "1 tom",
+   "form": "tom"
+  },
+  {
+   "n": 1,
+   "noun": "author",
+   "count": "1 autor",
+   "form": "autor"
+  },
+  {
+   "n": 2,
+   "noun": "book",
+   "count": "2 ksi\u0105\u017cki",
+   "form": "ksi\u0105\u017cki"
+  },
+  {
+   "n": 2,
+   "noun": "series",
+   "count": "2 serie",
+   "form": "serie"
+  },
+  {
+   "n": 2,
+   "noun": "volume",
+   "count": "2 tomy",
+   "form": "tomy"
+  },
+  {
+   "n": 2,
+   "noun": "author",
+   "count": "2 autorzy",
+   "form": "autorzy"
+  },
+  {
+   "n": 3,
+   "noun": "book",
+   "count": "3 ksi\u0105\u017cki",
+   "form": "ksi\u0105\u017cki"
+  },
+  {
+   "n": 3,
+   "noun": "series",
+   "count": "3 serie",
+   "form": "serie"
+  },
+  {
+   "n": 3,
+   "noun": "volume",
+   "count": "3 tomy",
+   "form": "tomy"
+  },
+  {
+   "n": 3,
+   "noun": "author",
+   "count": "3 autorzy",
+   "form": "autorzy"
+  },
+  {
+   "n": 4,
+   "noun": "book",
+   "count": "4 ksi\u0105\u017cki",
+   "form": "ksi\u0105\u017cki"
+  },
+  {
+   "n": 4,
+   "noun": "series",
+   "count": "4 serie",
+   "form": "serie"
+  },
+  {
+   "n": 4,
+   "noun": "volume",
+   "count": "4 tomy",
+   "form": "tomy"
+  },
+  {
+   "n": 4,
+   "noun": "author",
+   "count": "4 autorzy",
+   "form": "autorzy"
+  },
+  {
+   "n": 5,
+   "noun": "book",
+   "count": "5 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 5,
+   "noun": "series",
+   "count": "5 serii",
+   "form": "serii"
+  },
+  {
+   "n": 5,
+   "noun": "volume",
+   "count": "5 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 5,
+   "noun": "author",
+   "count": "5 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 6,
+   "noun": "book",
+   "count": "6 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 6,
+   "noun": "series",
+   "count": "6 serii",
+   "form": "serii"
+  },
+  {
+   "n": 6,
+   "noun": "volume",
+   "count": "6 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 6,
+   "noun": "author",
+   "count": "6 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 7,
+   "noun": "book",
+   "count": "7 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 7,
+   "noun": "series",
+   "count": "7 serii",
+   "form": "serii"
+  },
+  {
+   "n": 7,
+   "noun": "volume",
+   "count": "7 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 7,
+   "noun": "author",
+   "count": "7 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 8,
+   "noun": "book",
+   "count": "8 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 8,
+   "noun": "series",
+   "count": "8 serii",
+   "form": "serii"
+  },
+  {
+   "n": 8,
+   "noun": "volume",
+   "count": "8 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 8,
+   "noun": "author",
+   "count": "8 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 9,
+   "noun": "book",
+   "count": "9 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 9,
+   "noun": "series",
+   "count": "9 serii",
+   "form": "serii"
+  },
+  {
+   "n": 9,
+   "noun": "volume",
+   "count": "9 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 9,
+   "noun": "author",
+   "count": "9 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 10,
+   "noun": "book",
+   "count": "10 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 10,
+   "noun": "series",
+   "count": "10 serii",
+   "form": "serii"
+  },
+  {
+   "n": 10,
+   "noun": "volume",
+   "count": "10 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 10,
+   "noun": "author",
+   "count": "10 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 11,
+   "noun": "book",
+   "count": "11 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 11,
+   "noun": "series",
+   "count": "11 serii",
+   "form": "serii"
+  },
+  {
+   "n": 11,
+   "noun": "volume",
+   "count": "11 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 11,
+   "noun": "author",
+   "count": "11 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 12,
+   "noun": "book",
+   "count": "12 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 12,
+   "noun": "series",
+   "count": "12 serii",
+   "form": "serii"
+  },
+  {
+   "n": 12,
+   "noun": "volume",
+   "count": "12 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 12,
+   "noun": "author",
+   "count": "12 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 13,
+   "noun": "book",
+   "count": "13 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 13,
+   "noun": "series",
+   "count": "13 serii",
+   "form": "serii"
+  },
+  {
+   "n": 13,
+   "noun": "volume",
+   "count": "13 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 13,
+   "noun": "author",
+   "count": "13 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 14,
+   "noun": "book",
+   "count": "14 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 14,
+   "noun": "series",
+   "count": "14 serii",
+   "form": "serii"
+  },
+  {
+   "n": 14,
+   "noun": "volume",
+   "count": "14 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 14,
+   "noun": "author",
+   "count": "14 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 15,
+   "noun": "book",
+   "count": "15 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 15,
+   "noun": "series",
+   "count": "15 serii",
+   "form": "serii"
+  },
+  {
+   "n": 15,
+   "noun": "volume",
+   "count": "15 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 15,
+   "noun": "author",
+   "count": "15 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 16,
+   "noun": "book",
+   "count": "16 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 16,
+   "noun": "series",
+   "count": "16 serii",
+   "form": "serii"
+  },
+  {
+   "n": 16,
+   "noun": "volume",
+   "count": "16 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 16,
+   "noun": "author",
+   "count": "16 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 17,
+   "noun": "book",
+   "count": "17 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 17,
+   "noun": "series",
+   "count": "17 serii",
+   "form": "serii"
+  },
+  {
+   "n": 17,
+   "noun": "volume",
+   "count": "17 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 17,
+   "noun": "author",
+   "count": "17 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 18,
+   "noun": "book",
+   "count": "18 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 18,
+   "noun": "series",
+   "count": "18 serii",
+   "form": "serii"
+  },
+  {
+   "n": 18,
+   "noun": "volume",
+   "count": "18 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 18,
+   "noun": "author",
+   "count": "18 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 19,
+   "noun": "book",
+   "count": "19 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 19,
+   "noun": "series",
+   "count": "19 serii",
+   "form": "serii"
+  },
+  {
+   "n": 19,
+   "noun": "volume",
+   "count": "19 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 19,
+   "noun": "author",
+   "count": "19 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 20,
+   "noun": "book",
+   "count": "20 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 20,
+   "noun": "series",
+   "count": "20 serii",
+   "form": "serii"
+  },
+  {
+   "n": 20,
+   "noun": "volume",
+   "count": "20 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 20,
+   "noun": "author",
+   "count": "20 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 21,
+   "noun": "book",
+   "count": "21 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 21,
+   "noun": "series",
+   "count": "21 serii",
+   "form": "serii"
+  },
+  {
+   "n": 21,
+   "noun": "volume",
+   "count": "21 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 21,
+   "noun": "author",
+   "count": "21 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 22,
+   "noun": "book",
+   "count": "22 ksi\u0105\u017cki",
+   "form": "ksi\u0105\u017cki"
+  },
+  {
+   "n": 22,
+   "noun": "series",
+   "count": "22 serie",
+   "form": "serie"
+  },
+  {
+   "n": 22,
+   "noun": "volume",
+   "count": "22 tomy",
+   "form": "tomy"
+  },
+  {
+   "n": 22,
+   "noun": "author",
+   "count": "22 autorzy",
+   "form": "autorzy"
+  },
+  {
+   "n": 23,
+   "noun": "book",
+   "count": "23 ksi\u0105\u017cki",
+   "form": "ksi\u0105\u017cki"
+  },
+  {
+   "n": 23,
+   "noun": "series",
+   "count": "23 serie",
+   "form": "serie"
+  },
+  {
+   "n": 23,
+   "noun": "volume",
+   "count": "23 tomy",
+   "form": "tomy"
+  },
+  {
+   "n": 23,
+   "noun": "author",
+   "count": "23 autorzy",
+   "form": "autorzy"
+  },
+  {
+   "n": 24,
+   "noun": "book",
+   "count": "24 ksi\u0105\u017cki",
+   "form": "ksi\u0105\u017cki"
+  },
+  {
+   "n": 24,
+   "noun": "series",
+   "count": "24 serie",
+   "form": "serie"
+  },
+  {
+   "n": 24,
+   "noun": "volume",
+   "count": "24 tomy",
+   "form": "tomy"
+  },
+  {
+   "n": 24,
+   "noun": "author",
+   "count": "24 autorzy",
+   "form": "autorzy"
+  },
+  {
+   "n": 25,
+   "noun": "book",
+   "count": "25 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 25,
+   "noun": "series",
+   "count": "25 serii",
+   "form": "serii"
+  },
+  {
+   "n": 25,
+   "noun": "volume",
+   "count": "25 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 25,
+   "noun": "author",
+   "count": "25 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 26,
+   "noun": "book",
+   "count": "26 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 26,
+   "noun": "series",
+   "count": "26 serii",
+   "form": "serii"
+  },
+  {
+   "n": 26,
+   "noun": "volume",
+   "count": "26 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 26,
+   "noun": "author",
+   "count": "26 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 27,
+   "noun": "book",
+   "count": "27 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 27,
+   "noun": "series",
+   "count": "27 serii",
+   "form": "serii"
+  },
+  {
+   "n": 27,
+   "noun": "volume",
+   "count": "27 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 27,
+   "noun": "author",
+   "count": "27 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 28,
+   "noun": "book",
+   "count": "28 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 28,
+   "noun": "series",
+   "count": "28 serii",
+   "form": "serii"
+  },
+  {
+   "n": 28,
+   "noun": "volume",
+   "count": "28 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 28,
+   "noun": "author",
+   "count": "28 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 29,
+   "noun": "book",
+   "count": "29 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 29,
+   "noun": "series",
+   "count": "29 serii",
+   "form": "serii"
+  },
+  {
+   "n": 29,
+   "noun": "volume",
+   "count": "29 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 29,
+   "noun": "author",
+   "count": "29 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 30,
+   "noun": "book",
+   "count": "30 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 30,
+   "noun": "series",
+   "count": "30 serii",
+   "form": "serii"
+  },
+  {
+   "n": 30,
+   "noun": "volume",
+   "count": "30 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 30,
+   "noun": "author",
+   "count": "30 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 100,
+   "noun": "book",
+   "count": "100 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 100,
+   "noun": "series",
+   "count": "100 serii",
+   "form": "serii"
+  },
+  {
+   "n": 100,
+   "noun": "volume",
+   "count": "100 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 100,
+   "noun": "author",
+   "count": "100 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 101,
+   "noun": "book",
+   "count": "101 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 101,
+   "noun": "series",
+   "count": "101 serii",
+   "form": "serii"
+  },
+  {
+   "n": 101,
+   "noun": "volume",
+   "count": "101 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 101,
+   "noun": "author",
+   "count": "101 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 102,
+   "noun": "book",
+   "count": "102 ksi\u0105\u017cki",
+   "form": "ksi\u0105\u017cki"
+  },
+  {
+   "n": 102,
+   "noun": "series",
+   "count": "102 serie",
+   "form": "serie"
+  },
+  {
+   "n": 102,
+   "noun": "volume",
+   "count": "102 tomy",
+   "form": "tomy"
+  },
+  {
+   "n": 102,
+   "noun": "author",
+   "count": "102 autorzy",
+   "form": "autorzy"
+  },
+  {
+   "n": 103,
+   "noun": "book",
+   "count": "103 ksi\u0105\u017cki",
+   "form": "ksi\u0105\u017cki"
+  },
+  {
+   "n": 103,
+   "noun": "series",
+   "count": "103 serie",
+   "form": "serie"
+  },
+  {
+   "n": 103,
+   "noun": "volume",
+   "count": "103 tomy",
+   "form": "tomy"
+  },
+  {
+   "n": 103,
+   "noun": "author",
+   "count": "103 autorzy",
+   "form": "autorzy"
+  },
+  {
+   "n": 104,
+   "noun": "book",
+   "count": "104 ksi\u0105\u017cki",
+   "form": "ksi\u0105\u017cki"
+  },
+  {
+   "n": 104,
+   "noun": "series",
+   "count": "104 serie",
+   "form": "serie"
+  },
+  {
+   "n": 104,
+   "noun": "volume",
+   "count": "104 tomy",
+   "form": "tomy"
+  },
+  {
+   "n": 104,
+   "noun": "author",
+   "count": "104 autorzy",
+   "form": "autorzy"
+  },
+  {
+   "n": 105,
+   "noun": "book",
+   "count": "105 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 105,
+   "noun": "series",
+   "count": "105 serii",
+   "form": "serii"
+  },
+  {
+   "n": 105,
+   "noun": "volume",
+   "count": "105 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 105,
+   "noun": "author",
+   "count": "105 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 106,
+   "noun": "book",
+   "count": "106 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 106,
+   "noun": "series",
+   "count": "106 serii",
+   "form": "serii"
+  },
+  {
+   "n": 106,
+   "noun": "volume",
+   "count": "106 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 106,
+   "noun": "author",
+   "count": "106 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 107,
+   "noun": "book",
+   "count": "107 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 107,
+   "noun": "series",
+   "count": "107 serii",
+   "form": "serii"
+  },
+  {
+   "n": 107,
+   "noun": "volume",
+   "count": "107 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 107,
+   "noun": "author",
+   "count": "107 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 108,
+   "noun": "book",
+   "count": "108 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 108,
+   "noun": "series",
+   "count": "108 serii",
+   "form": "serii"
+  },
+  {
+   "n": 108,
+   "noun": "volume",
+   "count": "108 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 108,
+   "noun": "author",
+   "count": "108 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 109,
+   "noun": "book",
+   "count": "109 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 109,
+   "noun": "series",
+   "count": "109 serii",
+   "form": "serii"
+  },
+  {
+   "n": 109,
+   "noun": "volume",
+   "count": "109 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 109,
+   "noun": "author",
+   "count": "109 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 110,
+   "noun": "book",
+   "count": "110 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 110,
+   "noun": "series",
+   "count": "110 serii",
+   "form": "serii"
+  },
+  {
+   "n": 110,
+   "noun": "volume",
+   "count": "110 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 110,
+   "noun": "author",
+   "count": "110 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 111,
+   "noun": "book",
+   "count": "111 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 111,
+   "noun": "series",
+   "count": "111 serii",
+   "form": "serii"
+  },
+  {
+   "n": 111,
+   "noun": "volume",
+   "count": "111 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 111,
+   "noun": "author",
+   "count": "111 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 112,
+   "noun": "book",
+   "count": "112 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 112,
+   "noun": "series",
+   "count": "112 serii",
+   "form": "serii"
+  },
+  {
+   "n": 112,
+   "noun": "volume",
+   "count": "112 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 112,
+   "noun": "author",
+   "count": "112 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 113,
+   "noun": "book",
+   "count": "113 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 113,
+   "noun": "series",
+   "count": "113 serii",
+   "form": "serii"
+  },
+  {
+   "n": 113,
+   "noun": "volume",
+   "count": "113 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 113,
+   "noun": "author",
+   "count": "113 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 114,
+   "noun": "book",
+   "count": "114 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 114,
+   "noun": "series",
+   "count": "114 serii",
+   "form": "serii"
+  },
+  {
+   "n": 114,
+   "noun": "volume",
+   "count": "114 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 114,
+   "noun": "author",
+   "count": "114 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 115,
+   "noun": "book",
+   "count": "115 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 115,
+   "noun": "series",
+   "count": "115 serii",
+   "form": "serii"
+  },
+  {
+   "n": 115,
+   "noun": "volume",
+   "count": "115 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 115,
+   "noun": "author",
+   "count": "115 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 116,
+   "noun": "book",
+   "count": "116 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 116,
+   "noun": "series",
+   "count": "116 serii",
+   "form": "serii"
+  },
+  {
+   "n": 116,
+   "noun": "volume",
+   "count": "116 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 116,
+   "noun": "author",
+   "count": "116 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 117,
+   "noun": "book",
+   "count": "117 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 117,
+   "noun": "series",
+   "count": "117 serii",
+   "form": "serii"
+  },
+  {
+   "n": 117,
+   "noun": "volume",
+   "count": "117 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 117,
+   "noun": "author",
+   "count": "117 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 118,
+   "noun": "book",
+   "count": "118 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 118,
+   "noun": "series",
+   "count": "118 serii",
+   "form": "serii"
+  },
+  {
+   "n": 118,
+   "noun": "volume",
+   "count": "118 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 118,
+   "noun": "author",
+   "count": "118 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 119,
+   "noun": "book",
+   "count": "119 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 119,
+   "noun": "series",
+   "count": "119 serii",
+   "form": "serii"
+  },
+  {
+   "n": 119,
+   "noun": "volume",
+   "count": "119 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 119,
+   "noun": "author",
+   "count": "119 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 120,
+   "noun": "book",
+   "count": "120 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 120,
+   "noun": "series",
+   "count": "120 serii",
+   "form": "serii"
+  },
+  {
+   "n": 120,
+   "noun": "volume",
+   "count": "120 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 120,
+   "noun": "author",
+   "count": "120 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 121,
+   "noun": "book",
+   "count": "121 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 121,
+   "noun": "series",
+   "count": "121 serii",
+   "form": "serii"
+  },
+  {
+   "n": 121,
+   "noun": "volume",
+   "count": "121 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 121,
+   "noun": "author",
+   "count": "121 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 122,
+   "noun": "book",
+   "count": "122 ksi\u0105\u017cki",
+   "form": "ksi\u0105\u017cki"
+  },
+  {
+   "n": 122,
+   "noun": "series",
+   "count": "122 serie",
+   "form": "serie"
+  },
+  {
+   "n": 122,
+   "noun": "volume",
+   "count": "122 tomy",
+   "form": "tomy"
+  },
+  {
+   "n": 122,
+   "noun": "author",
+   "count": "122 autorzy",
+   "form": "autorzy"
+  },
+  {
+   "n": 123,
+   "noun": "book",
+   "count": "123 ksi\u0105\u017cki",
+   "form": "ksi\u0105\u017cki"
+  },
+  {
+   "n": 123,
+   "noun": "series",
+   "count": "123 serie",
+   "form": "serie"
+  },
+  {
+   "n": 123,
+   "noun": "volume",
+   "count": "123 tomy",
+   "form": "tomy"
+  },
+  {
+   "n": 123,
+   "noun": "author",
+   "count": "123 autorzy",
+   "form": "autorzy"
+  },
+  {
+   "n": 124,
+   "noun": "book",
+   "count": "124 ksi\u0105\u017cki",
+   "form": "ksi\u0105\u017cki"
+  },
+  {
+   "n": 124,
+   "noun": "series",
+   "count": "124 serie",
+   "form": "serie"
+  },
+  {
+   "n": 124,
+   "noun": "volume",
+   "count": "124 tomy",
+   "form": "tomy"
+  },
+  {
+   "n": 124,
+   "noun": "author",
+   "count": "124 autorzy",
+   "form": "autorzy"
+  },
+  {
+   "n": 125,
+   "noun": "book",
+   "count": "125 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 125,
+   "noun": "series",
+   "count": "125 serii",
+   "form": "serii"
+  },
+  {
+   "n": 125,
+   "noun": "volume",
+   "count": "125 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 125,
+   "noun": "author",
+   "count": "125 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 1000,
+   "noun": "book",
+   "count": "1000 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 1000,
+   "noun": "series",
+   "count": "1000 serii",
+   "form": "serii"
+  },
+  {
+   "n": 1000,
+   "noun": "volume",
+   "count": "1000 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 1000,
+   "noun": "author",
+   "count": "1000 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 1001,
+   "noun": "book",
+   "count": "1001 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 1001,
+   "noun": "series",
+   "count": "1001 serii",
+   "form": "serii"
+  },
+  {
+   "n": 1001,
+   "noun": "volume",
+   "count": "1001 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 1001,
+   "noun": "author",
+   "count": "1001 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 1002,
+   "noun": "book",
+   "count": "1002 ksi\u0105\u017cki",
+   "form": "ksi\u0105\u017cki"
+  },
+  {
+   "n": 1002,
+   "noun": "series",
+   "count": "1002 serie",
+   "form": "serie"
+  },
+  {
+   "n": 1002,
+   "noun": "volume",
+   "count": "1002 tomy",
+   "form": "tomy"
+  },
+  {
+   "n": 1002,
+   "noun": "author",
+   "count": "1002 autorzy",
+   "form": "autorzy"
+  },
+  {
+   "n": 1004,
+   "noun": "book",
+   "count": "1004 ksi\u0105\u017cki",
+   "form": "ksi\u0105\u017cki"
+  },
+  {
+   "n": 1004,
+   "noun": "series",
+   "count": "1004 serie",
+   "form": "serie"
+  },
+  {
+   "n": 1004,
+   "noun": "volume",
+   "count": "1004 tomy",
+   "form": "tomy"
+  },
+  {
+   "n": 1004,
+   "noun": "author",
+   "count": "1004 autorzy",
+   "form": "autorzy"
+  },
+  {
+   "n": 1005,
+   "noun": "book",
+   "count": "1005 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 1005,
+   "noun": "series",
+   "count": "1005 serii",
+   "form": "serii"
+  },
+  {
+   "n": 1005,
+   "noun": "volume",
+   "count": "1005 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 1005,
+   "noun": "author",
+   "count": "1005 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 1011,
+   "noun": "book",
+   "count": "1011 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 1011,
+   "noun": "series",
+   "count": "1011 serii",
+   "form": "serii"
+  },
+  {
+   "n": 1011,
+   "noun": "volume",
+   "count": "1011 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 1011,
+   "noun": "author",
+   "count": "1011 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 1012,
+   "noun": "book",
+   "count": "1012 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 1012,
+   "noun": "series",
+   "count": "1012 serii",
+   "form": "serii"
+  },
+  {
+   "n": 1012,
+   "noun": "volume",
+   "count": "1012 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 1012,
+   "noun": "author",
+   "count": "1012 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 1014,
+   "noun": "book",
+   "count": "1014 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 1014,
+   "noun": "series",
+   "count": "1014 serii",
+   "form": "serii"
+  },
+  {
+   "n": 1014,
+   "noun": "volume",
+   "count": "1014 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 1014,
+   "noun": "author",
+   "count": "1014 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 1021,
+   "noun": "book",
+   "count": "1021 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 1021,
+   "noun": "series",
+   "count": "1021 serii",
+   "form": "serii"
+  },
+  {
+   "n": 1021,
+   "noun": "volume",
+   "count": "1021 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 1021,
+   "noun": "author",
+   "count": "1021 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 1022,
+   "noun": "book",
+   "count": "1022 ksi\u0105\u017cki",
+   "form": "ksi\u0105\u017cki"
+  },
+  {
+   "n": 1022,
+   "noun": "series",
+   "count": "1022 serie",
+   "form": "serie"
+  },
+  {
+   "n": 1022,
+   "noun": "volume",
+   "count": "1022 tomy",
+   "form": "tomy"
+  },
+  {
+   "n": 1022,
+   "noun": "author",
+   "count": "1022 autorzy",
+   "form": "autorzy"
+  },
+  {
+   "n": 1112,
+   "noun": "book",
+   "count": "1112 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": 1112,
+   "noun": "series",
+   "count": "1112 serii",
+   "form": "serii"
+  },
+  {
+   "n": 1112,
+   "noun": "volume",
+   "count": "1112 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": 1112,
+   "noun": "author",
+   "count": "1112 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": 1000002,
+   "noun": "book",
+   "count": "1000002 ksi\u0105\u017cki",
+   "form": "ksi\u0105\u017cki"
+  },
+  {
+   "n": 1000002,
+   "noun": "series",
+   "count": "1000002 serie",
+   "form": "serie"
+  },
+  {
+   "n": 1000002,
+   "noun": "volume",
+   "count": "1000002 tomy",
+   "form": "tomy"
+  },
+  {
+   "n": 1000002,
+   "noun": "author",
+   "count": "1000002 autorzy",
+   "form": "autorzy"
+  },
+  {
+   "n": -1,
+   "noun": "book",
+   "count": "-1 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": -1,
+   "noun": "series",
+   "count": "-1 serii",
+   "form": "serii"
+  },
+  {
+   "n": -1,
+   "noun": "volume",
+   "count": "-1 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": -1,
+   "noun": "author",
+   "count": "-1 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": -2,
+   "noun": "book",
+   "count": "-2 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": -2,
+   "noun": "series",
+   "count": "-2 serii",
+   "form": "serii"
+  },
+  {
+   "n": -2,
+   "noun": "volume",
+   "count": "-2 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": -2,
+   "noun": "author",
+   "count": "-2 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": -3,
+   "noun": "book",
+   "count": "-3 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": -3,
+   "noun": "series",
+   "count": "-3 serii",
+   "form": "serii"
+  },
+  {
+   "n": -3,
+   "noun": "volume",
+   "count": "-3 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": -3,
+   "noun": "author",
+   "count": "-3 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": -5,
+   "noun": "book",
+   "count": "-5 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": -5,
+   "noun": "series",
+   "count": "-5 serii",
+   "form": "serii"
+  },
+  {
+   "n": -5,
+   "noun": "volume",
+   "count": "-5 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": -5,
+   "noun": "author",
+   "count": "-5 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": -12,
+   "noun": "book",
+   "count": "-12 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": -12,
+   "noun": "series",
+   "count": "-12 serii",
+   "form": "serii"
+  },
+  {
+   "n": -12,
+   "noun": "volume",
+   "count": "-12 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": -12,
+   "noun": "author",
+   "count": "-12 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": -21,
+   "noun": "book",
+   "count": "-21 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": -21,
+   "noun": "series",
+   "count": "-21 serii",
+   "form": "serii"
+  },
+  {
+   "n": -21,
+   "noun": "volume",
+   "count": "-21 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": -21,
+   "noun": "author",
+   "count": "-21 autor\u00f3w",
+   "form": "autor\u00f3w"
+  },
+  {
+   "n": -22,
+   "noun": "book",
+   "count": "-22 ksi\u0105\u017cek",
+   "form": "ksi\u0105\u017cek"
+  },
+  {
+   "n": -22,
+   "noun": "series",
+   "count": "-22 serii",
+   "form": "serii"
+  },
+  {
+   "n": -22,
+   "noun": "volume",
+   "count": "-22 tom\u00f3w",
+   "form": "tom\u00f3w"
+  },
+  {
+   "n": -22,
+   "noun": "author",
+   "count": "-22 autor\u00f3w",
+   "form": "autor\u00f3w"
+  }
+ ]
+}

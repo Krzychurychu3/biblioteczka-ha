@@ -1,0 +1,706 @@
+{
+  "version": 1,
+  "name": "Top 100 współczesnych polskich książek dla dzieci",
+  "books": [
+    {
+      "title": "Felix, Net i Nika oraz Gang Niewidzialnych Ludzi",
+      "author": "Rafał Kosik",
+      "series": "Felix, Net i Nika",
+      "volume": 1,
+      "year": 2004
+    },
+    {
+      "title": "Niesamowite przygody dziesięciu skarpetek (czterech prawych i sześciu lewych)",
+      "author": "Justyna Bednarek",
+      "series": "Niesamowite przygody dziesięciu skarpetek",
+      "volume": null,
+      "year": 2015
+    },
+    {
+      "title": "Felix, Net i Nika oraz Teoretycznie Możliwa Katastrofa",
+      "author": "Rafał Kosik",
+      "series": "Felix, Net i Nika",
+      "volume": 2,
+      "year": 2005
+    },
+    {
+      "title": "Magiczne drzewo. Czerwone krzesło",
+      "author": "Andrzej Maleszka",
+      "series": "Magiczne drzewo",
+      "volume": 1,
+      "year": 2009
+    },
+    {
+      "title": "Asiunia",
+      "author": "Joanna Papuzińska",
+      "series": null,
+      "volume": null,
+      "year": 2011
+    },
+    {
+      "title": "Felix, Net i Nika oraz Pałac Snów",
+      "author": "Rafał Kosik",
+      "series": "Felix, Net i Nika",
+      "volume": 3,
+      "year": 2006
+    },
+    {
+      "title": "Małe Licho i tajemnica Niebożątka",
+      "author": "Marta Kisiel",
+      "series": "Małe Licho",
+      "volume": 1,
+      "year": 2018
+    },
+    {
+      "title": "Pucio uczy się mówić",
+      "author": "Marta Galewska-Kustra",
+      "series": "Pucio",
+      "volume": null,
+      "year": 2016
+    },
+    {
+      "title": "Detektyw Pozytywka",
+      "author": "Grzegorz Kasdepke",
+      "series": "Detektyw Pozytywka",
+      "volume": null,
+      "year": 2005
+    },
+    {
+      "title": "Dynastia Miziołków",
+      "author": "Joanna Olech",
+      "series": null,
+      "volume": null,
+      "year": 1994
+    },
+    {
+      "title": "Felix, Net i Nika oraz Pułapka Nieśmiertelności",
+      "author": "Rafał Kosik",
+      "series": "Felix, Net i Nika",
+      "volume": 4,
+      "year": 2007
+    },
+    {
+      "title": "Rok w lesie",
+      "author": "Emilia Dziubak",
+      "series": null,
+      "volume": null,
+      "year": 2015
+    },
+    {
+      "title": "Proszę mnie przytulić",
+      "author": "Przemysław Wechterowicz",
+      "series": null,
+      "volume": null,
+      "year": 2013
+    },
+    {
+      "title": "Kroniki Archeo. Tajemnica klejnotu Nefertiti",
+      "author": "Agnieszka Stelmaszyk",
+      "series": "Kroniki Archeo",
+      "volume": 1,
+      "year": 2010
+    },
+    {
+      "title": "Magiczne drzewo. Tajemnica mostu",
+      "author": "Andrzej Maleszka",
+      "series": "Magiczne drzewo",
+      "volume": 2,
+      "year": 2010
+    },
+    {
+      "title": "Co robią uczucia?",
+      "author": "Tina Oziewicz",
+      "series": null,
+      "volume": null,
+      "year": 2020
+    },
+    {
+      "title": "Pucio mówi pierwsze słowa",
+      "author": "Marta Galewska-Kustra",
+      "series": "Pucio",
+      "volume": null,
+      "year": 2017
+    },
+    {
+      "title": "Lolek",
+      "author": "Adam Wajrak",
+      "series": null,
+      "volume": null,
+      "year": 2017
+    },
+    {
+      "title": "Pan Kuleczka",
+      "author": "Wojciech Widłak",
+      "series": "Pan Kuleczka",
+      "volume": null,
+      "year": 2002
+    },
+    {
+      "title": "Niezłe ziółko",
+      "author": "Barbara Kosmowska",
+      "series": null,
+      "volume": null,
+      "year": 2016
+    },
+    {
+      "title": "Zezia i Giler",
+      "author": "Agnieszka Chylińska",
+      "series": "Zezia",
+      "volume": null,
+      "year": 2012
+    },
+    {
+      "title": "Za niebieskimi drzwiami",
+      "author": "Marcin Szczygielski",
+      "series": null,
+      "volume": null,
+      "year": 2010
+    },
+    {
+      "title": "Nowe przygody skarpetek (jeszcze bardziej niesamowite)",
+      "author": "Justyna Bednarek",
+      "series": "Niesamowite przygody dziesięciu skarpetek",
+      "volume": null,
+      "year": 2017
+    },
+    {
+      "title": "Magiczne drzewo. Olbrzym",
+      "author": "Andrzej Maleszka",
+      "series": "Magiczne drzewo",
+      "volume": 3,
+      "year": 2011
+    },
+    {
+      "title": "Afryka Kazika",
+      "author": "Łukasz Wierzbicki",
+      "series": null,
+      "volume": null,
+      "year": 2008
+    },
+    {
+      "title": "A ja nie chcę być księżniczką",
+      "author": "Grzegorz Kasdepke",
+      "series": null,
+      "volume": null,
+      "year": 2015
+    },
+    {
+      "title": "Dziadek i niedźwiadek",
+      "author": "Łukasz Wierzbicki",
+      "series": null,
+      "volume": null,
+      "year": 2009
+    },
+    {
+      "title": "Mapy",
+      "author": "Aleksandra Mizielińska i Daniel Mizieliński",
+      "series": null,
+      "volume": null,
+      "year": 2012
+    },
+    {
+      "title": "Kicia Kocia jest chora",
+      "author": "Anita Głowińska",
+      "series": "Kicia Kocia",
+      "volume": null,
+      "year": 2011
+    },
+    {
+      "title": "Wierszyki domowe",
+      "author": "Michał Rusinek",
+      "series": null,
+      "volume": null,
+      "year": 2012
+    },
+    {
+      "title": "Bon czy ton. Savoir-vivre dla dzieci",
+      "author": "Grzegorz Kasdepke",
+      "series": null,
+      "volume": null,
+      "year": 2004
+    },
+    {
+      "title": "Rany Julek! O tym, jak Julian Tuwim został poetą",
+      "author": "Agnieszka Frączek",
+      "series": null,
+      "volume": null,
+      "year": 2013
+    },
+    {
+      "title": "Czarny Młyn",
+      "author": "Marcin Szczygielski",
+      "series": null,
+      "volume": null,
+      "year": 2011
+    },
+    {
+      "title": "Sposób na Elfa",
+      "author": "Marcin Pałasz",
+      "series": "Elfomania",
+      "volume": 1,
+      "year": 2012
+    },
+    {
+      "title": "Miasteczko Mamoko",
+      "author": "Aleksandra Mizielińska i Daniel Mizieliński",
+      "series": "Mamoko",
+      "volume": null,
+      "year": 2010
+    },
+    {
+      "title": "Pucio i ćwiczenia z mówienia",
+      "author": "Marta Galewska-Kustra",
+      "series": "Pucio",
+      "volume": null,
+      "year": 2018
+    },
+    {
+      "title": "Tru",
+      "author": "Barbara Kosmowska",
+      "series": null,
+      "volume": null,
+      "year": 2016
+    },
+    {
+      "title": "Kicia Kocia sprząta",
+      "author": "Anita Głowińska",
+      "series": "Kicia Kocia",
+      "volume": null,
+      "year": 2014
+    },
+    {
+      "title": "Magiczne drzewo. Pojedynek",
+      "author": "Andrzej Maleszka",
+      "series": "Magiczne drzewo",
+      "volume": 4,
+      "year": 2012
+    },
+    {
+      "title": "Banda Czarnej Frotté. Skarpetki powracają!",
+      "author": "Justyna Bednarek",
+      "series": "Niesamowite przygody dziesięciu skarpetek",
+      "volume": null,
+      "year": 2019
+    },
+    {
+      "title": "Uśmiech dla Żabki",
+      "author": "Przemysław Wechterowicz",
+      "series": null,
+      "volume": null,
+      "year": 2014
+    },
+    {
+      "title": "Opowiadania dla przedszkolaków",
+      "author": "Renata Piątkowska",
+      "series": null,
+      "volume": null,
+      "year": 2003
+    },
+    {
+      "title": "Opowiem ci, mamo, co robią auta",
+      "author": "Marcin Brykczyński",
+      "series": "Opowiem ci, mamo",
+      "volume": null,
+      "year": 2014
+    },
+    {
+      "title": "Basia i przedszkole",
+      "author": "Zofia Stanecka",
+      "series": "Basia",
+      "volume": null,
+      "year": 2008
+    },
+    {
+      "title": "Pucio na wakacjach",
+      "author": "Marta Galewska-Kustra",
+      "series": "Pucio",
+      "volume": null,
+      "year": 2018
+    },
+    {
+      "title": "Pompon w rodzinie Fisiów",
+      "author": "Joanna Olech",
+      "series": null,
+      "volume": null,
+      "year": 2007
+    },
+    {
+      "title": "Zosia z ulicy Kociej",
+      "author": "Agnieszka Tyszka",
+      "series": "Zosia z ulicy Kociej",
+      "volume": 1,
+      "year": 2012
+    },
+    {
+      "title": "Nudzimisie",
+      "author": "Rafał Klimczak",
+      "series": "Nudzimisie",
+      "volume": null,
+      "year": 2011
+    },
+    {
+      "title": "Być jak tygrys",
+      "author": "Przemysław Wechterowicz",
+      "series": null,
+      "volume": null,
+      "year": 2016
+    },
+    {
+      "title": "Wszystkie moje mamy",
+      "author": "Renata Piątkowska",
+      "series": null,
+      "volume": null,
+      "year": 2013
+    },
+    {
+      "title": "Kicia Kocia nie może zasnąć",
+      "author": "Anita Głowińska",
+      "series": "Kicia Kocia",
+      "volume": null,
+      "year": 2013
+    },
+    {
+      "title": "Teatr Niewidzialnych Dzieci",
+      "author": "Marcin Szczygielski",
+      "series": null,
+      "volume": null,
+      "year": 2016
+    },
+    {
+      "title": "Pszczoły",
+      "author": "Piotr Socha i Wojciech Grajkowski",
+      "series": null,
+      "volume": null,
+      "year": 2015
+    },
+    {
+      "title": "Pan Kuleczka. Skrzydła",
+      "author": "Wojciech Widłak",
+      "series": "Pan Kuleczka",
+      "volume": null,
+      "year": 2003
+    },
+    {
+      "title": "Kacperiada",
+      "author": "Grzegorz Kasdepke",
+      "series": null,
+      "volume": null,
+      "year": 2001
+    },
+    {
+      "title": "Feluś i Gucio idą do przedszkola",
+      "author": "Katarzyna Kozłowska",
+      "series": "Feluś i Gucio",
+      "volume": null,
+      "year": 2018
+    },
+    {
+      "title": "Tappi i urodzinowe ciasto",
+      "author": "Marcin Mortka",
+      "series": "Tappi i przyjaciele",
+      "volume": null,
+      "year": 2013
+    },
+    {
+      "title": "Opowiadania z piaskownicy",
+      "author": "Renata Piątkowska",
+      "series": null,
+      "volume": null,
+      "year": 2006
+    },
+    {
+      "title": "Arka czasu",
+      "author": "Marcin Szczygielski",
+      "series": null,
+      "volume": null,
+      "year": 2013
+    },
+    {
+      "title": "Dżok. Legenda o psiej wierności",
+      "author": "Barbara Gawryluk",
+      "series": null,
+      "volume": null,
+      "year": 2007
+    },
+    {
+      "title": "Nowe kłopoty detektywa Pozytywki",
+      "author": "Grzegorz Kasdepke",
+      "series": "Detektyw Pozytywka",
+      "volume": null,
+      "year": 2006
+    },
+    {
+      "title": "Opowiem ci, mamo, co robią mrówki",
+      "author": "Marcin Brykczyński",
+      "series": "Opowiem ci, mamo",
+      "volume": null,
+      "year": 2013
+    },
+    {
+      "title": "Pamiętnik Blumki",
+      "author": "Iwona Chmielewska",
+      "series": null,
+      "volume": null,
+      "year": 2011
+    },
+    {
+      "title": "Mama zawsze wraca",
+      "author": "Agata Tuszyńska",
+      "series": null,
+      "volume": null,
+      "year": 2020
+    },
+    {
+      "title": "Kicia Kocia w przedszkolu",
+      "author": "Anita Głowińska",
+      "series": "Kicia Kocia",
+      "volume": null,
+      "year": 2015
+    },
+    {
+      "title": "Pan Kuleczka. Spotkanie",
+      "author": "Wojciech Widłak",
+      "series": "Pan Kuleczka",
+      "volume": null,
+      "year": 2004
+    },
+    {
+      "title": "Basia i Boże Narodzenie",
+      "author": "Zofia Stanecka",
+      "series": "Basia",
+      "volume": null,
+      "year": 2008
+    },
+    {
+      "title": "Pod ziemią, pod wodą",
+      "author": "Aleksandra Mizielińska i Daniel Mizieliński",
+      "series": null,
+      "volume": null,
+      "year": 2015
+    },
+    {
+      "title": "Czy wojna jest dla dziewczyn?",
+      "author": "Paweł Beręsewicz",
+      "series": null,
+      "volume": null,
+      "year": 2010
+    },
+    {
+      "title": "Wesoły Ryjek",
+      "author": "Wojciech Widłak",
+      "series": "Wesoły Ryjek",
+      "volume": null,
+      "year": 2010
+    },
+    {
+      "title": "Kuba i Buba, czyli awantura do kwadratu",
+      "author": "Grzegorz Kasdepke",
+      "series": null,
+      "volume": null,
+      "year": 2003
+    },
+    {
+      "title": "Dawno temu w Mamoko",
+      "author": "Aleksandra Mizielińska i Daniel Mizieliński",
+      "series": "Mamoko",
+      "volume": null,
+      "year": 2011
+    },
+    {
+      "title": "Tappi i poduszka dla Chichotka",
+      "author": "Marcin Mortka",
+      "series": "Tappi i przyjaciele",
+      "volume": null,
+      "year": 2014
+    },
+    {
+      "title": "Opowiem ci, mamo, co robią koty",
+      "author": "Nikola Kucharska",
+      "series": "Opowiem ci, mamo",
+      "volume": null,
+      "year": 2016
+    },
+    {
+      "title": "Basia i nowy braciszek",
+      "author": "Zofia Stanecka",
+      "series": "Basia",
+      "volume": null,
+      "year": 2008
+    },
+    {
+      "title": "Feluś i Gucio poznają emocje",
+      "author": "Katarzyna Kozłowska",
+      "series": "Feluś i Gucio",
+      "volume": null,
+      "year": 2020
+    },
+    {
+      "title": "Florka. Z pamiętnika ryjówki",
+      "author": "Roksana Jędrzejewska-Wróbel",
+      "series": null,
+      "volume": null,
+      "year": 2008
+    },
+    {
+      "title": "D.O.M.E.K.",
+      "author": "Aleksandra Mizielińska i Daniel Mizieliński",
+      "series": null,
+      "volume": null,
+      "year": 2008
+    },
+    {
+      "title": "Zosia z ulicy Kociej. Na tropie",
+      "author": "Agnieszka Tyszka",
+      "series": "Zosia z ulicy Kociej",
+      "volume": 2,
+      "year": 2012
+    },
+    {
+      "title": "Pan Kuleczka. Światło",
+      "author": "Wojciech Widłak",
+      "series": "Pan Kuleczka",
+      "volume": null,
+      "year": 2006
+    },
+    {
+      "title": "Kotka Brygidy",
+      "author": "Joanna Rudniańska",
+      "series": null,
+      "volume": null,
+      "year": 2007
+    },
+    {
+      "title": "Drzewa",
+      "author": "Piotr Socha i Wojciech Grajkowski",
+      "series": null,
+      "volume": null,
+      "year": 2018
+    },
+    {
+      "title": "Teraz tu jest nasz dom",
+      "author": "Barbara Gawryluk",
+      "series": null,
+      "volume": null,
+      "year": 2016
+    },
+    {
+      "title": "Nudzimisie i przyjaciele",
+      "author": "Rafał Klimczak",
+      "series": "Nudzimisie",
+      "volume": null,
+      "year": 2011
+    },
+    {
+      "title": "Tappi i pierwszy śnieg",
+      "author": "Marcin Mortka",
+      "series": "Tappi i przyjaciele",
+      "volume": null,
+      "year": 2013
+    },
+    {
+      "title": "Co tam u Ciumków?",
+      "author": "Paweł Beręsewicz",
+      "series": "Co tam u Ciumków",
+      "volume": null,
+      "year": 2005
+    },
+    {
+      "title": "Opowiem ci, mamo, co robią dinozaury",
+      "author": "Emilia Dziubak",
+      "series": "Opowiem ci, mamo",
+      "volume": null,
+      "year": 2017
+    },
+    {
+      "title": "Ciocia Jadzia",
+      "author": "Eliza Piotrowska",
+      "series": "Ciocia Jadzia",
+      "volume": null,
+      "year": 2009
+    },
+    {
+      "title": "Pięć sprytnych kun",
+      "author": "Justyna Bednarek",
+      "series": null,
+      "volume": null,
+      "year": 2016
+    },
+    {
+      "title": "Basia i upał w zoo",
+      "author": "Zofia Stanecka",
+      "series": "Basia",
+      "volume": null,
+      "year": 2008
+    },
+    {
+      "title": "Żubr Pompik. Tropy na śniegu",
+      "author": "Tomasz Samojlik",
+      "series": "Żubr Pompik",
+      "volume": null,
+      "year": 2009
+    },
+    {
+      "title": "Bezsenność Jutki",
+      "author": "Dorota Combrzyńska-Nogala",
+      "series": null,
+      "volume": null,
+      "year": 2012
+    },
+    {
+      "title": "Jak zakochałem Kaśkę Kwiatek",
+      "author": "Paweł Beręsewicz",
+      "series": null,
+      "volume": null,
+      "year": 2005
+    },
+    {
+      "title": "Puk, puk! Zastałem króla?",
+      "author": "Marcin Przewoźniak",
+      "series": null,
+      "volume": null,
+      "year": 2019
+    },
+    {
+      "title": "Zosia z ulicy Kociej. Na wakacjach",
+      "author": "Agnieszka Tyszka",
+      "series": "Zosia z ulicy Kociej",
+      "volume": 3,
+      "year": 2013
+    },
+    {
+      "title": "Machiną przez Chiny",
+      "author": "Łukasz Wierzbicki",
+      "series": null,
+      "volume": null,
+      "year": 2014
+    },
+    {
+      "title": "Wiłka, smocza dziewczynka",
+      "author": "Antonina Kasprzak",
+      "series": null,
+      "volume": null,
+      "year": 2018
+    },
+    {
+      "title": "Mamoko 3000",
+      "author": "Aleksandra Mizielińska i Daniel Mizieliński",
+      "series": "Mamoko",
+      "volume": null,
+      "year": 2012
+    },
+    {
+      "title": "Żubr Pompik. Zapach wiosny",
+      "author": "Tomasz Samojlik",
+      "series": "Żubr Pompik",
+      "volume": null,
+      "year": 2010
+    },
+    {
+      "title": "Kot Marian i odwiedzacze",
+      "author": "Krzysztof Zapotoczny",
+      "series": "Kot Marian",
+      "volume": null,
+      "year": 2022
+    }
+  ]
+}

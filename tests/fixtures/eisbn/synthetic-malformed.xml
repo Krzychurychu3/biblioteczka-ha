@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXMessage release="3.0" xmlns="http://ns.editeur.org/onix/3.0/reference">
+    <Product>
+        <DescriptiveDetail>
+            <TitleDetail>
+                <TitleElement>
+                    <TitleText>Ucięta odpowiedź</TitleText>
+                </TitleElement>
+            </TitleDetail>
+        </DescriptiveDetail>

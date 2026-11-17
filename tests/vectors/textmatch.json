@@ -1,0 +1,6132 @@
+{
+ "_source": "Wygenerowane z oryginalnego kodu Swift (Biblioteczka/Models, Theme/Palette.swift) \u2013 nie edytowa\u0107 r\u0119cznie.",
+ "verifiedStrings": [
+  "  \u0141\u00d3D\u0179   \u017c\u00f3\u0142\u0107 ",
+  "Mama\tTata\nDziecko",
+  " ",
+  "",
+  "Wied\u017amin",
+  "J.K. Rowling",
+  "J. K. Rowling",
+  "Stra\u00dfe",
+  "\u0104\u0106\u0118\u0141\u0143\u00d3\u015a\u0179\u017b \u0105\u0107\u0119\u0142\u0144\u00f3\u015b\u017a\u017c",
+  "Pucio. M\u00f3wi!",
+  "G\u0119\u015b",
+  "Felix, Net i Nika",
+  "Tom 3\u20134",
+  "Ursula K. Le Guin",
+  "\uff21\uff22\uff23\uff11",
+  "\ufb01lm",
+  "\u00c6sop \u0152uvre \u00f8",
+  "x\u00b2",
+  "\u216b",
+  "Harry Potter i Czara Ognia",
+  "Ostatnie \u017cyczenie",
+  "Pan Tadeusz",
+  "Ziemiomorze"
+ ],
+ "verifiedPairs": [
+  [
+   "Wied\u017amin",
+   "wiedz"
+  ],
+  [
+   "Wied\u017amin",
+   "min"
+  ],
+  [
+   "Harry Potter i Czara Ognia",
+   "czara"
+  ],
+  [
+   "Harry Potter",
+   "xyz"
+  ],
+  [
+   "Harry Potter",
+   "  "
+  ],
+  [
+   "Felix, Net i Nika",
+   "net"
+  ],
+  [
+   "Pan Tadeusz",
+   "pan t"
+  ],
+  [
+   "\u0141\u00f3d\u017a",
+   "lodz"
+  ],
+  [
+   "Ziemiomorze",
+   "morze"
+  ],
+  [
+   "J.K. Rowling",
+   "k. row"
+  ],
+  [
+   "J.K. Rowling",
+   "rowling"
+  ]
+ ],
+ "strings": [
+  {
+   "input": "  \u0141\u00d3D\u0179   \u017c\u00f3\u0142\u0107 ",
+   "cleanedName": "\u0141\u00d3D\u0179 \u017c\u00f3\u0142\u0107",
+   "nameKey": "\u0142\u00f3d\u017a \u017c\u00f3\u0142\u0107",
+   "searchKey": "lodz zolc",
+   "looseKey": "lodzzolc",
+   "wordsKey": "lodz zolc",
+   "nilIfEmpty": "  \u0141\u00d3D\u0179   \u017c\u00f3\u0142\u0107 "
+  },
+  {
+   "input": "Mama\tTata\nDziecko",
+   "cleanedName": "Mama Tata Dziecko",
+   "nameKey": "mama tata dziecko",
+   "searchKey": "mama tata dziecko",
+   "looseKey": "mamatatadziecko",
+   "wordsKey": "mama tata dziecko",
+   "nilIfEmpty": "Mama\tTata\nDziecko"
+  },
+  {
+   "input": " ",
+   "cleanedName": "",
+   "nameKey": "",
+   "searchKey": "",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": " "
+  },
+  {
+   "input": "",
+   "cleanedName": "",
+   "nameKey": "",
+   "searchKey": "",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": null
+  },
+  {
+   "input": "Wied\u017amin",
+   "cleanedName": "Wied\u017amin",
+   "nameKey": "wied\u017amin",
+   "searchKey": "wiedzmin",
+   "looseKey": "wiedzmin",
+   "wordsKey": "wiedzmin",
+   "nilIfEmpty": "Wied\u017amin"
+  },
+  {
+   "input": "J.K. Rowling",
+   "cleanedName": "J.K. Rowling",
+   "nameKey": "j.k. rowling",
+   "searchKey": "j.k. rowling",
+   "looseKey": "jkrowling",
+   "wordsKey": "j k rowling",
+   "nilIfEmpty": "J.K. Rowling"
+  },
+  {
+   "input": "J. K. Rowling",
+   "cleanedName": "J. K. Rowling",
+   "nameKey": "j. k. rowling",
+   "searchKey": "j. k. rowling",
+   "looseKey": "jkrowling",
+   "wordsKey": "j k rowling",
+   "nilIfEmpty": "J. K. Rowling"
+  },
+  {
+   "input": "Stra\u00dfe",
+   "cleanedName": "Stra\u00dfe",
+   "nameKey": "stra\u00dfe",
+   "searchKey": "strasse",
+   "looseKey": "strasse",
+   "wordsKey": "strasse",
+   "nilIfEmpty": "Stra\u00dfe"
+  },
+  {
+   "input": "\u0104\u0106\u0118\u0141\u0143\u00d3\u015a\u0179\u017b \u0105\u0107\u0119\u0142\u0144\u00f3\u015b\u017a\u017c",
+   "cleanedName": "\u0104\u0106\u0118\u0141\u0143\u00d3\u015a\u0179\u017b \u0105\u0107\u0119\u0142\u0144\u00f3\u015b\u017a\u017c",
+   "nameKey": "\u0105\u0107\u0119\u0142\u0144\u00f3\u015b\u017a\u017c \u0105\u0107\u0119\u0142\u0144\u00f3\u015b\u017a\u017c",
+   "searchKey": "acelnoszz acelnoszz",
+   "looseKey": "acelnoszzacelnoszz",
+   "wordsKey": "acelnoszz acelnoszz",
+   "nilIfEmpty": "\u0104\u0106\u0118\u0141\u0143\u00d3\u015a\u0179\u017b \u0105\u0107\u0119\u0142\u0144\u00f3\u015b\u017a\u017c"
+  },
+  {
+   "input": "Pucio. M\u00f3wi!",
+   "cleanedName": "Pucio. M\u00f3wi!",
+   "nameKey": "pucio. m\u00f3wi!",
+   "searchKey": "pucio. mowi!",
+   "looseKey": "puciomowi",
+   "wordsKey": "pucio mowi",
+   "nilIfEmpty": "Pucio. M\u00f3wi!"
+  },
+  {
+   "input": "G\u0119\u015b",
+   "cleanedName": "G\u0119\u015b",
+   "nameKey": "g\u0119\u015b",
+   "searchKey": "ges",
+   "looseKey": "ges",
+   "wordsKey": "ges",
+   "nilIfEmpty": "G\u0119\u015b"
+  },
+  {
+   "input": "Felix, Net i Nika",
+   "cleanedName": "Felix, Net i Nika",
+   "nameKey": "felix, net i nika",
+   "searchKey": "felix, net i nika",
+   "looseKey": "felixnetinika",
+   "wordsKey": "felix net i nika",
+   "nilIfEmpty": "Felix, Net i Nika"
+  },
+  {
+   "input": "Tom 3\u20134",
+   "cleanedName": "Tom 3\u20134",
+   "nameKey": "tom 3\u20134",
+   "searchKey": "tom 3\u20134",
+   "looseKey": "tom34",
+   "wordsKey": "tom 3 4",
+   "nilIfEmpty": "Tom 3\u20134"
+  },
+  {
+   "input": "Ursula K. Le Guin",
+   "cleanedName": "Ursula K. Le Guin",
+   "nameKey": "ursula k. le guin",
+   "searchKey": "ursula k. le guin",
+   "looseKey": "ursulakleguin",
+   "wordsKey": "ursula k le guin",
+   "nilIfEmpty": "Ursula K. Le Guin"
+  },
+  {
+   "input": "\uff21\uff22\uff23\uff11",
+   "cleanedName": "\uff21\uff22\uff23\uff11",
+   "nameKey": "\uff41\uff42\uff43\uff11",
+   "searchKey": "abc1",
+   "looseKey": "abc1",
+   "wordsKey": "abc1",
+   "nilIfEmpty": "\uff21\uff22\uff23\uff11"
+  },
+  {
+   "input": "\ufb01lm",
+   "cleanedName": "\ufb01lm",
+   "nameKey": "\ufb01lm",
+   "searchKey": "film",
+   "looseKey": "film",
+   "wordsKey": "film",
+   "nilIfEmpty": "\ufb01lm"
+  },
+  {
+   "input": "\u00c6sop \u0152uvre \u00f8",
+   "cleanedName": "\u00c6sop \u0152uvre \u00f8",
+   "nameKey": "\u00e6sop \u0153uvre \u00f8",
+   "searchKey": "\u00e6sop \u0153uvre \u00f8",
+   "looseKey": "\u00e6sop\u0153uvre\u00f8",
+   "wordsKey": "\u00e6sop \u0153uvre \u00f8",
+   "nilIfEmpty": "\u00c6sop \u0152uvre \u00f8"
+  },
+  {
+   "input": "x\u00b2",
+   "cleanedName": "x\u00b2",
+   "nameKey": "x\u00b2",
+   "searchKey": "x\u00b2",
+   "looseKey": "x\u00b2",
+   "wordsKey": "x\u00b2",
+   "nilIfEmpty": "x\u00b2"
+  },
+  {
+   "input": "\u216b",
+   "cleanedName": "\u216b",
+   "nameKey": "\u217b",
+   "searchKey": "\u217b",
+   "looseKey": "\u217b",
+   "wordsKey": "\u217b",
+   "nilIfEmpty": "\u216b"
+  },
+  {
+   "input": "Harry Potter i Czara Ognia",
+   "cleanedName": "Harry Potter i Czara Ognia",
+   "nameKey": "harry potter i czara ognia",
+   "searchKey": "harry potter i czara ognia",
+   "looseKey": "harrypottericzaraognia",
+   "wordsKey": "harry potter i czara ognia",
+   "nilIfEmpty": "Harry Potter i Czara Ognia"
+  },
+  {
+   "input": "Ostatnie \u017cyczenie",
+   "cleanedName": "Ostatnie \u017cyczenie",
+   "nameKey": "ostatnie \u017cyczenie",
+   "searchKey": "ostatnie zyczenie",
+   "looseKey": "ostatniezyczenie",
+   "wordsKey": "ostatnie zyczenie",
+   "nilIfEmpty": "Ostatnie \u017cyczenie"
+  },
+  {
+   "input": "Pan Tadeusz",
+   "cleanedName": "Pan Tadeusz",
+   "nameKey": "pan tadeusz",
+   "searchKey": "pan tadeusz",
+   "looseKey": "pantadeusz",
+   "wordsKey": "pan tadeusz",
+   "nilIfEmpty": "Pan Tadeusz"
+  },
+  {
+   "input": "Ziemiomorze",
+   "cleanedName": "Ziemiomorze",
+   "nameKey": "ziemiomorze",
+   "searchKey": "ziemiomorze",
+   "looseKey": "ziemiomorze",
+   "wordsKey": "ziemiomorze",
+   "nilIfEmpty": "Ziemiomorze"
+  },
+  {
+   "input": "a\u001cb",
+   "cleanedName": "a\u001cb",
+   "nameKey": "a\u001cb",
+   "searchKey": "a\u001cb",
+   "looseKey": "ab",
+   "wordsKey": "a b",
+   "nilIfEmpty": "a\u001cb"
+  },
+  {
+   "input": "\u001fx\u001d",
+   "cleanedName": "\u001fx\u001d",
+   "nameKey": "\u001fx\u001d",
+   "searchKey": "\u001fx\u001d",
+   "looseKey": "x",
+   "wordsKey": "x",
+   "nilIfEmpty": "\u001fx\u001d"
+  },
+  {
+   "input": "a\u001e b",
+   "cleanedName": "a\u001e b",
+   "nameKey": "a\u001e b",
+   "searchKey": "a\u001e b",
+   "looseKey": "ab",
+   "wordsKey": "a b",
+   "nilIfEmpty": "a\u001e b"
+  },
+  {
+   "input": "a\u00a0b",
+   "cleanedName": "a b",
+   "nameKey": "a b",
+   "searchKey": "a b",
+   "looseKey": "ab",
+   "wordsKey": "a b",
+   "nilIfEmpty": "a\u00a0b"
+  },
+  {
+   "input": "a\u2009b\u3000c",
+   "cleanedName": "a b c",
+   "nameKey": "a b c",
+   "searchKey": "a b c",
+   "looseKey": "abc",
+   "wordsKey": "a b c",
+   "nilIfEmpty": "a\u2009b\u3000c"
+  },
+  {
+   "input": "a\u0085b",
+   "cleanedName": "a b",
+   "nameKey": "a b",
+   "searchKey": "a b",
+   "looseKey": "ab",
+   "wordsKey": "a b",
+   "nilIfEmpty": "a\u0085b"
+  },
+  {
+   "input": "a\u2028b",
+   "cleanedName": "a b",
+   "nameKey": "a b",
+   "searchKey": "a b",
+   "looseKey": "ab",
+   "wordsKey": "a b",
+   "nilIfEmpty": "a\u2028b"
+  },
+  {
+   "input": "a\u200bb",
+   "cleanedName": "a\u200bb",
+   "nameKey": "a\u200bb",
+   "searchKey": "a\u200bb",
+   "looseKey": "ab",
+   "wordsKey": "a b",
+   "nilIfEmpty": "a\u200bb"
+  },
+  {
+   "input": "Ty\ufefftu\u0142",
+   "cleanedName": "Ty\ufefftu\u0142",
+   "nameKey": "ty\ufefftu\u0142",
+   "searchKey": "ty\ufefftul",
+   "looseKey": "tytul",
+   "wordsKey": "ty tul",
+   "nilIfEmpty": "Ty\ufefftu\u0142"
+  },
+  {
+   "input": "\r\nKsi\u0105\u017cka\r\n",
+   "cleanedName": "Ksi\u0105\u017cka",
+   "nameKey": "ksi\u0105\u017cka",
+   "searchKey": "ksiazka",
+   "looseKey": "ksiazka",
+   "wordsKey": "ksiazka",
+   "nilIfEmpty": "\r\nKsi\u0105\u017cka\r\n"
+  },
+  {
+   "input": "a\u000bb\fc",
+   "cleanedName": "a b c",
+   "nameKey": "a b c",
+   "searchKey": "a b c",
+   "looseKey": "abc",
+   "wordsKey": "a b c",
+   "nilIfEmpty": "a\u000bb\fc"
+  },
+  {
+   "input": "a \u0301b",
+   "cleanedName": "a b",
+   "nameKey": "a b",
+   "searchKey": "a b",
+   "looseKey": "ab",
+   "wordsKey": "a b",
+   "nilIfEmpty": "a \u0301b"
+  },
+  {
+   "input": "a\n\u0301b",
+   "cleanedName": "a \u0301b",
+   "nameKey": "a \u0301b",
+   "searchKey": "a b",
+   "looseKey": "ab",
+   "wordsKey": "a b",
+   "nilIfEmpty": "a\n\u0301b"
+  },
+  {
+   "input": "\u0301abc",
+   "cleanedName": "\u0301abc",
+   "nameKey": "\u0301abc",
+   "searchKey": "\u0301abc",
+   "looseKey": "abc",
+   "wordsKey": "abc",
+   "nilIfEmpty": "\u0301abc"
+  },
+  {
+   "input": "Ostatnie z\u0307yczenie",
+   "cleanedName": "Ostatnie \u017cyczenie",
+   "nameKey": "ostatnie \u017cyczenie",
+   "searchKey": "ostatnie zyczenie",
+   "looseKey": "ostatniezyczenie",
+   "wordsKey": "ostatnie zyczenie",
+   "nilIfEmpty": "Ostatnie z\u0307yczenie"
+  },
+  {
+   "input": "\u0141o\u0301dz\u0301 Z\u0307o\u0301\u0142c\u0301",
+   "cleanedName": "\u0141\u00f3d\u017a \u017b\u00f3\u0142\u0107",
+   "nameKey": "\u0142\u00f3d\u017a \u017c\u00f3\u0142\u0107",
+   "searchKey": "lodz zolc",
+   "looseKey": "lodzzolc",
+   "wordsKey": "lodz zolc",
+   "nilIfEmpty": "\u0141o\u0301dz\u0301 Z\u0307o\u0301\u0142c\u0301"
+  },
+  {
+   "input": "Ge\u0328s\u0301",
+   "cleanedName": "G\u0119\u015b",
+   "nameKey": "g\u0119\u015b",
+   "searchKey": "ges",
+   "looseKey": "ges",
+   "wordsKey": "ges",
+   "nilIfEmpty": "Ge\u0328s\u0301"
+  },
+  {
+   "input": "\u1e9e",
+   "cleanedName": "\u1e9e",
+   "nameKey": "\u00df",
+   "searchKey": "ss",
+   "looseKey": "ss",
+   "wordsKey": "ss",
+   "nilIfEmpty": "\u1e9e"
+  },
+  {
+   "input": "\u0130stanbul",
+   "cleanedName": "\u0130stanbul",
+   "nameKey": "i\u0307stanbul",
+   "searchKey": "istanbul",
+   "looseKey": "istanbul",
+   "wordsKey": "istanbul",
+   "nilIfEmpty": "\u0130stanbul"
+  },
+  {
+   "input": "\u039f\u0394\u039f\u03a3",
+   "cleanedName": "\u039f\u0394\u039f\u03a3",
+   "nameKey": "\u03bf\u03b4\u03bf\u03c3",
+   "searchKey": "\u03bf\u03b4\u03bf\u03c3",
+   "looseKey": "\u03bf\u03b4\u03bf\u03c3",
+   "wordsKey": "\u03bf\u03b4\u03bf\u03c3",
+   "nilIfEmpty": "\u039f\u0394\u039f\u03a3"
+  },
+  {
+   "input": "\u03a3\u03af\u03c3\u03c5\u03c6\u03bf\u03c2",
+   "cleanedName": "\u03a3\u03af\u03c3\u03c5\u03c6\u03bf\u03c2",
+   "nameKey": "\u03c3\u03af\u03c3\u03c5\u03c6\u03bf\u03c2",
+   "searchKey": "\u03c3\u03b9\u03c3\u03c5\u03c6\u03bf\u03c3",
+   "looseKey": "\u03c3\u03b9\u03c3\u03c5\u03c6\u03bf\u03c3",
+   "wordsKey": "\u03c3\u03b9\u03c3\u03c5\u03c6\u03bf\u03c3",
+   "nilIfEmpty": "\u03a3\u03af\u03c3\u03c5\u03c6\u03bf\u03c2"
+  },
+  {
+   "input": "\ufb00 \ufb02 \ufb06",
+   "cleanedName": "\ufb00 \ufb02 \ufb06",
+   "nameKey": "\ufb00 \ufb02 \ufb06",
+   "searchKey": "ff fl st",
+   "looseKey": "ffflst",
+   "wordsKey": "ff fl st",
+   "nilIfEmpty": "\ufb00 \ufb02 \ufb06"
+  },
+  {
+   "input": "\u0149",
+   "cleanedName": "\u0149",
+   "nameKey": "\u0149",
+   "searchKey": "\u02bcn",
+   "looseKey": "\u02bcn",
+   "wordsKey": "\u02bcn",
+   "nilIfEmpty": "\u0149"
+  },
+  {
+   "input": "\u01f0",
+   "cleanedName": "\u01f0",
+   "nameKey": "\u01f0",
+   "searchKey": "j",
+   "looseKey": "j",
+   "wordsKey": "j",
+   "nilIfEmpty": "\u01f0"
+  },
+  {
+   "input": "\u00b5",
+   "cleanedName": "\u00b5",
+   "nameKey": "\u00b5",
+   "searchKey": "\u03bc",
+   "looseKey": "\u03bc",
+   "wordsKey": "\u03bc",
+   "nilIfEmpty": "\u00b5"
+  },
+  {
+   "input": "\u017f",
+   "cleanedName": "\u017f",
+   "nameKey": "\u017f",
+   "searchKey": "s",
+   "looseKey": "s",
+   "wordsKey": "s",
+   "nilIfEmpty": "\u017f"
+  },
+  {
+   "input": "\u13a0\uab70",
+   "cleanedName": "\u13a0\uab70",
+   "nameKey": "\uab70\uab70",
+   "searchKey": "\uab70\uab70",
+   "looseKey": "\uab70\uab70",
+   "wordsKey": "\uab70\uab70",
+   "nilIfEmpty": "\u13a0\uab70"
+  },
+  {
+   "input": "\u1c80",
+   "cleanedName": "\u1c80",
+   "nameKey": "\u1c80",
+   "searchKey": "\u1c80",
+   "looseKey": "\u1c80",
+   "wordsKey": "\u1c80",
+   "nilIfEmpty": "\u1c80"
+  },
+  {
+   "input": "\u01c5",
+   "cleanedName": "\u01c5",
+   "nameKey": "\u01c6",
+   "searchKey": "\u01c6",
+   "looseKey": "\u01c6",
+   "wordsKey": "\u01c6",
+   "nilIfEmpty": "\u01c5"
+  },
+  {
+   "input": "\u01f1",
+   "cleanedName": "\u01f1",
+   "nameKey": "\u01f3",
+   "searchKey": "\u01f3",
+   "looseKey": "\u01f3",
+   "wordsKey": "\u01f3",
+   "nilIfEmpty": "\u01f1"
+  },
+  {
+   "input": "\u24b6\u24d1 \ud83c\udd50",
+   "cleanedName": "\u24b6\u24d1 \ud83c\udd50",
+   "nameKey": "\u24d0\u24d1 \ud83c\udd50",
+   "searchKey": "\u24d0\u24d1 \ud83c\udd50",
+   "looseKey": "\u24d0\u24d1\ud83c\udd50",
+   "wordsKey": "\u24d0\u24d1 \ud83c\udd50",
+   "nilIfEmpty": "\u24b6\u24d1 \ud83c\udd50"
+  },
+  {
+   "input": "\u00bd \u00be",
+   "cleanedName": "\u00bd \u00be",
+   "nameKey": "\u00bd \u00be",
+   "searchKey": "\u00bd \u00be",
+   "looseKey": "\u00bd\u00be",
+   "wordsKey": "\u00bd \u00be",
+   "nilIfEmpty": "\u00bd \u00be"
+  },
+  {
+   "input": "\u0663\u0664",
+   "cleanedName": "\u0663\u0664",
+   "nameKey": "\u0663\u0664",
+   "searchKey": "\u0663\u0664",
+   "looseKey": "\u0663\u0664",
+   "wordsKey": "\u0663\u0664",
+   "nilIfEmpty": "\u0663\u0664"
+  },
+  {
+   "input": "\uff11\uff12\uff13 \uff5a",
+   "cleanedName": "\uff11\uff12\uff13 \uff5a",
+   "nameKey": "\uff11\uff12\uff13 \uff5a",
+   "searchKey": "123 z",
+   "looseKey": "123z",
+   "wordsKey": "123 z",
+   "nilIfEmpty": "\uff11\uff12\uff13 \uff5a"
+  },
+  {
+   "input": "\uff76\uff9e",
+   "cleanedName": "\uff76\uff9e",
+   "nameKey": "\uff76\uff9e",
+   "searchKey": "\u30ab\uff9e",
+   "looseKey": "\u30ab\uff9e",
+   "wordsKey": "\u30ab\uff9e",
+   "nilIfEmpty": "\uff76\uff9e"
+  },
+  {
+   "input": "\uffe3",
+   "cleanedName": "\uffe3",
+   "nameKey": "\uffe3",
+   "searchKey": "\uffe3",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\uffe3"
+  },
+  {
+   "input": "\u03a9mega",
+   "cleanedName": "\u03a9mega",
+   "nameKey": "\u03c9mega",
+   "searchKey": "\u03c9mega",
+   "looseKey": "\u03c9mega",
+   "wordsKey": "\u03c9mega",
+   "nilIfEmpty": "\u03a9mega"
+  },
+  {
+   "input": "\u212aelvin",
+   "cleanedName": "Kelvin",
+   "nameKey": "kelvin",
+   "searchKey": "kelvin",
+   "looseKey": "kelvin",
+   "wordsKey": "kelvin",
+   "nilIfEmpty": "\u212aelvin"
+  },
+  {
+   "input": "\u212b",
+   "cleanedName": "\u00c5",
+   "nameKey": "\u00e5",
+   "searchKey": "a",
+   "looseKey": "a",
+   "wordsKey": "a",
+   "nilIfEmpty": "\u212b"
+  },
+  {
+   "input": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac \u1fb3",
+   "cleanedName": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac \u1fb3",
+   "nameKey": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac \u1fb3",
+   "searchKey": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03b1 \u03b1",
+   "looseKey": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03b1\u03b1",
+   "wordsKey": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03b1 \u03b1",
+   "nilIfEmpty": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac \u1fb3"
+  },
+  {
+   "input": "\u0401\u043b\u043a\u0430 \u0439",
+   "cleanedName": "\u0401\u043b\u043a\u0430 \u0439",
+   "nameKey": "\u0451\u043b\u043a\u0430 \u0439",
+   "searchKey": "\u0435\u043b\u043a\u0430 \u0438",
+   "looseKey": "\u0435\u043b\u043a\u0430\u0438",
+   "wordsKey": "\u0435\u043b\u043a\u0430 \u0438",
+   "nilIfEmpty": "\u0401\u043b\u043a\u0430 \u0439"
+  },
+  {
+   "input": "\u0402\u043e\u0440\u0452\u0435",
+   "cleanedName": "\u0402\u043e\u0440\u0452\u0435",
+   "nameKey": "\u0452\u043e\u0440\u0452\u0435",
+   "searchKey": "\u0452\u043e\u0440\u0452\u0435",
+   "looseKey": "\u0452\u043e\u0440\u0452\u0435",
+   "wordsKey": "\u0452\u043e\u0440\u0452\u0435",
+   "nilIfEmpty": "\u0402\u043e\u0440\u0452\u0435"
+  },
+  {
+   "input": "\u010capek Dvo\u0159\u00e1k",
+   "cleanedName": "\u010capek Dvo\u0159\u00e1k",
+   "nameKey": "\u010dapek dvo\u0159\u00e1k",
+   "searchKey": "capek dvorak",
+   "looseKey": "capekdvorak",
+   "wordsKey": "capek dvorak",
+   "nilIfEmpty": "\u010capek Dvo\u0159\u00e1k"
+  },
+  {
+   "input": "Mickiewicz \u2013 \u201eDziady\u201d",
+   "cleanedName": "Mickiewicz \u2013 \u201eDziady\u201d",
+   "nameKey": "mickiewicz \u2013 \u201edziady\u201d",
+   "searchKey": "mickiewicz \u2013 \u201edziady\u201d",
+   "looseKey": "mickiewiczdziady",
+   "wordsKey": "mickiewicz dziady",
+   "nilIfEmpty": "Mickiewicz \u2013 \u201eDziady\u201d"
+  },
+  {
+   "input": "\u0152dipe \u00e0 Colone",
+   "cleanedName": "\u0152dipe \u00e0 Colone",
+   "nameKey": "\u0153dipe \u00e0 colone",
+   "searchKey": "\u0153dipe a colone",
+   "looseKey": "\u0153dipeacolone",
+   "wordsKey": "\u0153dipe a colone",
+   "nilIfEmpty": "\u0152dipe \u00e0 Colone"
+  },
+  {
+   "input": "Nguy\u1ec5n Du",
+   "cleanedName": "Nguy\u1ec5n Du",
+   "nameKey": "nguy\u1ec5n du",
+   "searchKey": "nguyen du",
+   "looseKey": "nguyendu",
+   "wordsKey": "nguyen du",
+   "nilIfEmpty": "Nguy\u1ec5n Du"
+  },
+  {
+   "input": "Krak\u00f3w",
+   "cleanedName": "Krak\u00f3w",
+   "nameKey": "krak\u00f3w",
+   "searchKey": "krakow",
+   "looseKey": "krakow",
+   "wordsKey": "krakow",
+   "nilIfEmpty": "Krak\u00f3w"
+  },
+  {
+   "input": "Za\u017c\u00f3\u0142\u0107 g\u0119\u015bl\u0105 ja\u017a\u0144",
+   "cleanedName": "Za\u017c\u00f3\u0142\u0107 g\u0119\u015bl\u0105 ja\u017a\u0144",
+   "nameKey": "za\u017c\u00f3\u0142\u0107 g\u0119\u015bl\u0105 ja\u017a\u0144",
+   "searchKey": "zazolc gesla jazn",
+   "looseKey": "zazolcgeslajazn",
+   "wordsKey": "zazolc gesla jazn",
+   "nilIfEmpty": "Za\u017c\u00f3\u0142\u0107 g\u0119\u015bl\u0105 ja\u017a\u0144"
+  },
+  {
+   "input": "\u0141\u00d3D\u0179",
+   "cleanedName": "\u0141\u00d3D\u0179",
+   "nameKey": "\u0142\u00f3d\u017a",
+   "searchKey": "lodz",
+   "looseKey": "lodz",
+   "wordsKey": "lodz",
+   "nilIfEmpty": "\u0141\u00d3D\u0179"
+  },
+  {
+   "input": "\u0142\u00f3d\u017a",
+   "cleanedName": "\u0142\u00f3d\u017a",
+   "nameKey": "\u0142\u00f3d\u017a",
+   "searchKey": "lodz",
+   "looseKey": "lodz",
+   "wordsKey": "lodz",
+   "nilIfEmpty": "\u0142\u00f3d\u017a"
+  },
+  {
+   "input": "\u0141",
+   "cleanedName": "\u0141",
+   "nameKey": "\u0142",
+   "searchKey": "l",
+   "looseKey": "l",
+   "wordsKey": "l",
+   "nilIfEmpty": "\u0141"
+  },
+  {
+   "input": "\u0915\u093c\u093f\u0924\u093e\u092c",
+   "cleanedName": "\u0915\u093c\u093f\u0924\u093e\u092c",
+   "nameKey": "\u0915\u093c\u093f\u0924\u093e\u092c",
+   "searchKey": "\u0915\u093c\u093f\u0924\u093e\u092c",
+   "looseKey": "\u0915\u093c\u093f\u0924\u093e\u092c",
+   "wordsKey": "\u0915\u093c\u093f\u0924\u093e\u092c",
+   "nilIfEmpty": "\u0915\u093c\u093f\u0924\u093e\u092c"
+  },
+  {
+   "input": "\u0915\u093f\u0924\u093e\u092c",
+   "cleanedName": "\u0915\u093f\u0924\u093e\u092c",
+   "nameKey": "\u0915\u093f\u0924\u093e\u092c",
+   "searchKey": "\u0915\u093f\u0924\u093e\u092c",
+   "looseKey": "\u0915\u093f\u0924\u093e\u092c",
+   "wordsKey": "\u0915\u093f\u0924\u093e\u092c",
+   "nilIfEmpty": "\u0915\u093f\u0924\u093e\u092c"
+  },
+  {
+   "input": "\ud55c\uad6d\uc5b4",
+   "cleanedName": "\ud55c\uad6d\uc5b4",
+   "nameKey": "\ud55c\uad6d\uc5b4",
+   "searchKey": "\ud55c\uad6d\uc5b4",
+   "looseKey": "\ud55c\uad6d\uc5b4",
+   "wordsKey": "\ud55c\uad6d\uc5b4",
+   "nilIfEmpty": "\ud55c\uad6d\uc5b4"
+  },
+  {
+   "input": "\u65e5\u672c\u8a9e\u306e\u672c",
+   "cleanedName": "\u65e5\u672c\u8a9e\u306e\u672c",
+   "nameKey": "\u65e5\u672c\u8a9e\u306e\u672c",
+   "searchKey": "\u65e5\u672c\u8a9e\u306e\u672c",
+   "looseKey": "\u65e5\u672c\u8a9e\u306e\u672c",
+   "wordsKey": "\u65e5\u672c\u8a9e\u306e\u672c",
+   "nilIfEmpty": "\u65e5\u672c\u8a9e\u306e\u672c"
+  },
+  {
+   "input": "\u0639\u0631\u0628\u064a",
+   "cleanedName": "\u0639\u0631\u0628\u064a",
+   "nameKey": "\u0639\u0631\u0628\u064a",
+   "searchKey": "\u0639\u0631\u0628\u064a",
+   "looseKey": "\u0639\u0631\u0628\u064a",
+   "wordsKey": "\u0639\u0631\u0628\u064a",
+   "nilIfEmpty": "\u0639\u0631\u0628\u064a"
+  },
+  {
+   "input": "\u05e2\u05d1\u05e8\u05d9\u05ea",
+   "cleanedName": "\u05e2\u05d1\u05e8\u05d9\u05ea",
+   "nameKey": "\u05e2\u05d1\u05e8\u05d9\u05ea",
+   "searchKey": "\u05e2\u05d1\u05e8\u05d9\u05ea",
+   "looseKey": "\u05e2\u05d1\u05e8\u05d9\u05ea",
+   "wordsKey": "\u05e2\u05d1\u05e8\u05d9\u05ea",
+   "nilIfEmpty": "\u05e2\u05d1\u05e8\u05d9\u05ea"
+  },
+  {
+   "input": "Ksi\u0105\u017cka \ud83d\udc4d\ud83c\udffd",
+   "cleanedName": "Ksi\u0105\u017cka \ud83d\udc4d\ud83c\udffd",
+   "nameKey": "ksi\u0105\u017cka \ud83d\udc4d\ud83c\udffd",
+   "searchKey": "ksiazka \ud83d\udc4d\ud83c\udffd",
+   "looseKey": "ksiazka",
+   "wordsKey": "ksiazka",
+   "nilIfEmpty": "Ksi\u0105\u017cka \ud83d\udc4d\ud83c\udffd"
+  },
+  {
+   "input": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+   "cleanedName": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+   "nameKey": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+   "searchKey": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67"
+  },
+  {
+   "input": "\ud83c\uddf5\ud83c\uddf1 Polska",
+   "cleanedName": "\ud83c\uddf5\ud83c\uddf1 Polska",
+   "nameKey": "\ud83c\uddf5\ud83c\uddf1 polska",
+   "searchKey": "\ud83c\uddf5\ud83c\uddf1 polska",
+   "looseKey": "polska",
+   "wordsKey": "polska",
+   "nilIfEmpty": "\ud83c\uddf5\ud83c\uddf1 Polska"
+  },
+  {
+   "input": "1\ufe0f\u20e3",
+   "cleanedName": "1\ufe0f\u20e3",
+   "nameKey": "1\ufe0f\u20e3",
+   "searchKey": "1",
+   "looseKey": "1",
+   "wordsKey": "1",
+   "nilIfEmpty": "1\ufe0f\u20e3"
+  },
+  {
+   "input": "\u201eAnia\u201d z Zielonego Wzg\u00f3rza",
+   "cleanedName": "\u201eAnia\u201d z Zielonego Wzg\u00f3rza",
+   "nameKey": "\u201eania\u201d z zielonego wzg\u00f3rza",
+   "searchKey": "\u201eania\u201d z zielonego wzgorza",
+   "looseKey": "aniazzielonegowzgorza",
+   "wordsKey": "ania z zielonego wzgorza",
+   "nilIfEmpty": "\u201eAnia\u201d z Zielonego Wzg\u00f3rza"
+  },
+  {
+   "input": "Pucio...m\u00f3wi",
+   "cleanedName": "Pucio...m\u00f3wi",
+   "nameKey": "pucio...m\u00f3wi",
+   "searchKey": "pucio...mowi",
+   "looseKey": "puciomowi",
+   "wordsKey": "pucio mowi",
+   "nilIfEmpty": "Pucio...m\u00f3wi"
+  },
+  {
+   "input": "tom-2",
+   "cleanedName": "tom-2",
+   "nameKey": "tom-2",
+   "searchKey": "tom-2",
+   "looseKey": "tom2",
+   "wordsKey": "tom 2",
+   "nilIfEmpty": "tom-2"
+  },
+  {
+   "input": "C++ & Java",
+   "cleanedName": "C++ & Java",
+   "nameKey": "c++ & java",
+   "searchKey": "c++ & java",
+   "looseKey": "cjava",
+   "wordsKey": "c java",
+   "nilIfEmpty": "C++ & Java"
+  },
+  {
+   "input": "O'Brien",
+   "cleanedName": "O'Brien",
+   "nameKey": "o'brien",
+   "searchKey": "o'brien",
+   "looseKey": "obrien",
+   "wordsKey": "o brien",
+   "nilIfEmpty": "O'Brien"
+  },
+  {
+   "input": "100% (prawie)",
+   "cleanedName": "100% (prawie)",
+   "nameKey": "100% (prawie)",
+   "searchKey": "100% (prawie)",
+   "looseKey": "100prawie",
+   "wordsKey": "100 prawie",
+   "nilIfEmpty": "100% (prawie)"
+  },
+  {
+   "input": "0\uab70\u015a\uff21\u1e9e",
+   "cleanedName": "0\uab70\u015a\uff21\u1e9e",
+   "nameKey": "0\uab70\u015b\uff41\u00df",
+   "searchKey": "0\uab70sass",
+   "looseKey": "0\uab70sass",
+   "wordsKey": "0\uab70sass",
+   "nilIfEmpty": "0\uab70\u015a\uff21\u1e9e"
+  },
+  {
+   "input": "\u00c6/,\u200b\u03a9\u0153\u0141(",
+   "cleanedName": "\u00c6/,\u200b\u03a9\u0153\u0141(",
+   "nameKey": "\u00e6/,\u200b\u03c9\u0153\u0142(",
+   "searchKey": "\u00e6/,\u200b\u03c9\u0153l(",
+   "looseKey": "\u00e6\u03c9\u0153l",
+   "wordsKey": "\u00e6 \u03c9\u0153l",
+   "nilIfEmpty": "\u00c6/,\u200b\u03a9\u0153\u0141("
+  },
+  {
+   "input": "\u00d3\u2204\u00c5\u03a9\u0104\uff9e\u0149\uff9e",
+   "cleanedName": "\u00d3\u2204\u00c5\u03a9\u0104\uff9e\u0149\uff9e",
+   "nameKey": "\u00f3\u2204\u00e5\u03c9\u0105\uff9e\u0149\uff9e",
+   "searchKey": "o\u2204a\u03c9a\u02bcn",
+   "looseKey": "oa\u03c9a\u02bcn",
+   "wordsKey": "o a\u03c9a\u02bcn",
+   "nilIfEmpty": "\u00d3\u2204\u00c5\u03a9\u0104\uff9e\u0149\uff9e"
+  },
+  {
+   "input": ",\u11a8b",
+   "cleanedName": ",\u11a8b",
+   "nameKey": ",\u11a8b",
+   "searchKey": ",\u11a8b",
+   "looseKey": "\u11a8b",
+   "wordsKey": "\u11a8b",
+   "nilIfEmpty": ",\u11a8b"
+  },
+  {
+   "input": "\u0130\u0345\uff21\u216b\u0345[",
+   "cleanedName": "\u0130\u0345\uff21\u216b\u0345[",
+   "nameKey": "i\u0307\u0345\uff41\u217b\u0345[",
+   "searchKey": "ia\u217b\u0345[",
+   "looseKey": "ia\u217b\u0345",
+   "wordsKey": "ia\u217b\u0345",
+   "nilIfEmpty": "\u0130\u0345\uff21\u216b\u0345["
+  },
+  {
+   "input": "/ \u094d/",
+   "cleanedName": "/ /",
+   "nameKey": "/ /",
+   "searchKey": "/ /",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "/ \u094d/"
+  },
+  {
+   "input": "\ud83c\uddf1\ufb01\u00f3\u001f\u0119\u0119\u03c2\ufeff",
+   "cleanedName": "\ud83c\uddf1\ufb01\u00f3\u001f\u0119\u0119\u03c2\ufeff",
+   "nameKey": "\ud83c\uddf1\ufb01\u00f3\u001f\u0119\u0119\u03c2\ufeff",
+   "searchKey": "\ud83c\uddf1fio\u001fee\u03c3\ufeff",
+   "looseKey": "fioee\u03c3",
+   "wordsKey": "fio ee\u03c3",
+   "nilIfEmpty": "\ud83c\uddf1\ufb01\u00f3\u001f\u0119\u0119\u03c2\ufeff"
+  },
+  {
+   "input": "a\u017b\u017c\u03c2\u20e3",
+   "cleanedName": "a\u017b\u017c\u03c2\u20e3",
+   "nameKey": "a\u017c\u017c\u03c2\u20e3",
+   "searchKey": "azz\u03c3",
+   "looseKey": "azz\u03c3",
+   "wordsKey": "azz\u03c3",
+   "nilIfEmpty": "a\u017b\u017c\u03c2\u20e3"
+  },
+  {
+   "input": "\u0143\u03c3\u0143",
+   "cleanedName": "\u0143\u03c3\u0143",
+   "nameKey": "\u0144\u03c3\u0144",
+   "searchKey": "n\u03c3n",
+   "looseKey": "n\u03c3n",
+   "wordsKey": "n\u03c3n",
+   "nilIfEmpty": "\u0143\u03c3\u0143"
+  },
+  {
+   "input": "\u00b5\ufb06\u00b2",
+   "cleanedName": "\u00b5\ufb06\u00b2",
+   "nameKey": "\u00b5\ufb06\u00b2",
+   "searchKey": "\u03bcst\u00b2",
+   "looseKey": "\u03bcst\u00b2",
+   "wordsKey": "\u03bcst\u00b2",
+   "nilIfEmpty": "\u00b5\ufb06\u00b2"
+  },
+  {
+   "input": "\u2028\u01c6",
+   "cleanedName": "\u01c6",
+   "nameKey": "\u01c6",
+   "searchKey": "\u01c6",
+   "looseKey": "\u01c6",
+   "wordsKey": "\u01c6",
+   "nilIfEmpty": "\u2028\u01c6"
+  },
+  {
+   "input": "\u20e3\u0119\u24d0\u0144\u2013\uac00",
+   "cleanedName": "\u20e3\u0119\u24d0\u0144\u2013\uac00",
+   "nameKey": "\u20e3\u0119\u24d0\u0144\u2013\uac00",
+   "searchKey": "\u20e3e\u24d0n\u2013\uac00",
+   "looseKey": "e\u24d0n\uac00",
+   "wordsKey": "e\u24d0n \uac00",
+   "nilIfEmpty": "\u20e3\u0119\u24d0\u0144\u2013\uac00"
+  },
+  {
+   "input": "\u0153\u0118\r\u00f8\u0328\uac009\u11a8",
+   "cleanedName": "\u0153\u0118 \u00f8\u0328\uac009\u11a8",
+   "nameKey": "\u0153\u0119 \u00f8\u0328\uac009\u11a8",
+   "searchKey": "\u0153e \u00f8\uac009\u11a8",
+   "looseKey": "\u0153e\u00f8\uac009\u11a8",
+   "wordsKey": "\u0153e \u00f8\uac009\u11a8",
+   "nilIfEmpty": "\u0153\u0118\r\u00f8\u0328\uac009\u11a8"
+  },
+  {
+   "input": "\u0903\u00c6",
+   "cleanedName": "\u0903\u00c6",
+   "nameKey": "\u0903\u00e6",
+   "searchKey": "\u0903\u00e6",
+   "looseKey": "\u0903\u00e6",
+   "wordsKey": "\u0903\u00e6",
+   "nilIfEmpty": "\u0903\u00c6"
+  },
+  {
+   "input": "Z\u0105\"\r\n\u200cz\ufeff",
+   "cleanedName": "Z\u0105\" \u200cz\ufeff",
+   "nameKey": "z\u0105\" \u200cz\ufeff",
+   "searchKey": "za\" z\ufeff",
+   "looseKey": "zaz",
+   "wordsKey": "za z",
+   "nilIfEmpty": "Z\u0105\"\r\n\u200cz\ufeff"
+  },
+  {
+   "input": "\ud83d\udc68\ud83c\uddf5\uff11",
+   "cleanedName": "\ud83d\udc68\ud83c\uddf5\uff11",
+   "nameKey": "\ud83d\udc68\ud83c\uddf5\uff11",
+   "searchKey": "\ud83d\udc68\ud83c\uddf51",
+   "looseKey": "1",
+   "wordsKey": "1",
+   "nilIfEmpty": "\ud83d\udc68\ud83c\uddf5\uff11"
+  },
+  {
+   "input": "/\u00d3\u0916\u4e00ZK\u001f",
+   "cleanedName": "/\u00d3\u0916\u4e00ZK\u001f",
+   "nameKey": "/\u00f3\u0916\u4e00zk\u001f",
+   "searchKey": "/o\u0916\u4e00zk\u001f",
+   "looseKey": "o\u0916\u4e00zk",
+   "wordsKey": "o\u0916\u4e00zk",
+   "nilIfEmpty": "/\u00d3\u0916\u4e00ZK\u001f"
+  },
+  {
+   "input": "9K",
+   "cleanedName": "9K",
+   "nameKey": "9k",
+   "searchKey": "9k",
+   "looseKey": "9k",
+   "wordsKey": "9k",
+   "nilIfEmpty": "9K"
+  },
+  {
+   "input": "\u0001\uff11",
+   "cleanedName": "\u0001\uff11",
+   "nameKey": "\u0001\uff11",
+   "searchKey": "\u00011",
+   "looseKey": "1",
+   "wordsKey": "1",
+   "nilIfEmpty": "\u0001\uff11"
+  },
+  {
+   "input": "\ufb00\u0085a\u001f",
+   "cleanedName": "\ufb00 a\u001f",
+   "nameKey": "\ufb00 a\u001f",
+   "searchKey": "ff a\u001f",
+   "looseKey": "ffa",
+   "wordsKey": "ff a",
+   "nilIfEmpty": "\ufb00\u0085a\u001f"
+  },
+  {
+   "input": "x\ufeffb\u0001K&\ud83c\uddf1\u0328",
+   "cleanedName": "x\ufeffb\u0001K&\ud83c\uddf1\u0328",
+   "nameKey": "x\ufeffb\u0001k&\ud83c\uddf1\u0328",
+   "searchKey": "x\ufeffb\u0001k&\ud83c\uddf1",
+   "looseKey": "xbk",
+   "wordsKey": "x b k",
+   "nilIfEmpty": "x\ufeffb\u0001K&\ud83c\uddf1\u0328"
+  },
+  {
+   "input": "-\u001f\u200b\u093c",
+   "cleanedName": "-\u001f\u200b\u093c",
+   "nameKey": "-\u001f\u200b\u093c",
+   "searchKey": "-\u001f\u200b\u093c",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "-\u001f\u200b\u093c"
+  },
+  {
+   "input": "\u0903\uff21",
+   "cleanedName": "\u0903\uff21",
+   "nameKey": "\u0903\uff41",
+   "searchKey": "\u0903a",
+   "looseKey": "\u0903a",
+   "wordsKey": "\u0903a",
+   "nilIfEmpty": "\u0903\uff21"
+  },
+  {
+   "input": "\u015a\u0153(\ufb00\u0179",
+   "cleanedName": "\u015a\u0153(\ufb00\u0179",
+   "nameKey": "\u015b\u0153(\ufb00\u017a",
+   "searchKey": "s\u0153(ffz",
+   "looseKey": "s\u0153ffz",
+   "wordsKey": "s\u0153 ffz",
+   "nilIfEmpty": "\u015a\u0153(\ufb00\u0179"
+  },
+  {
+   "input": "!\u0001\r\n\u0587\u2013",
+   "cleanedName": "!\u0001 \u0587\u2013",
+   "nameKey": "!\u0001 \u0587\u2013",
+   "searchKey": "!\u0001 \u0565\u0582\u2013",
+   "looseKey": "\u0565\u0582",
+   "wordsKey": "\u0565\u0582",
+   "nilIfEmpty": "!\u0001\r\n\u0587\u2013"
+  },
+  {
+   "input": "\u1100\u0660\u0143\u015a\u03a9\ud83c\uddf5\u03a9-",
+   "cleanedName": "\u1100\u0660\u0143\u015a\u03a9\ud83c\uddf5\u03a9-",
+   "nameKey": "\u1100\u0660\u0144\u015b\u03c9\ud83c\uddf5\u03c9-",
+   "searchKey": "\u1100\u0660ns\u03c9\ud83c\uddf5\u03c9-",
+   "looseKey": "\u1100\u0660ns\u03c9\u03c9",
+   "wordsKey": "\u1100\u0660ns\u03c9 \u03c9",
+   "nilIfEmpty": "\u1100\u0660\u0143\u015a\u03a9\ud83c\uddf5\u03a9-"
+  },
+  {
+   "input": "\u0143\u00b2\u0149\u03a3",
+   "cleanedName": "\u0143\u00b2\u0149\u03a3",
+   "nameKey": "\u0144\u00b2\u0149\u03c3",
+   "searchKey": "n\u00b2\u02bcn\u03c3",
+   "looseKey": "n\u00b2\u02bcn\u03c3",
+   "wordsKey": "n\u00b2\u02bcn\u03c3",
+   "nilIfEmpty": "\u0143\u00b2\u0149\u03a3"
+  },
+  {
+   "input": "&,\u200d\u1e9b\u0149",
+   "cleanedName": "&,\u200d\u1e9b\u0149",
+   "nameKey": "&,\u200d\u1e9b\u0149",
+   "searchKey": "&,\u200ds\u02bcn",
+   "looseKey": "s\u02bcn",
+   "wordsKey": "s\u02bcn",
+   "nilIfEmpty": "&,\u200d\u1e9b\u0149"
+  },
+  {
+   "input": "\ud83d\udc69\u00c5",
+   "cleanedName": "\ud83d\udc69\u00c5",
+   "nameKey": "\ud83d\udc69\u00e5",
+   "searchKey": "\ud83d\udc69a",
+   "looseKey": "a",
+   "wordsKey": "a",
+   "nilIfEmpty": "\ud83d\udc69\u00c5"
+  },
+  {
+   "input": "\ufb06\u102b",
+   "cleanedName": "\ufb06\u102b",
+   "nameKey": "\ufb06\u102b",
+   "searchKey": "st\u102b",
+   "looseKey": "st\u102b",
+   "wordsKey": "st\u102b",
+   "nilIfEmpty": "\ufb06\u102b"
+  },
+  {
+   "input": "\u2028\u017b)\u0915",
+   "cleanedName": "\u017b)\u0915",
+   "nameKey": "\u017c)\u0915",
+   "searchKey": "z)\u0915",
+   "looseKey": "z\u0915",
+   "wordsKey": "z \u0915",
+   "nilIfEmpty": "\u2028\u017b)\u0915"
+  },
+  {
+   "input": ".]\u200c\u0179\uff5a,",
+   "cleanedName": ".]\u200c\u0179\uff5a,",
+   "nameKey": ".]\u200c\u017a\uff5a,",
+   "searchKey": ".]zz,",
+   "looseKey": "zz",
+   "wordsKey": "zz",
+   "nilIfEmpty": ".]\u200c\u0179\uff5a,"
+  },
+  {
+   "input": "\t\u1f80;\u015b",
+   "cleanedName": "\u1f80;\u015b",
+   "nameKey": "\u1f80;\u015b",
+   "searchKey": "\u03b1;s",
+   "looseKey": "\u03b1s",
+   "wordsKey": "\u03b1 s",
+   "nilIfEmpty": "\t\u1f80;\u015b"
+  },
+  {
+   "input": "\u0118\u01c4\u0149\u0105",
+   "cleanedName": "\u0118\u01c4\u0149\u0105",
+   "nameKey": "\u0119\u01c6\u0149\u0105",
+   "searchKey": "e\u01c6\u02bcna",
+   "looseKey": "e\u01c6\u02bcna",
+   "wordsKey": "e\u01c6\u02bcna",
+   "nilIfEmpty": "\u0118\u01c4\u0149\u0105"
+  },
+  {
+   "input": "\ufe0f\r\n\u0105&",
+   "cleanedName": "\ufe0f \u0105&",
+   "nameKey": "\ufe0f \u0105&",
+   "searchKey": "\ufe0f a&",
+   "looseKey": "a",
+   "wordsKey": "a",
+   "nilIfEmpty": "\ufe0f\r\n\u0105&"
+  },
+  {
+   "input": "\u24b6\u0915\u0141\u00b2\uff5a",
+   "cleanedName": "\u24b6\u0915\u0141\u00b2\uff5a",
+   "nameKey": "\u24d0\u0915\u0142\u00b2\uff5a",
+   "searchKey": "\u24d0\u0915l\u00b2z",
+   "looseKey": "\u24d0\u0915l\u00b2z",
+   "wordsKey": "\u24d0\u0915l\u00b2z",
+   "nilIfEmpty": "\u24b6\u0915\u0141\u00b2\uff5a"
+  },
+  {
+   "input": "\u00d8\u1fb3\u0105\u015b\u200b\ud83c\uddf1\u1100\u0143",
+   "cleanedName": "\u00d8\u1fb3\u0105\u015b\u200b\ud83c\uddf1\u1100\u0143",
+   "nameKey": "\u00f8\u1fb3\u0105\u015b\u200b\ud83c\uddf1\u1100\u0144",
+   "searchKey": "\u00f8\u03b1as\u200b\ud83c\uddf1\u1100n",
+   "looseKey": "\u00f8\u03b1as\u1100n",
+   "wordsKey": "\u00f8\u03b1as \u1100n",
+   "nilIfEmpty": "\u00d8\u1fb3\u0105\u015b\u200b\ud83c\uddf1\u1100\u0143"
+  },
+  {
+   "input": "\u0119\ufe0f[\u03a3\u0142\ud83c\uddf1\u0085",
+   "cleanedName": "\u0119\ufe0f[\u03a3\u0142\ud83c\uddf1",
+   "nameKey": "\u0119\ufe0f[\u03c3\u0142\ud83c\uddf1",
+   "searchKey": "e[\u03c3l\ud83c\uddf1",
+   "looseKey": "e\u03c3l",
+   "wordsKey": "e \u03c3l",
+   "nilIfEmpty": "\u0119\ufe0f[\u03a3\u0142\ud83c\uddf1\u0085"
+  },
+  {
+   "input": "\uffe3\u200c\t\ufb01Z\u0153b\u0105",
+   "cleanedName": "\uffe3\u200c \ufb01Z\u0153b\u0105",
+   "nameKey": "\uffe3\u200c \ufb01z\u0153b\u0105",
+   "searchKey": "\uffe3\u200c fiz\u0153ba",
+   "looseKey": "fiz\u0153ba",
+   "wordsKey": "fiz\u0153ba",
+   "nilIfEmpty": "\uffe3\u200c\t\ufb01Z\u0153b\u0105"
+  },
+  {
+   "input": "\u01f0-\ufb01\u03a9\u015a\u00b2K",
+   "cleanedName": "\u01f0-\ufb01\u03a9\u015a\u00b2K",
+   "nameKey": "\u01f0-\ufb01\u03c9\u015b\u00b2k",
+   "searchKey": "j-fi\u03c9s\u00b2k",
+   "looseKey": "jfi\u03c9s\u00b2k",
+   "wordsKey": "j fi\u03c9s\u00b2k",
+   "nilIfEmpty": "\u01f0-\ufb01\u03a9\u015a\u00b2K"
+  },
+  {
+   "input": "\u0141\u0118\uff21.\uab70\ufeff",
+   "cleanedName": "\u0141\u0118\uff21.\uab70\ufeff",
+   "nameKey": "\u0142\u0119\uff41.\uab70\ufeff",
+   "searchKey": "lea.\uab70\ufeff",
+   "looseKey": "lea\uab70",
+   "wordsKey": "lea \uab70",
+   "nilIfEmpty": "\u0141\u0118\uff21.\uab70\ufeff"
+  },
+  {
+   "input": " \u03a9",
+   "cleanedName": "\u03a9",
+   "nameKey": "\u03c9",
+   "searchKey": "\u03c9",
+   "looseKey": "\u03c9",
+   "wordsKey": "\u03c9",
+   "nilIfEmpty": " \u03a9"
+  },
+  {
+   "input": "[\u4e00\ufb06",
+   "cleanedName": "[\u4e00\ufb06",
+   "nameKey": "[\u4e00\ufb06",
+   "searchKey": "[\u4e00st",
+   "looseKey": "\u4e00st",
+   "wordsKey": "\u4e00st",
+   "nilIfEmpty": "[\u4e00\ufb06"
+  },
+  {
+   "input": "\u200c",
+   "cleanedName": "\u200c",
+   "nameKey": "\u200c",
+   "searchKey": "\u200c",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\u200c"
+  },
+  {
+   "input": "\u1161\u00d3\u0119",
+   "cleanedName": "\u1161\u00d3\u0119",
+   "nameKey": "\u1161\u00f3\u0119",
+   "searchKey": "\u1161oe",
+   "looseKey": "\u1161oe",
+   "wordsKey": "\u1161oe",
+   "nilIfEmpty": "\u1161\u00d3\u0119"
+  },
+  {
+   "input": "\u0104\u0131\u015a\ud83d\udc69\u01190\u03a3",
+   "cleanedName": "\u0104\u0131\u015a\ud83d\udc69\u01190\u03a3",
+   "nameKey": "\u0105\u0131\u015b\ud83d\udc69\u01190\u03c3",
+   "searchKey": "a\u0131s\ud83d\udc69e0\u03c3",
+   "looseKey": "a\u0131se0\u03c3",
+   "wordsKey": "a\u0131s e0\u03c3",
+   "nilIfEmpty": "\u0104\u0131\u015a\ud83d\udc69\u01190\u03a3"
+  },
+  {
+   "input": "\u0085]\u0153",
+   "cleanedName": "]\u0153",
+   "nameKey": "]\u0153",
+   "searchKey": "]\u0153",
+   "looseKey": "\u0153",
+   "wordsKey": "\u0153",
+   "nilIfEmpty": "\u0085]\u0153"
+  },
+  {
+   "input": "\u01c4\uffe3\u00c5\u11a8\u0587",
+   "cleanedName": "\u01c4\uffe3\u00c5\u11a8\u0587",
+   "nameKey": "\u01c6\uffe3\u00e5\u11a8\u0587",
+   "searchKey": "\u01c6\uffe3a\u11a8\u0565\u0582",
+   "looseKey": "\u01c6a\u11a8\u0565\u0582",
+   "wordsKey": "\u01c6 a\u11a8\u0565\u0582",
+   "nilIfEmpty": "\u01c4\uffe3\u00c5\u11a8\u0587"
+  },
+  {
+   "input": "\u00c6\u017a\u00c5z\u0142\u0001\ud83d\udc69",
+   "cleanedName": "\u00c6\u017a\u00c5z\u0142\u0001\ud83d\udc69",
+   "nameKey": "\u00e6\u017a\u00e5z\u0142\u0001\ud83d\udc69",
+   "searchKey": "\u00e6zazl\u0001\ud83d\udc69",
+   "looseKey": "\u00e6zazl",
+   "wordsKey": "\u00e6zazl",
+   "nilIfEmpty": "\u00c6\u017a\u00c5z\u0142\u0001\ud83d\udc69"
+  },
+  {
+   "input": "\u3000\u0916",
+   "cleanedName": "\u0916",
+   "nameKey": "\u0916",
+   "searchKey": "\u0916",
+   "looseKey": "\u0916",
+   "wordsKey": "\u0916",
+   "nilIfEmpty": "\u3000\u0916"
+  },
+  {
+   "input": "\u0143\n\u0301\ud83d\udc69",
+   "cleanedName": "\u0143 \u0301\ud83d\udc69",
+   "nameKey": "\u0144 \u0301\ud83d\udc69",
+   "searchKey": "n \ud83d\udc69",
+   "looseKey": "n",
+   "wordsKey": "n",
+   "nilIfEmpty": "\u0143\n\u0301\ud83d\udc69"
+  },
+  {
+   "input": "/\u01f0\ufb01",
+   "cleanedName": "/\u01f0\ufb01",
+   "nameKey": "/\u01f0\ufb01",
+   "searchKey": "/jfi",
+   "looseKey": "jfi",
+   "wordsKey": "jfi",
+   "nilIfEmpty": "/\u01f0\ufb01"
+  },
+  {
+   "input": "z\u2009\"\u200b\u0153",
+   "cleanedName": "z \"\u200b\u0153",
+   "nameKey": "z \"\u200b\u0153",
+   "searchKey": "z \"\u200b\u0153",
+   "looseKey": "z\u0153",
+   "wordsKey": "z \u0153",
+   "nilIfEmpty": "z\u2009\"\u200b\u0153"
+  },
+  {
+   "input": "\u0587\u00d3",
+   "cleanedName": "\u0587\u00d3",
+   "nameKey": "\u0587\u00f3",
+   "searchKey": "\u0565\u0582o",
+   "looseKey": "\u0565\u0582o",
+   "wordsKey": "\u0565\u0582o",
+   "nilIfEmpty": "\u0587\u00d3"
+  },
+  {
+   "input": ".",
+   "cleanedName": ".",
+   "nameKey": ".",
+   "searchKey": ".",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "."
+  },
+  {
+   "input": "\u1f80(\u01c5\u2028K",
+   "cleanedName": "\u1f80(\u01c5 K",
+   "nameKey": "\u1f80(\u01c6 k",
+   "searchKey": "\u03b1(\u01c6 k",
+   "looseKey": "\u03b1\u01c6k",
+   "wordsKey": "\u03b1 \u01c6 k",
+   "nilIfEmpty": "\u1f80(\u01c5\u2028K"
+  },
+  {
+   "input": "\u1161",
+   "cleanedName": "\u1161",
+   "nameKey": "\u1161",
+   "searchKey": "\u1161",
+   "looseKey": "\u1161",
+   "wordsKey": "\u1161",
+   "nilIfEmpty": "\u1161"
+  },
+  {
+   "input": "\ud83c\uddf5\u017a\u0660.x",
+   "cleanedName": "\ud83c\uddf5\u017a\u0660.x",
+   "nameKey": "\ud83c\uddf5\u017a\u0660.x",
+   "searchKey": "\ud83c\uddf5z\u0660.x",
+   "looseKey": "z\u0660x",
+   "wordsKey": "z\u0660 x",
+   "nilIfEmpty": "\ud83c\uddf5\u017a\u0660.x"
+  },
+  {
+   "input": "\u2009\u0085 \u00d3\u00a0\ufe0f\uff9e\u200b",
+   "cleanedName": "\u00d3 \u200b",
+   "nameKey": "\u00f3 \u200b",
+   "searchKey": "o \u200b",
+   "looseKey": "o",
+   "wordsKey": "o",
+   "nilIfEmpty": "\u2009\u0085 \u00d3\u00a0\ufe0f\uff9e\u200b"
+  },
+  {
+   "input": ",\u4e00.\u017c\u0338b",
+   "cleanedName": ",\u4e00.\u017c\u0338b",
+   "nameKey": ",\u4e00.\u017c\u0338b",
+   "searchKey": ",\u4e00.zb",
+   "looseKey": "\u4e00zb",
+   "wordsKey": "\u4e00 zb",
+   "nilIfEmpty": ",\u4e00.\u017c\u0338b"
+  },
+  {
+   "input": "\ufb00\u0119\uff5a\u216b-",
+   "cleanedName": "\ufb00\u0119\uff5a\u216b-",
+   "nameKey": "\ufb00\u0119\uff5a\u217b-",
+   "searchKey": "ffez\u217b-",
+   "looseKey": "ffez\u217b",
+   "wordsKey": "ffez\u217b",
+   "nilIfEmpty": "\ufb00\u0119\uff5a\u216b-"
+  },
+  {
+   "input": ".\ud83d\udc69Z\n;\u00d3\u0916\uff21",
+   "cleanedName": ".\ud83d\udc69Z ;\u00d3\u0916\uff21",
+   "nameKey": ".\ud83d\udc69z ;\u00f3\u0916\uff41",
+   "searchKey": ".\ud83d\udc69z ;o\u0916a",
+   "looseKey": "zo\u0916a",
+   "wordsKey": "z o\u0916a",
+   "nilIfEmpty": ".\ud83d\udc69Z\n;\u00d3\u0916\uff21"
+  },
+  {
+   "input": ")\u01c6\r\u00d3\u0104\u00a0",
+   "cleanedName": ")\u01c6 \u00d3\u0104",
+   "nameKey": ")\u01c6 \u00f3\u0105",
+   "searchKey": ")\u01c6 oa",
+   "looseKey": "\u01c6oa",
+   "wordsKey": "\u01c6 oa",
+   "nilIfEmpty": ")\u01c6\r\u00d3\u0104\u00a0"
+  },
+  {
+   "input": "\ud83d\udc69\u00bd\u0149\u0301\u0669-.\u00e6",
+   "cleanedName": "\ud83d\udc69\u00bd\u0149\u0301\u0669-.\u00e6",
+   "nameKey": "\ud83d\udc69\u00bd\u0149\u0301\u0669-.\u00e6",
+   "searchKey": "\ud83d\udc69\u00bd\u02bcn\u0669-.\u00e6",
+   "looseKey": "\u00bd\u02bcn\u0669\u00e6",
+   "wordsKey": "\u00bd\u02bcn\u0669 \u00e6",
+   "nilIfEmpty": "\ud83d\udc69\u00bd\u0149\u0301\u0669-.\u00e6"
+  },
+  {
+   "input": "\ud83c\uddf5\u0106\ud83d\udc68",
+   "cleanedName": "\ud83c\uddf5\u0106\ud83d\udc68",
+   "nameKey": "\ud83c\uddf5\u0107\ud83d\udc68",
+   "searchKey": "\ud83c\uddf5c\ud83d\udc68",
+   "looseKey": "c",
+   "wordsKey": "c",
+   "nilIfEmpty": "\ud83c\uddf5\u0106\ud83d\udc68"
+  },
+  {
+   "input": "\r\u0587\u017a\ufb00A",
+   "cleanedName": "\u0587\u017a\ufb00A",
+   "nameKey": "\u0587\u017a\ufb00a",
+   "searchKey": "\u0565\u0582zffa",
+   "looseKey": "\u0565\u0582zffa",
+   "wordsKey": "\u0565\u0582zffa",
+   "nilIfEmpty": "\r\u0587\u017a\ufb00A"
+  },
+  {
+   "input": "\uffe3\u03a3\u0916\u00df\u0142\"\u00f3",
+   "cleanedName": "\uffe3\u03a3\u0916\u00df\u0142\"\u00f3",
+   "nameKey": "\uffe3\u03c3\u0916\u00df\u0142\"\u00f3",
+   "searchKey": "\uffe3\u03c3\u0916ssl\"o",
+   "looseKey": "\u03c3\u0916sslo",
+   "wordsKey": "\u03c3\u0916ssl o",
+   "nilIfEmpty": "\uffe3\u03a3\u0916\u00df\u0142\"\u00f3"
+  },
+  {
+   "input": "\u0001\u24b6'\"\u00b2\ud83d\udc69\u00f8",
+   "cleanedName": "\u0001\u24b6'\"\u00b2\ud83d\udc69\u00f8",
+   "nameKey": "\u0001\u24d0'\"\u00b2\ud83d\udc69\u00f8",
+   "searchKey": "\u0001\u24d0'\"\u00b2\ud83d\udc69\u00f8",
+   "looseKey": "\u24d0\u00b2\u00f8",
+   "wordsKey": "\u24d0 \u00b2 \u00f8",
+   "nilIfEmpty": "\u0001\u24b6'\"\u00b2\ud83d\udc69\u00f8"
+  },
+  {
+   "input": "\u0179\u00f3\u00a0",
+   "cleanedName": "\u0179\u00f3",
+   "nameKey": "\u017a\u00f3",
+   "searchKey": "zo",
+   "looseKey": "zo",
+   "wordsKey": "zo",
+   "nilIfEmpty": "\u0179\u00f3\u00a0"
+  },
+  {
+   "input": ",",
+   "cleanedName": ",",
+   "nameKey": ",",
+   "searchKey": ",",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": ","
+  },
+  {
+   "input": "(\u0143\u03a3\u1e9e\u0149\u0591[\u0141",
+   "cleanedName": "(\u0143\u03a3\u1e9e\u0149\u0591[\u0141",
+   "nameKey": "(\u0144\u03c3\u00df\u0149\u0591[\u0142",
+   "searchKey": "(n\u03c3ss\u02bcn[l",
+   "looseKey": "n\u03c3ss\u02bcnl",
+   "wordsKey": "n\u03c3ss\u02bcn l",
+   "nilIfEmpty": "(\u0143\u03a3\u1e9e\u0149\u0591[\u0141"
+  },
+  {
+   "input": "\u00d3\u0085\u0141\u13a0\u015a\u03c2\u2013\u00b5",
+   "cleanedName": "\u00d3 \u0141\u13a0\u015a\u03c2\u2013\u00b5",
+   "nameKey": "\u00f3 \u0142\uab70\u015b\u03c2\u2013\u00b5",
+   "searchKey": "o l\uab70s\u03c3\u2013\u03bc",
+   "looseKey": "ol\uab70s\u03c3\u03bc",
+   "wordsKey": "o l\uab70s\u03c3 \u03bc",
+   "nilIfEmpty": "\u00d3\u0085\u0141\u13a0\u015a\u03c2\u2013\u00b5"
+  },
+  {
+   "input": "\u2028\u0141\u2014\n\u13a0\uff11\u0119",
+   "cleanedName": "\u0141\u2014 \u13a0\uff11\u0119",
+   "nameKey": "\u0142\u2014 \uab70\uff11\u0119",
+   "searchKey": "l\u2014 \uab701e",
+   "looseKey": "l\uab701e",
+   "wordsKey": "l \uab701e",
+   "nilIfEmpty": "\u2028\u0141\u2014\n\u13a0\uff11\u0119"
+  },
+  {
+   "input": "\u0119\u0345",
+   "cleanedName": "\u0119\u0345",
+   "nameKey": "\u0119\u0345",
+   "searchKey": "e",
+   "looseKey": "e",
+   "wordsKey": "e",
+   "nilIfEmpty": "\u0119\u0345"
+  },
+  {
+   "input": "\u015b\u0104",
+   "cleanedName": "\u015b\u0104",
+   "nameKey": "\u015b\u0105",
+   "searchKey": "sa",
+   "looseKey": "sa",
+   "wordsKey": "sa",
+   "nilIfEmpty": "\u015b\u0104"
+  },
+  {
+   "input": "\u0105\u00c5",
+   "cleanedName": "\u0105\u00c5",
+   "nameKey": "\u0105\u00e5",
+   "searchKey": "aa",
+   "looseKey": "aa",
+   "wordsKey": "aa",
+   "nilIfEmpty": "\u0105\u00c5"
+  },
+  {
+   "input": "\u00df\u01c4\u001c",
+   "cleanedName": "\u00df\u01c4\u001c",
+   "nameKey": "\u00df\u01c6\u001c",
+   "searchKey": "ss\u01c6\u001c",
+   "looseKey": "ss\u01c6",
+   "wordsKey": "ss\u01c6",
+   "nilIfEmpty": "\u00df\u01c4\u001c"
+  },
+  {
+   "input": "\u03a9\ufb00\u03c3",
+   "cleanedName": "\u03a9\ufb00\u03c3",
+   "nameKey": "\u03c9\ufb00\u03c3",
+   "searchKey": "\u03c9ff\u03c3",
+   "looseKey": "\u03c9ff\u03c3",
+   "wordsKey": "\u03c9ff\u03c3",
+   "nilIfEmpty": "\u03a9\ufb00\u03c3"
+  },
+  {
+   "input": "-\u03c2\u0130",
+   "cleanedName": "-\u03c2\u0130",
+   "nameKey": "-\u03c2i\u0307",
+   "searchKey": "-\u03c3i",
+   "looseKey": "\u03c3i",
+   "wordsKey": "\u03c3i",
+   "nilIfEmpty": "-\u03c2\u0130"
+  },
+  {
+   "input": "\u0001\ud83c\uddf1\uff9ebb\u0903\n",
+   "cleanedName": "\u0001\ud83c\uddf1\uff9ebb\u0903",
+   "nameKey": "\u0001\ud83c\uddf1\uff9ebb\u0903",
+   "searchKey": "\u0001\ud83c\uddf1\uff9ebb\u0903",
+   "looseKey": "bb\u0903",
+   "wordsKey": "bb\u0903",
+   "nilIfEmpty": "\u0001\ud83c\uddf1\uff9ebb\u0903\n"
+  },
+  {
+   "input": "\u0149\u00b5Z\u0660",
+   "cleanedName": "\u0149\u00b5Z\u0660",
+   "nameKey": "\u0149\u00b5z\u0660",
+   "searchKey": "\u02bcn\u03bcz\u0660",
+   "looseKey": "\u02bcn\u03bcz\u0660",
+   "wordsKey": "\u02bcn\u03bcz\u0660",
+   "nilIfEmpty": "\u0149\u00b5Z\u0660"
+  },
+  {
+   "input": "\u0107\ud83c\uddf1\u0152\u00c5\u01c5\u017b",
+   "cleanedName": "\u0107\ud83c\uddf1\u0152\u00c5\u01c5\u017b",
+   "nameKey": "\u0107\ud83c\uddf1\u0153\u00e5\u01c6\u017c",
+   "searchKey": "c\ud83c\uddf1\u0153a\u01c6z",
+   "looseKey": "c\u0153a\u01c6z",
+   "wordsKey": "c \u0153a\u01c6z",
+   "nilIfEmpty": "\u0107\ud83c\uddf1\u0152\u00c5\u01c5\u017b"
+  },
+  {
+   "input": "\u0143",
+   "cleanedName": "\u0143",
+   "nameKey": "\u0144",
+   "searchKey": "n",
+   "looseKey": "n",
+   "wordsKey": "n",
+   "nilIfEmpty": "\u0143"
+  },
+  {
+   "input": "\u03a3",
+   "cleanedName": "\u03a3",
+   "nameKey": "\u03c3",
+   "searchKey": "\u03c3",
+   "looseKey": "\u03c3",
+   "wordsKey": "\u03c3",
+   "nilIfEmpty": "\u03a3"
+  },
+  {
+   "input": "\u0001\u03a9\u017a\u00f3\u0152\u24d0",
+   "cleanedName": "\u0001\u03a9\u017a\u00f3\u0152\u24d0",
+   "nameKey": "\u0001\u03c9\u017a\u00f3\u0153\u24d0",
+   "searchKey": "\u0001\u03c9zo\u0153\u24d0",
+   "looseKey": "\u03c9zo\u0153\u24d0",
+   "wordsKey": "\u03c9zo\u0153\u24d0",
+   "nilIfEmpty": "\u0001\u03a9\u017a\u00f3\u0152\u24d0"
+  },
+  {
+   "input": "\u0119?\u015a\u1e9b\ud83c\udd70\ud83c\udd70\ufe0f\u0152",
+   "cleanedName": "\u0119?\u015a\u1e9b\ud83c\udd70\ud83c\udd70\ufe0f\u0152",
+   "nameKey": "\u0119?\u015b\u1e9b\ud83c\udd70\ud83c\udd70\ufe0f\u0153",
+   "searchKey": "e?ss\ud83c\udd70\ud83c\udd70\ufe0f\u0153",
+   "looseKey": "ess\ud83c\udd70\ud83c\udd70\ufe0f\u0153",
+   "wordsKey": "e ss\ud83c\udd70\ud83c\udd70\ufe0f\u0153",
+   "nilIfEmpty": "\u0119?\u015a\u1e9b\ud83c\udd70\ud83c\udd70\ufe0f\u0152"
+  },
+  {
+   "input": "\ud83d\udc69\uff9e\u0916",
+   "cleanedName": "\ud83d\udc69\uff9e\u0916",
+   "nameKey": "\ud83d\udc69\uff9e\u0916",
+   "searchKey": "\ud83d\udc69\uff9e\u0916",
+   "looseKey": "\u0916",
+   "wordsKey": "\u0916",
+   "nilIfEmpty": "\ud83d\udc69\uff9e\u0916"
+  },
+  {
+   "input": "-'\u0144\u2204K",
+   "cleanedName": "-'\u0144\u2204K",
+   "nameKey": "-'\u0144\u2204k",
+   "searchKey": "-'n\u2204k",
+   "looseKey": "nk",
+   "wordsKey": "n k",
+   "nilIfEmpty": "-'\u0144\u2204K"
+  },
+  {
+   "input": ".\u093f",
+   "cleanedName": ".\u093f",
+   "nameKey": ".\u093f",
+   "searchKey": ".\u093f",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": ".\u093f"
+  },
+  {
+   "input": ")\uab70\u00f8\u0142\uac00\u1fb3",
+   "cleanedName": ")\uab70\u00f8\u0142\uac00\u1fb3",
+   "nameKey": ")\uab70\u00f8\u0142\uac00\u1fb3",
+   "searchKey": ")\uab70\u00f8l\uac00\u03b1",
+   "looseKey": "\uab70\u00f8l\uac00\u03b1",
+   "wordsKey": "\uab70\u00f8l\uac00\u03b1",
+   "nilIfEmpty": ")\uab70\u00f8\u0142\uac00\u1fb3"
+  },
+  {
+   "input": "\n\u1f80)\u0142\u3000\ufb06",
+   "cleanedName": "\u1f80)\u0142 \ufb06",
+   "nameKey": "\u1f80)\u0142 \ufb06",
+   "searchKey": "\u03b1)l st",
+   "looseKey": "\u03b1lst",
+   "wordsKey": "\u03b1 l st",
+   "nilIfEmpty": "\n\u1f80)\u0142\u3000\ufb06"
+  },
+  {
+   "input": "?&\u00c5\u0660\u200d\u00c6\u0119K",
+   "cleanedName": "?&\u00c5\u0660\u200d\u00c6\u0119K",
+   "nameKey": "?&\u00e5\u0660\u200d\u00e6\u0119k",
+   "searchKey": "?&a\u0660\u200d\u00e6ek",
+   "looseKey": "a\u0660\u200d\u00e6ek",
+   "wordsKey": "a\u0660\u200d\u00e6ek",
+   "nilIfEmpty": "?&\u00c5\u0660\u200d\u00c6\u0119K"
+  },
+  {
+   "input": "\u03c2",
+   "cleanedName": "\u03c2",
+   "nameKey": "\u03c2",
+   "searchKey": "\u03c3",
+   "looseKey": "\u03c3",
+   "wordsKey": "\u03c3",
+   "nilIfEmpty": "\u03c2"
+  },
+  {
+   "input": "9",
+   "cleanedName": "9",
+   "nameKey": "9",
+   "searchKey": "9",
+   "looseKey": "9",
+   "wordsKey": "9",
+   "nilIfEmpty": "9"
+  },
+  {
+   "input": "\u102b\u0338\u102b\r\n\ud83c\uddf5\u0131",
+   "cleanedName": "\u102b\u0338\u102b \ud83c\uddf5\u0131",
+   "nameKey": "\u102b\u0338\u102b \ud83c\uddf5\u0131",
+   "searchKey": "\u102b\u102b \ud83c\uddf5\u0131",
+   "looseKey": "\u102b\u102b\u0131",
+   "wordsKey": "\u102b\u102b \u0131",
+   "nilIfEmpty": "\u102b\u0338\u102b\r\n\ud83c\uddf5\u0131"
+  },
+  {
+   "input": "\u00f8",
+   "cleanedName": "\u00f8",
+   "nameKey": "\u00f8",
+   "searchKey": "\u00f8",
+   "looseKey": "\u00f8",
+   "wordsKey": "\u00f8",
+   "nilIfEmpty": "\u00f8"
+  },
+  {
+   "input": "\u0591\u00b2K\u00d8a\u2013",
+   "cleanedName": "\u0591\u00b2K\u00d8a\u2013",
+   "nameKey": "\u0591\u00b2k\u00f8a\u2013",
+   "searchKey": "\u0591\u00b2k\u00f8a\u2013",
+   "looseKey": "\u00b2k\u00f8a",
+   "wordsKey": "\u00b2k\u00f8a",
+   "nilIfEmpty": "\u0591\u00b2K\u00d8a\u2013"
+  },
+  {
+   "input": "\ufb01",
+   "cleanedName": "\ufb01",
+   "nameKey": "\ufb01",
+   "searchKey": "fi",
+   "looseKey": "fi",
+   "wordsKey": "fi",
+   "nilIfEmpty": "\ufb01"
+  },
+  {
+   "input": "\u1161b\u03a9\u093f",
+   "cleanedName": "\u1161b\u03a9\u093f",
+   "nameKey": "\u1161b\u03c9\u093f",
+   "searchKey": "\u1161b\u03c9\u093f",
+   "looseKey": "\u1161b\u03c9\u093f",
+   "wordsKey": "\u1161b\u03c9\u093f",
+   "nilIfEmpty": "\u1161b\u03a9\u093f"
+  },
+  {
+   "input": "\u0001\u03c2\n",
+   "cleanedName": "\u0001\u03c2",
+   "nameKey": "\u0001\u03c2",
+   "searchKey": "\u0001\u03c3",
+   "looseKey": "\u03c3",
+   "wordsKey": "\u03c3",
+   "nilIfEmpty": "\u0001\u03c2\n"
+  },
+  {
+   "input": "\u0587\u216b\ufe0f\ud83c\udffd0\ufb01",
+   "cleanedName": "\u0587\u216b\ufe0f\ud83c\udffd0\ufb01",
+   "nameKey": "\u0587\u217b\ufe0f\ud83c\udffd0\ufb01",
+   "searchKey": "\u0565\u0582\u217b\ufe0f\ud83c\udffd0fi",
+   "looseKey": "\u0565\u0582\u217b\ufe0f\ud83c\udffd0fi",
+   "wordsKey": "\u0565\u0582\u217b\ufe0f\ud83c\udffd0fi",
+   "nilIfEmpty": "\u0587\u216b\ufe0f\ud83c\udffd0\ufb01"
+  },
+  {
+   "input": "\u2013\u1100",
+   "cleanedName": "\u2013\u1100",
+   "nameKey": "\u2013\u1100",
+   "searchKey": "\u2013\u1100",
+   "looseKey": "\u1100",
+   "wordsKey": "\u1100",
+   "nilIfEmpty": "\u2013\u1100"
+  },
+  {
+   "input": "\u2009\u0152 \u0153?\u200c",
+   "cleanedName": "\u0152 \u0153?\u200c",
+   "nameKey": "\u0153 \u0153?\u200c",
+   "searchKey": "\u0153 \u0153?",
+   "looseKey": "\u0153\u0153",
+   "wordsKey": "\u0153 \u0153",
+   "nilIfEmpty": "\u2009\u0152 \u0153?\u200c"
+  },
+  {
+   "input": "\u0915\u0153",
+   "cleanedName": "\u0915\u0153",
+   "nameKey": "\u0915\u0153",
+   "searchKey": "\u0915\u0153",
+   "looseKey": "\u0915\u0153",
+   "wordsKey": "\u0915\u0153",
+   "nilIfEmpty": "\u0915\u0153"
+  },
+  {
+   "input": "\u2014;\u0001\u200d\u00c5/",
+   "cleanedName": "\u2014;\u0001\u200d\u00c5/",
+   "nameKey": "\u2014;\u0001\u200d\u00e5/",
+   "searchKey": "\u2014;\u0001\u200da/",
+   "looseKey": "a",
+   "wordsKey": "a",
+   "nilIfEmpty": "\u2014;\u0001\u200d\u00c5/"
+  },
+  {
+   "input": "[",
+   "cleanedName": "[",
+   "nameKey": "[",
+   "searchKey": "[",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "["
+  },
+  {
+   "input": "x\ufeff\u13a0\u00d3",
+   "cleanedName": "x\ufeff\u13a0\u00d3",
+   "nameKey": "x\ufeff\uab70\u00f3",
+   "searchKey": "x\ufeff\uab70o",
+   "looseKey": "x\uab70o",
+   "wordsKey": "x \uab70o",
+   "nilIfEmpty": "x\ufeff\u13a0\u00d3"
+  },
+  {
+   "input": "\ufb00\"\u0001\uac00\u216b\u00c5",
+   "cleanedName": "\ufb00\"\u0001\uac00\u216b\u00c5",
+   "nameKey": "\ufb00\"\u0001\uac00\u217b\u00e5",
+   "searchKey": "ff\"\u0001\uac00\u217ba",
+   "looseKey": "ff\uac00\u217ba",
+   "wordsKey": "ff \uac00\u217ba",
+   "nilIfEmpty": "\ufb00\"\u0001\uac00\u216b\u00c5"
+  },
+  {
+   "input": "\u200d\u093c",
+   "cleanedName": "\u200d\u093c",
+   "nameKey": "\u200d\u093c",
+   "searchKey": "\u200d\u093c",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\u200d\u093c"
+  },
+  {
+   "input": "A.\u0916A",
+   "cleanedName": "A.\u0916A",
+   "nameKey": "a.\u0916a",
+   "searchKey": "a.\u0916a",
+   "looseKey": "a\u0916a",
+   "wordsKey": "a \u0916a",
+   "nilIfEmpty": "A.\u0916A"
+  },
+  {
+   "input": "]\u0179",
+   "cleanedName": "]\u0179",
+   "nameKey": "]\u017a",
+   "searchKey": "]z",
+   "looseKey": "z",
+   "wordsKey": "z",
+   "nilIfEmpty": "]\u0179"
+  },
+  {
+   "input": "\uff5a\u001f\ufb01\u0106\u017c\u0152\u00a0",
+   "cleanedName": "\uff5a\u001f\ufb01\u0106\u017c\u0152",
+   "nameKey": "\uff5a\u001f\ufb01\u0107\u017c\u0153",
+   "searchKey": "z\u001fficz\u0153",
+   "looseKey": "zficz\u0153",
+   "wordsKey": "z ficz\u0153",
+   "nilIfEmpty": "\uff5a\u001f\ufb01\u0106\u017c\u0152\u00a0"
+  },
+  {
+   "input": "\u0107\ud83c\uddf5\u0142\u00c5B\u00bd\u01f0\u093f",
+   "cleanedName": "\u0107\ud83c\uddf5\u0142\u00c5B\u00bd\u01f0\u093f",
+   "nameKey": "\u0107\ud83c\uddf5\u0142\u00e5b\u00bd\u01f0\u093f",
+   "searchKey": "c\ud83c\uddf5lab\u00bdj\u093f",
+   "looseKey": "clab\u00bdj\u093f",
+   "wordsKey": "c lab\u00bdj\u093f",
+   "nilIfEmpty": "\u0107\ud83c\uddf5\u0142\u00c5B\u00bd\u01f0\u093f"
+  },
+  {
+   "input": "\ud83c\udffd\r\n\u2204\u0307\u001f'\u00c6",
+   "cleanedName": "\ud83c\udffd \u2204\u0307\u001f'\u00c6",
+   "nameKey": "\ud83c\udffd \u2204\u0307\u001f'\u00e6",
+   "searchKey": "\ud83c\udffd \u2204\u001f'\u00e6",
+   "looseKey": "\u00e6",
+   "wordsKey": "\u00e6",
+   "nilIfEmpty": "\ud83c\udffd\r\n\u2204\u0307\u001f'\u00c6"
+  },
+  {
+   "input": "\uff21\ud83c\uddf5",
+   "cleanedName": "\uff21\ud83c\uddf5",
+   "nameKey": "\uff41\ud83c\uddf5",
+   "searchKey": "a\ud83c\uddf5",
+   "looseKey": "a",
+   "wordsKey": "a",
+   "nilIfEmpty": "\uff21\ud83c\uddf5"
+  },
+  {
+   "input": "\u24b6\uff11\uffe3\u216b\uac00\u01f0\u200c",
+   "cleanedName": "\u24b6\uff11\uffe3\u216b\uac00\u01f0\u200c",
+   "nameKey": "\u24d0\uff11\uffe3\u217b\uac00\u01f0\u200c",
+   "searchKey": "\u24d01\uffe3\u217b\uac00j",
+   "looseKey": "\u24d01\u217b\uac00j",
+   "wordsKey": "\u24d01 \u217b\uac00j",
+   "nilIfEmpty": "\u24b6\uff11\uffe3\u216b\uac00\u01f0\u200c"
+  },
+  {
+   "input": "\u01f0\t\u2204\u00a0\uff9e\u200d",
+   "cleanedName": "\u01f0 \u2204",
+   "nameKey": "\u01f0 \u2204",
+   "searchKey": "j \u2204",
+   "looseKey": "j",
+   "wordsKey": "j",
+   "nilIfEmpty": "\u01f0\t\u2204\u00a0\uff9e\u200d"
+  },
+  {
+   "input": "\u094d\u00a0\u0338",
+   "cleanedName": "\u094d",
+   "nameKey": "\u094d",
+   "searchKey": "\u094d",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\u094d\u00a0\u0338"
+  },
+  {
+   "input": "\u1100\u200d]\u00c5x-",
+   "cleanedName": "\u1100\u200d]\u00c5x-",
+   "nameKey": "\u1100\u200d]\u00e5x-",
+   "searchKey": "\u1100\u200d]ax-",
+   "looseKey": "\u1100\u200dax",
+   "wordsKey": "\u1100\u200d ax",
+   "nilIfEmpty": "\u1100\u200d]\u00c5x-"
+  },
+  {
+   "input": "\u06699\u102b",
+   "cleanedName": "\u06699\u102b",
+   "nameKey": "\u06699\u102b",
+   "searchKey": "\u06699\u102b",
+   "looseKey": "\u06699\u102b",
+   "wordsKey": "\u06699\u102b",
+   "nilIfEmpty": "\u06699\u102b"
+  },
+  {
+   "input": "\u0915\uffe3\rB",
+   "cleanedName": "\u0915\uffe3 B",
+   "nameKey": "\u0915\uffe3 b",
+   "searchKey": "\u0915\uffe3 b",
+   "looseKey": "\u0915b",
+   "wordsKey": "\u0915 b",
+   "nilIfEmpty": "\u0915\uffe3\rB"
+  },
+  {
+   "input": "\u2028\u01c5B",
+   "cleanedName": "\u01c5B",
+   "nameKey": "\u01c6b",
+   "searchKey": "\u01c6b",
+   "looseKey": "\u01c6b",
+   "wordsKey": "\u01c6b",
+   "nilIfEmpty": "\u2028\u01c5B"
+  },
+  {
+   "input": "\ufb06\n",
+   "cleanedName": "\ufb06",
+   "nameKey": "\ufb06",
+   "searchKey": "st",
+   "looseKey": "st",
+   "wordsKey": "st",
+   "nilIfEmpty": "\ufb06\n"
+  },
+  {
+   "input": "\u0131",
+   "cleanedName": "\u0131",
+   "nameKey": "\u0131",
+   "searchKey": "\u0131",
+   "looseKey": "\u0131",
+   "wordsKey": "\u0131",
+   "nilIfEmpty": "\u0131"
+  },
+  {
+   "input": "x,",
+   "cleanedName": "x,",
+   "nameKey": "x,",
+   "searchKey": "x,",
+   "looseKey": "x",
+   "wordsKey": "x",
+   "nilIfEmpty": "x,"
+  },
+  {
+   "input": "\u200b\u00d3",
+   "cleanedName": "\u200b\u00d3",
+   "nameKey": "\u200b\u00f3",
+   "searchKey": "\u200bo",
+   "looseKey": "o",
+   "wordsKey": "o",
+   "nilIfEmpty": "\u200b\u00d3"
+  },
+  {
+   "input": "\u2009\u09169\u3000\u00f3,\u11a8,",
+   "cleanedName": "\u09169 \u00f3,\u11a8,",
+   "nameKey": "\u09169 \u00f3,\u11a8,",
+   "searchKey": "\u09169 o,\u11a8,",
+   "looseKey": "\u09169o\u11a8",
+   "wordsKey": "\u09169 o \u11a8",
+   "nilIfEmpty": "\u2009\u09169\u3000\u00f3,\u11a8,"
+  },
+  {
+   "input": "\t\u0328\u2013\u00bd\u0130\u03a3\u1e9e\n",
+   "cleanedName": "\u0328\u2013\u00bd\u0130\u03a3\u1e9e",
+   "nameKey": "\u0328\u2013\u00bdi\u0307\u03c3\u00df",
+   "searchKey": "\u0328\u2013\u00bdi\u03c3ss",
+   "looseKey": "\u00bdi\u03c3ss",
+   "wordsKey": "\u00bdi\u03c3ss",
+   "nilIfEmpty": "\t\u0328\u2013\u00bd\u0130\u03a3\u1e9e\n"
+  },
+  {
+   "input": "\u00bd\u11a8",
+   "cleanedName": "\u00bd\u11a8",
+   "nameKey": "\u00bd\u11a8",
+   "searchKey": "\u00bd\u11a8",
+   "looseKey": "\u00bd\u11a8",
+   "wordsKey": "\u00bd\u11a8",
+   "nilIfEmpty": "\u00bd\u11a8"
+  },
+  {
+   "input": "\u00c6\u03a9\u1e9b\ufb00\u0915\u00b5\u0153",
+   "cleanedName": "\u00c6\u03a9\u1e9b\ufb00\u0915\u00b5\u0153",
+   "nameKey": "\u00e6\u03c9\u1e9b\ufb00\u0915\u00b5\u0153",
+   "searchKey": "\u00e6\u03c9sff\u0915\u03bc\u0153",
+   "looseKey": "\u00e6\u03c9sff\u0915\u03bc\u0153",
+   "wordsKey": "\u00e6\u03c9sff\u0915\u03bc\u0153",
+   "nilIfEmpty": "\u00c6\u03a9\u1e9b\ufb00\u0915\u00b5\u0153"
+  },
+  {
+   "input": "\u0143/\u0142.\u01c6\u00f8",
+   "cleanedName": "\u0143/\u0142.\u01c6\u00f8",
+   "nameKey": "\u0144/\u0142.\u01c6\u00f8",
+   "searchKey": "n/l.\u01c6\u00f8",
+   "looseKey": "nl\u01c6\u00f8",
+   "wordsKey": "n l \u01c6\u00f8",
+   "nilIfEmpty": "\u0143/\u0142.\u01c6\u00f8"
+  },
+  {
+   "input": "\u0118\u001f",
+   "cleanedName": "\u0118\u001f",
+   "nameKey": "\u0119\u001f",
+   "searchKey": "e\u001f",
+   "looseKey": "e",
+   "wordsKey": "e",
+   "nilIfEmpty": "\u0118\u001f"
+  },
+  {
+   "input": "\u017b \u00c5\u200d\u2028",
+   "cleanedName": "\u017b \u00c5\u200d",
+   "nameKey": "\u017c \u00e5\u200d",
+   "searchKey": "z a\u200d",
+   "looseKey": "za\u200d",
+   "wordsKey": "z a\u200d",
+   "nilIfEmpty": "\u017b \u00c5\u200d\u2028"
+  },
+  {
+   "input": "\u0106\u0669\u017b",
+   "cleanedName": "\u0106\u0669\u017b",
+   "nameKey": "\u0107\u0669\u017c",
+   "searchKey": "c\u0669z",
+   "looseKey": "c\u0669z",
+   "wordsKey": "c\u0669z",
+   "nilIfEmpty": "\u0106\u0669\u017b"
+  },
+  {
+   "input": "K\u2009\u2028\u0179\u0085\u00c5",
+   "cleanedName": "K \u0179 \u00c5",
+   "nameKey": "k \u017a \u00e5",
+   "searchKey": "k z a",
+   "looseKey": "kza",
+   "wordsKey": "k z a",
+   "nilIfEmpty": "K\u2009\u2028\u0179\u0085\u00c5"
+  },
+  {
+   "input": "\ufe0f\u1fb3\u0328\u015a\ud83c\udd70A\u094d\u0660",
+   "cleanedName": "\ufe0f\u1fb3\u0328\u015a\ud83c\udd70A\u094d\u0660",
+   "nameKey": "\ufe0f\u1fb3\u0328\u015b\ud83c\udd70a\u094d\u0660",
+   "searchKey": "\ufe0f\u03b1s\ud83c\udd70a\u0660",
+   "looseKey": "\u03b1s\ud83c\udd70a\u0660",
+   "wordsKey": "\u03b1s\ud83c\udd70a\u0660",
+   "nilIfEmpty": "\ufe0f\u1fb3\u0328\u015a\ud83c\udd70A\u094d\u0660"
+  },
+  {
+   "input": "(\u00d8\u0104\u2204",
+   "cleanedName": "(\u00d8\u0104\u2204",
+   "nameKey": "(\u00f8\u0105\u2204",
+   "searchKey": "(\u00f8a\u2204",
+   "looseKey": "\u00f8a",
+   "wordsKey": "\u00f8a",
+   "nilIfEmpty": "(\u00d8\u0104\u2204"
+  },
+  {
+   "input": "\u0152\u0338\u0328\uab70\u2009\ufb01",
+   "cleanedName": "\u0152\u0338\u0328\uab70 \ufb01",
+   "nameKey": "\u0153\u0338\u0328\uab70 \ufb01",
+   "searchKey": "\u0153\uab70 fi",
+   "looseKey": "\u0153\uab70fi",
+   "wordsKey": "\u0153\uab70 fi",
+   "nilIfEmpty": "\u0152\u0338\u0328\uab70\u2009\ufb01"
+  },
+  {
+   "input": "\u2009\u0915\u00e6\u0105-!'",
+   "cleanedName": "\u0915\u00e6\u0105-!'",
+   "nameKey": "\u0915\u00e6\u0105-!'",
+   "searchKey": "\u0915\u00e6a-!'",
+   "looseKey": "\u0915\u00e6a",
+   "wordsKey": "\u0915\u00e6a",
+   "nilIfEmpty": "\u2009\u0915\u00e6\u0105-!'"
+  },
+  {
+   "input": "\u0179\ufb06\u0118",
+   "cleanedName": "\u0179\ufb06\u0118",
+   "nameKey": "\u017a\ufb06\u0119",
+   "searchKey": "zste",
+   "looseKey": "zste",
+   "wordsKey": "zste",
+   "nilIfEmpty": "\u0179\ufb06\u0118"
+  },
+  {
+   "input": "\u0142\u017c,\u0142\u24b6",
+   "cleanedName": "\u0142\u017c,\u0142\u24b6",
+   "nameKey": "\u0142\u017c,\u0142\u24d0",
+   "searchKey": "lz,l\u24d0",
+   "looseKey": "lzl\u24d0",
+   "wordsKey": "lz l\u24d0",
+   "nilIfEmpty": "\u0142\u017c,\u0142\u24b6"
+  },
+  {
+   "input": "\u1161\u0142\u0587,\u0587\u06600\u03a9",
+   "cleanedName": "\u1161\u0142\u0587,\u0587\u06600\u03a9",
+   "nameKey": "\u1161\u0142\u0587,\u0587\u06600\u03c9",
+   "searchKey": "\u1161l\u0565\u0582,\u0565\u0582\u06600\u03c9",
+   "looseKey": "\u1161l\u0565\u0582\u0565\u0582\u06600\u03c9",
+   "wordsKey": "\u1161l\u0565\u0582 \u0565\u0582\u06600\u03c9",
+   "nilIfEmpty": "\u1161\u0142\u0587,\u0587\u06600\u03a9"
+  },
+  {
+   "input": "\u1e9e\u0587a\u0001\u1f80\u03c3",
+   "cleanedName": "\u1e9e\u0587a\u0001\u1f80\u03c3",
+   "nameKey": "\u00df\u0587a\u0001\u1f80\u03c3",
+   "searchKey": "ss\u0565\u0582a\u0001\u03b1\u03c3",
+   "looseKey": "ss\u0565\u0582a\u03b1\u03c3",
+   "wordsKey": "ss\u0565\u0582a \u03b1\u03c3",
+   "nilIfEmpty": "\u1e9e\u0587a\u0001\u1f80\u03c3"
+  },
+  {
+   "input": "\u01c5\u00f8\u0142K\u01c4\uff11",
+   "cleanedName": "\u01c5\u00f8\u0142K\u01c4\uff11",
+   "nameKey": "\u01c6\u00f8\u0142k\u01c6\uff11",
+   "searchKey": "\u01c6\u00f8lk\u01c61",
+   "looseKey": "\u01c6\u00f8lk\u01c61",
+   "wordsKey": "\u01c6\u00f8lk\u01c61",
+   "nilIfEmpty": "\u01c5\u00f8\u0142K\u01c4\uff11"
+  },
+  {
+   "input": "\u2014\u0328\u00f8\u00c6",
+   "cleanedName": "\u2014\u0328\u00f8\u00c6",
+   "nameKey": "\u2014\u0328\u00f8\u00e6",
+   "searchKey": "\u2014\u00f8\u00e6",
+   "looseKey": "\u00f8\u00e6",
+   "wordsKey": "\u00f8\u00e6",
+   "nilIfEmpty": "\u2014\u0328\u00f8\u00c6"
+  },
+  {
+   "input": "\u094d\u0591",
+   "cleanedName": "\u094d\u0591",
+   "nameKey": "\u094d\u0591",
+   "searchKey": "\u094d\u0591",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\u094d\u0591"
+  },
+  {
+   "input": "A\u0179\u3000\u0591&\u015a\u0001",
+   "cleanedName": "A\u0179 &\u015a\u0001",
+   "nameKey": "a\u017a &\u015b\u0001",
+   "searchKey": "az &s\u0001",
+   "looseKey": "azs",
+   "wordsKey": "az s",
+   "nilIfEmpty": "A\u0179\u3000\u0591&\u015a\u0001"
+  },
+  {
+   "input": "\tK\u11a8\u00d3",
+   "cleanedName": "K\u11a8\u00d3",
+   "nameKey": "k\u11a8\u00f3",
+   "searchKey": "k\u11a8o",
+   "looseKey": "k\u11a8o",
+   "wordsKey": "k\u11a8o",
+   "nilIfEmpty": "\tK\u11a8\u00d3"
+  },
+  {
+   "input": "\u0591\u3000\ud83d\udc4d\u2204\u1100/\u017c",
+   "cleanedName": "\u0591 \ud83d\udc4d\u2204\u1100/\u017c",
+   "nameKey": "\u0591 \ud83d\udc4d\u2204\u1100/\u017c",
+   "searchKey": "\u0591 \ud83d\udc4d\u2204\u1100/z",
+   "looseKey": "\u1100z",
+   "wordsKey": "\u1100 z",
+   "nilIfEmpty": "\u0591\u3000\ud83d\udc4d\u2204\u1100/\u017c"
+  },
+  {
+   "input": "\u1fb3]\u0587\"",
+   "cleanedName": "\u1fb3]\u0587\"",
+   "nameKey": "\u1fb3]\u0587\"",
+   "searchKey": "\u03b1]\u0565\u0582\"",
+   "looseKey": "\u03b1\u0565\u0582",
+   "wordsKey": "\u03b1 \u0565\u0582",
+   "nilIfEmpty": "\u1fb3]\u0587\""
+  },
+  {
+   "input": "\u017c)\uff9e;",
+   "cleanedName": "\u017c)\uff9e;",
+   "nameKey": "\u017c)\uff9e;",
+   "searchKey": "z);",
+   "looseKey": "z",
+   "wordsKey": "z",
+   "nilIfEmpty": "\u017c)\uff9e;"
+  },
+  {
+   "input": "\u0328\u0345\ufb06\u093fa\ud83c\uddf5",
+   "cleanedName": "\u0328\u0345\ufb06\u093fa\ud83c\uddf5",
+   "nameKey": "\u0328\u0345\ufb06\u093fa\ud83c\uddf5",
+   "searchKey": "\u0328st\u093fa\ud83c\uddf5",
+   "looseKey": "st\u093fa",
+   "wordsKey": "st\u093fa",
+   "nilIfEmpty": "\u0328\u0345\ufb06\u093fa\ud83c\uddf5"
+  },
+  {
+   "input": "\u216b\u01f0!",
+   "cleanedName": "\u216b\u01f0!",
+   "nameKey": "\u217b\u01f0!",
+   "searchKey": "\u217bj!",
+   "looseKey": "\u217bj",
+   "wordsKey": "\u217bj",
+   "nilIfEmpty": "\u216b\u01f0!"
+  },
+  {
+   "input": "\u1f80\u093f\u0141\uff21\u017b\u03c2",
+   "cleanedName": "\u1f80\u093f\u0141\uff21\u017b\u03c2",
+   "nameKey": "\u1f80\u093f\u0142\uff41\u017c\u03c2",
+   "searchKey": "\u03b1\u093flaz\u03c3",
+   "looseKey": "\u03b1\u093flaz\u03c3",
+   "wordsKey": "\u03b1\u093flaz\u03c3",
+   "nilIfEmpty": "\u1f80\u093f\u0141\uff21\u017b\u03c2"
+  },
+  {
+   "input": "x\ufeff\u00bd\u017b\u00d39\u13a0\ufb00\u00f8",
+   "cleanedName": "x\ufeff\u00bd\u017b\u00d39\u13a0\ufb00\u00f8",
+   "nameKey": "x\ufeff\u00bd\u017c\u00f39\uab70\ufb00\u00f8",
+   "searchKey": "x\ufeff\u00bdzo9\uab70ff\u00f8",
+   "looseKey": "x\u00bdzo9\uab70ff\u00f8",
+   "wordsKey": "x \u00bdzo9\uab70ff\u00f8",
+   "nilIfEmpty": "x\ufeff\u00bd\u017b\u00d39\u13a0\ufb00\u00f8"
+  },
+  {
+   "input": "\ufb06\u03a9\u00c6",
+   "cleanedName": "\ufb06\u03a9\u00c6",
+   "nameKey": "\ufb06\u03c9\u00e6",
+   "searchKey": "st\u03c9\u00e6",
+   "looseKey": "st\u03c9\u00e6",
+   "wordsKey": "st\u03c9\u00e6",
+   "nilIfEmpty": "\ufb06\u03a9\u00c6"
+  },
+  {
+   "input": "\ufb06\ud83c\uddf1\u00a0\u03c39\u0104'A",
+   "cleanedName": "\ufb06\ud83c\uddf1 \u03c39\u0104'A",
+   "nameKey": "\ufb06\ud83c\uddf1 \u03c39\u0105'a",
+   "searchKey": "st\ud83c\uddf1 \u03c39a'a",
+   "looseKey": "st\u03c39aa",
+   "wordsKey": "st \u03c39a a",
+   "nilIfEmpty": "\ufb06\ud83c\uddf1\u00a0\u03c39\u0104'A"
+  },
+  {
+   "input": "\u06690\u017bx\u0119",
+   "cleanedName": "\u06690\u017bx\u0119",
+   "nameKey": "\u06690\u017cx\u0119",
+   "searchKey": "\u06690zxe",
+   "looseKey": "\u06690zxe",
+   "wordsKey": "\u06690zxe",
+   "nilIfEmpty": "\u06690\u017bx\u0119"
+  },
+  {
+   "input": "\u03a9",
+   "cleanedName": "\u03a9",
+   "nameKey": "\u03c9",
+   "searchKey": "\u03c9",
+   "looseKey": "\u03c9",
+   "wordsKey": "\u03c9",
+   "nilIfEmpty": "\u03a9"
+  },
+  {
+   "input": "\u015a\uff9e\u0119",
+   "cleanedName": "\u015a\uff9e\u0119",
+   "nameKey": "\u015b\uff9e\u0119",
+   "searchKey": "se",
+   "looseKey": "se",
+   "wordsKey": "se",
+   "nilIfEmpty": "\u015a\uff9e\u0119"
+  },
+  {
+   "input": "\u00b2\u0669\ufe0f\u01c4\u1100\u017c\u0669\u0591",
+   "cleanedName": "\u00b2\u0669\ufe0f\u01c4\u1100\u017c\u0669\u0591",
+   "nameKey": "\u00b2\u0669\ufe0f\u01c6\u1100\u017c\u0669\u0591",
+   "searchKey": "\u00b2\u0669\ufe0f\u01c6\u1100z\u0669\u0591",
+   "looseKey": "\u00b2\u0669\ufe0f\u01c6\u1100z\u0669\u0591",
+   "wordsKey": "\u00b2\u0669\ufe0f\u01c6\u1100z\u0669\u0591",
+   "nilIfEmpty": "\u00b2\u0669\ufe0f\u01c4\u1100\u017c\u0669\u0591"
+  },
+  {
+   "input": "\u2014\ud83c\udffdZ\u1161\u0085\u017a\u00b2\u03a9",
+   "cleanedName": "\u2014\ud83c\udffdZ\u1161 \u017a\u00b2\u03a9",
+   "nameKey": "\u2014\ud83c\udffdz\u1161 \u017a\u00b2\u03c9",
+   "searchKey": "\u2014\ud83c\udffdz\u1161 z\u00b2\u03c9",
+   "looseKey": "z\u1161z\u00b2\u03c9",
+   "wordsKey": "z\u1161 z\u00b2\u03c9",
+   "nilIfEmpty": "\u2014\ud83c\udffdZ\u1161\u0085\u017a\u00b2\u03a9"
+  },
+  {
+   "input": "\u2009",
+   "cleanedName": "",
+   "nameKey": "",
+   "searchKey": "",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\u2009"
+  },
+  {
+   "input": "\u0085\uff9e\uff9e\u001c\u015b\ud83c\uddf5\u0142\u0915",
+   "cleanedName": "\uff9e\uff9e\u001c\u015b\ud83c\uddf5\u0142\u0915",
+   "nameKey": "\uff9e\uff9e\u001c\u015b\ud83c\uddf5\u0142\u0915",
+   "searchKey": "\uff9e\u3099\u001cs\ud83c\uddf5l\u0915",
+   "looseKey": "\uff9e\u3099sl\u0915",
+   "wordsKey": "\uff9e\u3099 s l\u0915",
+   "nilIfEmpty": "\u0085\uff9e\uff9e\u001c\u015b\ud83c\uddf5\u0142\u0915"
+  },
+  {
+   "input": "\t\"\u0153",
+   "cleanedName": "\"\u0153",
+   "nameKey": "\"\u0153",
+   "searchKey": "\"\u0153",
+   "looseKey": "\u0153",
+   "wordsKey": "\u0153",
+   "nilIfEmpty": "\t\"\u0153"
+  },
+  {
+   "input": "\u200d",
+   "cleanedName": "\u200d",
+   "nameKey": "\u200d",
+   "searchKey": "\u200d",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\u200d"
+  },
+  {
+   "input": "\"\ufb00",
+   "cleanedName": "\"\ufb00",
+   "nameKey": "\"\ufb00",
+   "searchKey": "\"ff",
+   "looseKey": "ff",
+   "wordsKey": "ff",
+   "nilIfEmpty": "\"\ufb00"
+  },
+  {
+   "input": "\u0328\ufeff\ud83d\udc4d",
+   "cleanedName": "\u0328\ufeff\ud83d\udc4d",
+   "nameKey": "\u0328\ufeff\ud83d\udc4d",
+   "searchKey": "\u0328\ufeff\ud83d\udc4d",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\u0328\ufeff\ud83d\udc4d"
+  },
+  {
+   "input": "\u00bd",
+   "cleanedName": "\u00bd",
+   "nameKey": "\u00bd",
+   "searchKey": "\u00bd",
+   "looseKey": "\u00bd",
+   "wordsKey": "\u00bd",
+   "nilIfEmpty": "\u00bd"
+  },
+  {
+   "input": "\ufb01?\u0131\u00c5\ud83d\udc69\u0591\u03c2,",
+   "cleanedName": "\ufb01?\u0131\u00c5\ud83d\udc69\u0591\u03c2,",
+   "nameKey": "\ufb01?\u0131\u00e5\ud83d\udc69\u0591\u03c2,",
+   "searchKey": "fi?\u0131a\ud83d\udc69\u0591\u03c3,",
+   "looseKey": "fi\u0131a\u03c3",
+   "wordsKey": "fi \u0131a \u03c3",
+   "nilIfEmpty": "\ufb01?\u0131\u00c5\ud83d\udc69\u0591\u03c2,"
+  },
+  {
+   "input": "\u00c6",
+   "cleanedName": "\u00c6",
+   "nameKey": "\u00e6",
+   "searchKey": "\u00e6",
+   "looseKey": "\u00e6",
+   "wordsKey": "\u00e6",
+   "nilIfEmpty": "\u00c6"
+  },
+  {
+   "input": "\ud83c\uddf5\u216b0\ufb00\n\u03c2",
+   "cleanedName": "\ud83c\uddf5\u216b0\ufb00 \u03c2",
+   "nameKey": "\ud83c\uddf5\u217b0\ufb00 \u03c2",
+   "searchKey": "\ud83c\uddf5\u217b0ff \u03c3",
+   "looseKey": "\u217b0ff\u03c3",
+   "wordsKey": "\u217b0ff \u03c3",
+   "nilIfEmpty": "\ud83c\uddf5\u216b0\ufb00\n\u03c2"
+  },
+  {
+   "input": "\uac00\uab70\uff21\u0903\uac00(\u017a\u0085",
+   "cleanedName": "\uac00\uab70\uff21\u0903\uac00(\u017a",
+   "nameKey": "\uac00\uab70\uff41\u0903\uac00(\u017a",
+   "searchKey": "\uac00\uab70a\u0903\uac00(z",
+   "looseKey": "\uac00\uab70a\u0903\uac00z",
+   "wordsKey": "\uac00\uab70a\u0903\uac00 z",
+   "nilIfEmpty": "\uac00\uab70\uff21\u0903\uac00(\u017a\u0085"
+  },
+  {
+   "input": "\u216b\u017c\ufeff\u0338\u017c",
+   "cleanedName": "\u216b\u017c\ufeff\u0338\u017c",
+   "nameKey": "\u217b\u017c\ufeff\u0338\u017c",
+   "searchKey": "\u217bz\ufeffz",
+   "looseKey": "\u217bzz",
+   "wordsKey": "\u217bz z",
+   "nilIfEmpty": "\u216b\u017c\ufeff\u0338\u017c"
+  },
+  {
+   "input": "\ud83d\udc68.\u001c\uffe3\u017c\t",
+   "cleanedName": "\ud83d\udc68.\u001c\uffe3\u017c",
+   "nameKey": "\ud83d\udc68.\u001c\uffe3\u017c",
+   "searchKey": "\ud83d\udc68.\u001c\uffe3z",
+   "looseKey": "z",
+   "wordsKey": "z",
+   "nilIfEmpty": "\ud83d\udc68.\u001c\uffe3\u017c\t"
+  },
+  {
+   "input": "\ufb06\u200d\u0591\u01c6\u1fb3!\u00b5",
+   "cleanedName": "\ufb06\u200d\u0591\u01c6\u1fb3!\u00b5",
+   "nameKey": "\ufb06\u200d\u0591\u01c6\u1fb3!\u00b5",
+   "searchKey": "st\u200d\u0591\u01c6\u03b1!\u03bc",
+   "looseKey": "st\u200d\u0591\u01c6\u03b1\u03bc",
+   "wordsKey": "st\u200d\u0591\u01c6\u03b1 \u03bc",
+   "nilIfEmpty": "\ufb06\u200d\u0591\u01c6\u1fb3!\u00b5"
+  },
+  {
+   "input": "\u1e9e9\u24d0;\u015b",
+   "cleanedName": "\u1e9e9\u24d0;\u015b",
+   "nameKey": "\u00df9\u24d0;\u015b",
+   "searchKey": "ss9\u24d0;s",
+   "looseKey": "ss9\u24d0s",
+   "wordsKey": "ss9\u24d0 s",
+   "nilIfEmpty": "\u1e9e9\u24d0;\u015b"
+  },
+  {
+   "input": "'",
+   "cleanedName": "'",
+   "nameKey": "'",
+   "searchKey": "'",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "'"
+  },
+  {
+   "input": ".\ud83d\udc4dx",
+   "cleanedName": ".\ud83d\udc4dx",
+   "nameKey": ".\ud83d\udc4dx",
+   "searchKey": ".\ud83d\udc4dx",
+   "looseKey": "x",
+   "wordsKey": "x",
+   "nilIfEmpty": ".\ud83d\udc4dx"
+  },
+  {
+   "input": "x\ufb06\u24d0\u00df\u0338\u1e9b\u1e9b\u13a0",
+   "cleanedName": "x\ufb06\u24d0\u00df\u0338\u1e9b\u1e9b\u13a0",
+   "nameKey": "x\ufb06\u24d0\u00df\u0338\u1e9b\u1e9b\uab70",
+   "searchKey": "xst\u24d0ssss\uab70",
+   "looseKey": "xst\u24d0ssss\uab70",
+   "wordsKey": "xst\u24d0ssss\uab70",
+   "nilIfEmpty": "x\ufb06\u24d0\u00df\u0338\u1e9b\u1e9b\u13a0"
+  },
+  {
+   "input": "\u2028\ud83d\udc69",
+   "cleanedName": "\ud83d\udc69",
+   "nameKey": "\ud83d\udc69",
+   "searchKey": "\ud83d\udc69",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\u2028\ud83d\udc69"
+  },
+  {
+   "input": "\u03a9\u0153\uff5a\u017a",
+   "cleanedName": "\u03a9\u0153\uff5a\u017a",
+   "nameKey": "\u03c9\u0153\uff5a\u017a",
+   "searchKey": "\u03c9\u0153zz",
+   "looseKey": "\u03c9\u0153zz",
+   "wordsKey": "\u03c9\u0153zz",
+   "nilIfEmpty": "\u03a9\u0153\uff5a\u017a"
+  },
+  {
+   "input": "&\u0903\u00df&\ud83d\udc4d",
+   "cleanedName": "&\u0903\u00df&\ud83d\udc4d",
+   "nameKey": "&\u0903\u00df&\ud83d\udc4d",
+   "searchKey": "&\u0903ss&\ud83d\udc4d",
+   "looseKey": "ss",
+   "wordsKey": "ss",
+   "nilIfEmpty": "&\u0903\u00df&\ud83d\udc4d"
+  },
+  {
+   "input": "]a",
+   "cleanedName": "]a",
+   "nameKey": "]a",
+   "searchKey": "]a",
+   "looseKey": "a",
+   "wordsKey": "a",
+   "nilIfEmpty": "]a"
+  },
+  {
+   "input": "\u03c3\u24b6\u0660\u13a0\u001f\u4e00\ufb06",
+   "cleanedName": "\u03c3\u24b6\u0660\u13a0\u001f\u4e00\ufb06",
+   "nameKey": "\u03c3\u24d0\u0660\uab70\u001f\u4e00\ufb06",
+   "searchKey": "\u03c3\u24d0\u0660\uab70\u001f\u4e00st",
+   "looseKey": "\u03c3\u24d0\u0660\uab70\u4e00st",
+   "wordsKey": "\u03c3\u24d0\u0660\uab70 \u4e00st",
+   "nilIfEmpty": "\u03c3\u24b6\u0660\u13a0\u001f\u4e00\ufb06"
+  },
+  {
+   "input": "\u1e9b\u093c\u216b",
+   "cleanedName": "\u1e9b\u093c\u216b",
+   "nameKey": "\u1e9b\u093c\u217b",
+   "searchKey": "s\u217b",
+   "looseKey": "s\u217b",
+   "wordsKey": "s\u217b",
+   "nilIfEmpty": "\u1e9b\u093c\u216b"
+  },
+  {
+   "input": "\u01c5\u0143\u0141\u20280\u03c2\ud83d\udc68\u1161",
+   "cleanedName": "\u01c5\u0143\u0141 0\u03c2\ud83d\udc68\u1161",
+   "nameKey": "\u01c6\u0144\u0142 0\u03c2\ud83d\udc68\u1161",
+   "searchKey": "\u01c6nl 0\u03c3\ud83d\udc68\u1161",
+   "looseKey": "\u01c6nl0\u03c3\u1161",
+   "wordsKey": "\u01c6nl 0\u03c3 \u1161",
+   "nilIfEmpty": "\u01c5\u0143\u0141\u20280\u03c2\ud83d\udc68\u1161"
+  },
+  {
+   "input": "\u2204\u0587\u03a9/\u0141\ufe0f\u0338",
+   "cleanedName": "\u2204\u0587\u03a9/\u0141\ufe0f\u0338",
+   "nameKey": "\u2204\u0587\u03c9/\u0142\ufe0f\u0338",
+   "searchKey": "\u2204\u0565\u0582\u03c9/l",
+   "looseKey": "\u0565\u0582\u03c9l",
+   "wordsKey": "\u0565\u0582\u03c9 l",
+   "nilIfEmpty": "\u2204\u0587\u03a9/\u0141\ufe0f\u0338"
+  },
+  {
+   "input": "/\r/\u2028\u0001\u200d\ud83d\udc68\u0142",
+   "cleanedName": "/ / \u0001\u200d\ud83d\udc68\u0142",
+   "nameKey": "/ / \u0001\u200d\ud83d\udc68\u0142",
+   "searchKey": "/ / \u0001\u200d\ud83d\udc68l",
+   "looseKey": "l",
+   "wordsKey": "l",
+   "nilIfEmpty": "/\r/\u2028\u0001\u200d\ud83d\udc68\u0142"
+  },
+  {
+   "input": "\u001f\u0307",
+   "cleanedName": "\u001f\u0307",
+   "nameKey": "\u001f\u0307",
+   "searchKey": "\u001f",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\u001f\u0307"
+  },
+  {
+   "input": "\u0141\t",
+   "cleanedName": "\u0141",
+   "nameKey": "\u0142",
+   "searchKey": "l",
+   "looseKey": "l",
+   "wordsKey": "l",
+   "nilIfEmpty": "\u0141\t"
+  },
+  {
+   "input": "!",
+   "cleanedName": "!",
+   "nameKey": "!",
+   "searchKey": "!",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "!"
+  },
+  {
+   "input": "\t;\u00c5\u00bd\ufeff\u093c\u1f80",
+   "cleanedName": ";\u00c5\u00bd\ufeff\u093c\u1f80",
+   "nameKey": ";\u00e5\u00bd\ufeff\u093c\u1f80",
+   "searchKey": ";a\u00bd\ufeff\u093c\u03b1",
+   "looseKey": "a\u00bd\u03b1",
+   "wordsKey": "a\u00bd \u03b1",
+   "nilIfEmpty": "\t;\u00c5\u00bd\ufeff\u093c\u1f80"
+  },
+  {
+   "input": "\u017a\u03c2\u0338\u3000\u0105",
+   "cleanedName": "\u017a\u03c2\u0338 \u0105",
+   "nameKey": "\u017a\u03c2\u0338 \u0105",
+   "searchKey": "z\u03c3 a",
+   "looseKey": "z\u03c3a",
+   "wordsKey": "z\u03c3 a",
+   "nilIfEmpty": "\u017a\u03c2\u0338\u3000\u0105"
+  },
+  {
+   "input": "\u0106\ufe0fK\u03c2(",
+   "cleanedName": "\u0106\ufe0fK\u03c2(",
+   "nameKey": "\u0107\ufe0fk\u03c2(",
+   "searchKey": "ck\u03c3(",
+   "looseKey": "ck\u03c3",
+   "wordsKey": "ck\u03c3",
+   "nilIfEmpty": "\u0106\ufe0fK\u03c2("
+  },
+  {
+   "input": "\u03c2\u0144x\u0301\u00f8\u0107\u093f",
+   "cleanedName": "\u03c2\u0144x\u0301\u00f8\u0107\u093f",
+   "nameKey": "\u03c2\u0144x\u0301\u00f8\u0107\u093f",
+   "searchKey": "\u03c3nx\u00f8c\u093f",
+   "looseKey": "\u03c3nx\u00f8c\u093f",
+   "wordsKey": "\u03c3nx\u00f8c\u093f",
+   "nilIfEmpty": "\u03c2\u0144x\u0301\u00f8\u0107\u093f"
+  },
+  {
+   "input": "?\u0179\u094d",
+   "cleanedName": "?\u0179\u094d",
+   "nameKey": "?\u017a\u094d",
+   "searchKey": "?z",
+   "looseKey": "z",
+   "wordsKey": "z",
+   "nilIfEmpty": "?\u0179\u094d"
+  },
+  {
+   "input": "\u24b6\u01c5\u0141A",
+   "cleanedName": "\u24b6\u01c5\u0141A",
+   "nameKey": "\u24d0\u01c6\u0142a",
+   "searchKey": "\u24d0\u01c6la",
+   "looseKey": "\u24d0\u01c6la",
+   "wordsKey": "\u24d0\u01c6la",
+   "nilIfEmpty": "\u24b6\u01c5\u0141A"
+  },
+  {
+   "input": " \u3000\u1e9e\u00b5\u0903?",
+   "cleanedName": "\u1e9e\u00b5\u0903?",
+   "nameKey": "\u00df\u00b5\u0903?",
+   "searchKey": "ss\u03bc\u0903?",
+   "looseKey": "ss\u03bc\u0903",
+   "wordsKey": "ss\u03bc\u0903",
+   "nilIfEmpty": " \u3000\u1e9e\u00b5\u0903?"
+  },
+  {
+   "input": "\u00b2",
+   "cleanedName": "\u00b2",
+   "nameKey": "\u00b2",
+   "searchKey": "\u00b2",
+   "looseKey": "\u00b2",
+   "wordsKey": "\u00b2",
+   "nilIfEmpty": "\u00b2"
+  },
+  {
+   "input": "\u017c\u1f80\u13a0\u001c",
+   "cleanedName": "\u017c\u1f80\u13a0\u001c",
+   "nameKey": "\u017c\u1f80\uab70\u001c",
+   "searchKey": "z\u03b1\uab70\u001c",
+   "looseKey": "z\u03b1\uab70",
+   "wordsKey": "z\u03b1\uab70",
+   "nilIfEmpty": "\u017c\u1f80\u13a0\u001c"
+  },
+  {
+   "input": "\u3000",
+   "cleanedName": "",
+   "nameKey": "",
+   "searchKey": "",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\u3000"
+  },
+  {
+   "input": "K\u015a\u017ca\u2014\u1e9b",
+   "cleanedName": "K\u015a\u017ca\u2014\u1e9b",
+   "nameKey": "k\u015b\u017ca\u2014\u1e9b",
+   "searchKey": "ksza\u2014s",
+   "looseKey": "kszas",
+   "wordsKey": "ksza s",
+   "nilIfEmpty": "K\u015a\u017ca\u2014\u1e9b"
+  },
+  {
+   "input": "\uac00\u00d8\u0307",
+   "cleanedName": "\uac00\u00d8\u0307",
+   "nameKey": "\uac00\u00f8\u0307",
+   "searchKey": "\uac00\u00f8",
+   "looseKey": "\uac00\u00f8",
+   "wordsKey": "\uac00\u00f8",
+   "nilIfEmpty": "\uac00\u00d8\u0307"
+  },
+  {
+   "input": "\u0104\uff9e",
+   "cleanedName": "\u0104\uff9e",
+   "nameKey": "\u0105\uff9e",
+   "searchKey": "a",
+   "looseKey": "a",
+   "wordsKey": "a",
+   "nilIfEmpty": "\u0104\uff9e"
+  },
+  {
+   "input": "\u0179",
+   "cleanedName": "\u0179",
+   "nameKey": "\u017a",
+   "searchKey": "z",
+   "looseKey": "z",
+   "wordsKey": "z",
+   "nilIfEmpty": "\u0179"
+  },
+  {
+   "input": "\u00d3\u01f0\u0144",
+   "cleanedName": "\u00d3\u01f0\u0144",
+   "nameKey": "\u00f3\u01f0\u0144",
+   "searchKey": "ojn",
+   "looseKey": "ojn",
+   "wordsKey": "ojn",
+   "nilIfEmpty": "\u00d3\u01f0\u0144"
+  },
+  {
+   "input": "\uffe3!\u0001\u0669\u01f0'",
+   "cleanedName": "\uffe3!\u0001\u0669\u01f0'",
+   "nameKey": "\uffe3!\u0001\u0669\u01f0'",
+   "searchKey": "\uffe3!\u0001\u0669j'",
+   "looseKey": "\u0669j",
+   "wordsKey": "\u0669j",
+   "nilIfEmpty": "\uffe3!\u0001\u0669\u01f0'"
+  },
+  {
+   "input": "\u0107\u094d\ud83d\udc4d\uff21\u0106B\u00a0(",
+   "cleanedName": "\u0107\u094d\ud83d\udc4d\uff21\u0106B (",
+   "nameKey": "\u0107\u094d\ud83d\udc4d\uff41\u0107b (",
+   "searchKey": "c\ud83d\udc4dacb (",
+   "looseKey": "cacb",
+   "wordsKey": "c acb",
+   "nilIfEmpty": "\u0107\u094d\ud83d\udc4d\uff21\u0106B\u00a0("
+  },
+  {
+   "input": "\u13a0\u1161\u0130\u0345\u093f",
+   "cleanedName": "\u13a0\u1161\u0130\u0345\u093f",
+   "nameKey": "\uab70\u1161i\u0307\u0345\u093f",
+   "searchKey": "\uab70\u1161i\u093f",
+   "looseKey": "\uab70\u1161i\u093f",
+   "wordsKey": "\uab70\u1161i\u093f",
+   "nilIfEmpty": "\u13a0\u1161\u0130\u0345\u093f"
+  },
+  {
+   "input": "\u094d\u1e9e0\u00df&\u2009",
+   "cleanedName": "\u094d\u1e9e0\u00df&",
+   "nameKey": "\u094d\u00df0\u00df&",
+   "searchKey": "\u094dss0ss&",
+   "looseKey": "ss0ss",
+   "wordsKey": "ss0ss",
+   "nilIfEmpty": "\u094d\u1e9e0\u00df&\u2009"
+  },
+  {
+   "input": "\u001c\ud83d\udc69\u0307K\ufb06",
+   "cleanedName": "\u001c\ud83d\udc69\u0307K\ufb06",
+   "nameKey": "\u001c\ud83d\udc69\u0307k\ufb06",
+   "searchKey": "\u001c\ud83d\udc69kst",
+   "looseKey": "kst",
+   "wordsKey": "kst",
+   "nilIfEmpty": "\u001c\ud83d\udc69\u0307K\ufb06"
+  },
+  {
+   "input": "\u01c5\u03a9\u216b\u0142\u0105\u03c2",
+   "cleanedName": "\u01c5\u03a9\u216b\u0142\u0105\u03c2",
+   "nameKey": "\u01c6\u03c9\u217b\u0142\u0105\u03c2",
+   "searchKey": "\u01c6\u03c9\u217bla\u03c3",
+   "looseKey": "\u01c6\u03c9\u217bla\u03c3",
+   "wordsKey": "\u01c6\u03c9\u217bla\u03c3",
+   "nilIfEmpty": "\u01c5\u03a9\u216b\u0142\u0105\u03c2"
+  },
+  {
+   "input": "\u20e3;",
+   "cleanedName": "\u20e3;",
+   "nameKey": "\u20e3;",
+   "searchKey": "\u20e3;",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\u20e3;"
+  },
+  {
+   "input": "(\u1100\u0916\u200c\u200d\u1f80\u1e9b\u2028",
+   "cleanedName": "(\u1100\u0916\u200c\u200d\u1f80\u1e9b",
+   "nameKey": "(\u1100\u0916\u200c\u200d\u1f80\u1e9b",
+   "searchKey": "(\u1100\u0916\u200c\u200d\u03b1s",
+   "looseKey": "\u1100\u0916\u200c\u200d\u03b1s",
+   "wordsKey": "\u1100\u0916\u200c\u200d\u03b1s",
+   "nilIfEmpty": "(\u1100\u0916\u200c\u200d\u1f80\u1e9b\u2028"
+  },
+  {
+   "input": "\u0903\u0660\u20e3\uab70",
+   "cleanedName": "\u0903\u0660\u20e3\uab70",
+   "nameKey": "\u0903\u0660\u20e3\uab70",
+   "searchKey": "\u0903\u0660\u20e3\uab70",
+   "looseKey": "\u0903\u0660\u20e3\uab70",
+   "wordsKey": "\u0903\u0660\u20e3\uab70",
+   "nilIfEmpty": "\u0903\u0660\u20e3\uab70"
+  },
+  {
+   "input": "\t\u001c\ud83c\uddf5",
+   "cleanedName": "\u001c\ud83c\uddf5",
+   "nameKey": "\u001c\ud83c\uddf5",
+   "searchKey": "\u001c\ud83c\uddf5",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\t\u001c\ud83c\uddf5"
+  },
+  {
+   "input": ".&\u2009\u00c6\u1100",
+   "cleanedName": ".& \u00c6\u1100",
+   "nameKey": ".& \u00e6\u1100",
+   "searchKey": ".& \u00e6\u1100",
+   "looseKey": "\u00e6\u1100",
+   "wordsKey": "\u00e6\u1100",
+   "nilIfEmpty": ".&\u2009\u00c6\u1100"
+  },
+  {
+   "input": "\u01c4\u0141\uab70\u0141",
+   "cleanedName": "\u01c4\u0141\uab70\u0141",
+   "nameKey": "\u01c6\u0142\uab70\u0142",
+   "searchKey": "\u01c6l\uab70l",
+   "looseKey": "\u01c6l\uab70l",
+   "wordsKey": "\u01c6l\uab70l",
+   "nilIfEmpty": "\u01c4\u0141\uab70\u0141"
+  },
+  {
+   "input": "\ufb00\u2013Z\u00bd",
+   "cleanedName": "\ufb00\u2013Z\u00bd",
+   "nameKey": "\ufb00\u2013z\u00bd",
+   "searchKey": "ff\u2013z\u00bd",
+   "looseKey": "ffz\u00bd",
+   "wordsKey": "ff z\u00bd",
+   "nilIfEmpty": "\ufb00\u2013Z\u00bd"
+  },
+  {
+   "input": "\u0141\u0149;\u1e01-\ufb01",
+   "cleanedName": "\u0141\u0149;\u1e01-\ufb01",
+   "nameKey": "\u0142\u0149;\u1e01-\ufb01",
+   "searchKey": "l\u02bcn;a-fi",
+   "looseKey": "l\u02bcnafi",
+   "wordsKey": "l\u02bcn a fi",
+   "nilIfEmpty": "\u0141\u0149;\u1e01-\ufb01"
+  },
+  {
+   "input": "[\u015aK\u200b",
+   "cleanedName": "[\u015aK\u200b",
+   "nameKey": "[\u015bk\u200b",
+   "searchKey": "[sk\u200b",
+   "looseKey": "sk",
+   "wordsKey": "sk",
+   "nilIfEmpty": "[\u015aK\u200b"
+  },
+  {
+   "input": "\u00f8b\u1e9b\uac00a\u01c6",
+   "cleanedName": "\u00f8b\u1e9b\uac00a\u01c6",
+   "nameKey": "\u00f8b\u1e9b\uac00a\u01c6",
+   "searchKey": "\u00f8bs\uac00a\u01c6",
+   "looseKey": "\u00f8bs\uac00a\u01c6",
+   "wordsKey": "\u00f8bs\uac00a\u01c6",
+   "nilIfEmpty": "\u00f8b\u1e9b\uac00a\u01c6"
+  },
+  {
+   "input": "\u00f3\u24b6\u0142",
+   "cleanedName": "\u00f3\u24b6\u0142",
+   "nameKey": "\u00f3\u24d0\u0142",
+   "searchKey": "o\u24d0l",
+   "looseKey": "o\u24d0l",
+   "wordsKey": "o\u24d0l",
+   "nilIfEmpty": "\u00f3\u24b6\u0142"
+  },
+  {
+   "input": " \u0107\u2009\u0587\u0143K\u24d0;",
+   "cleanedName": "\u0107 \u0587\u0143K\u24d0;",
+   "nameKey": "\u0107 \u0587\u0144k\u24d0;",
+   "searchKey": "c \u0565\u0582nk\u24d0;",
+   "looseKey": "c\u0565\u0582nk\u24d0",
+   "wordsKey": "c \u0565\u0582nk\u24d0",
+   "nilIfEmpty": " \u0107\u2009\u0587\u0143K\u24d0;"
+  },
+  {
+   "input": "\u00a0.",
+   "cleanedName": ".",
+   "nameKey": ".",
+   "searchKey": ".",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\u00a0."
+  },
+  {
+   "input": "\u0301A\ufb01\u00d30",
+   "cleanedName": "\u0301A\ufb01\u00d30",
+   "nameKey": "\u0301a\ufb01\u00f30",
+   "searchKey": "\u0301afio0",
+   "looseKey": "afio0",
+   "wordsKey": "afio0",
+   "nilIfEmpty": "\u0301A\ufb01\u00d30"
+  },
+  {
+   "input": "\u00b5\u00df[.\u01c5\u0119\ud83c\udffd",
+   "cleanedName": "\u00b5\u00df[.\u01c5\u0119\ud83c\udffd",
+   "nameKey": "\u00b5\u00df[.\u01c6\u0119\ud83c\udffd",
+   "searchKey": "\u03bcss[.\u01c6e",
+   "looseKey": "\u03bcss\u01c6e",
+   "wordsKey": "\u03bcss \u01c6e",
+   "nilIfEmpty": "\u00b5\u00df[.\u01c5\u0119\ud83c\udffd"
+  },
+  {
+   "input": "\u0152]\u0143\u200b\u0328x",
+   "cleanedName": "\u0152]\u0143\u200b\u0328x",
+   "nameKey": "\u0153]\u0144\u200b\u0328x",
+   "searchKey": "\u0153]n\u200bx",
+   "looseKey": "\u0153nx",
+   "wordsKey": "\u0153 n x",
+   "nilIfEmpty": "\u0152]\u0143\u200b\u0328x"
+  },
+  {
+   "input": "\u0118a\u0141",
+   "cleanedName": "\u0118a\u0141",
+   "nameKey": "\u0119a\u0142",
+   "searchKey": "eal",
+   "looseKey": "eal",
+   "wordsKey": "eal",
+   "nilIfEmpty": "\u0118a\u0141"
+  },
+  {
+   "input": "\ufb01\u03a3a\r\n\uff11\u0106",
+   "cleanedName": "\ufb01\u03a3a \uff11\u0106",
+   "nameKey": "\ufb01\u03c3a \uff11\u0107",
+   "searchKey": "fi\u03c3a 1c",
+   "looseKey": "fi\u03c3a1c",
+   "wordsKey": "fi\u03c3a 1c",
+   "nilIfEmpty": "\ufb01\u03a3a\r\n\uff11\u0106"
+  },
+  {
+   "input": "\u093f\u0085",
+   "cleanedName": "\u093f",
+   "nameKey": "\u093f",
+   "searchKey": "\u093f",
+   "looseKey": "\u093f",
+   "wordsKey": "\u093f",
+   "nilIfEmpty": "\u093f\u0085"
+  },
+  {
+   "input": "\ufb06\u0085\u2009\u20e3\u0338",
+   "cleanedName": "\ufb06",
+   "nameKey": "\ufb06",
+   "searchKey": "st",
+   "looseKey": "st",
+   "wordsKey": "st",
+   "nilIfEmpty": "\ufb06\u0085\u2009\u20e3\u0338"
+  },
+  {
+   "input": "\u1e01'a",
+   "cleanedName": "\u1e01'a",
+   "nameKey": "\u1e01'a",
+   "searchKey": "a'a",
+   "looseKey": "aa",
+   "wordsKey": "a a",
+   "nilIfEmpty": "\u1e01'a"
+  },
+  {
+   "input": "\u1f80\ud83d\udc69\u001f",
+   "cleanedName": "\u1f80\ud83d\udc69\u001f",
+   "nameKey": "\u1f80\ud83d\udc69\u001f",
+   "searchKey": "\u03b1\ud83d\udc69\u001f",
+   "looseKey": "\u03b1",
+   "wordsKey": "\u03b1",
+   "nilIfEmpty": "\u1f80\ud83d\udc69\u001f"
+  },
+  {
+   "input": "\r\ufb01\u015b\u0131\uff21",
+   "cleanedName": "\ufb01\u015b\u0131\uff21",
+   "nameKey": "\ufb01\u015b\u0131\uff41",
+   "searchKey": "fis\u0131a",
+   "looseKey": "fis\u0131a",
+   "wordsKey": "fis\u0131a",
+   "nilIfEmpty": "\r\ufb01\u015b\u0131\uff21"
+  },
+  {
+   "input": "\u01f0\u093c\u2028\u0141\u00bdK-",
+   "cleanedName": "\u01f0\u093c \u0141\u00bdK-",
+   "nameKey": "\u01f0\u093c \u0142\u00bdk-",
+   "searchKey": "j l\u00bdk-",
+   "looseKey": "jl\u00bdk",
+   "wordsKey": "j l\u00bdk",
+   "nilIfEmpty": "\u01f0\u093c\u2028\u0141\u00bdK-"
+  },
+  {
+   "input": "\u00b20\u00e6\u4e00\u00c6\u0345\u2204",
+   "cleanedName": "\u00b20\u00e6\u4e00\u00c6\u0345\u2204",
+   "nameKey": "\u00b20\u00e6\u4e00\u00e6\u0345\u2204",
+   "searchKey": "\u00b20\u00e6\u4e00\u00e6\u2204",
+   "looseKey": "\u00b20\u00e6\u4e00\u00e6",
+   "wordsKey": "\u00b20\u00e6\u4e00\u00e6",
+   "nilIfEmpty": "\u00b20\u00e6\u4e00\u00c6\u0345\u2204"
+  },
+  {
+   "input": "\u0106\u0104",
+   "cleanedName": "\u0106\u0104",
+   "nameKey": "\u0107\u0105",
+   "searchKey": "ca",
+   "looseKey": "ca",
+   "wordsKey": "ca",
+   "nilIfEmpty": "\u0106\u0104"
+  },
+  {
+   "input": "\ud83d\udc69\u015a\u094dK",
+   "cleanedName": "\ud83d\udc69\u015a\u094dK",
+   "nameKey": "\ud83d\udc69\u015b\u094dk",
+   "searchKey": "\ud83d\udc69sk",
+   "looseKey": "sk",
+   "wordsKey": "sk",
+   "nilIfEmpty": "\ud83d\udc69\u015a\u094dK"
+  },
+  {
+   "input": "\u0660\u0903\u4e00[\u00df\u0144\u0591",
+   "cleanedName": "\u0660\u0903\u4e00[\u00df\u0144\u0591",
+   "nameKey": "\u0660\u0903\u4e00[\u00df\u0144\u0591",
+   "searchKey": "\u0660\u0903\u4e00[ssn",
+   "looseKey": "\u0660\u0903\u4e00ssn",
+   "wordsKey": "\u0660\u0903\u4e00 ssn",
+   "nilIfEmpty": "\u0660\u0903\u4e00[\u00df\u0144\u0591"
+  },
+  {
+   "input": "\u017b\u0001\ud83c\uddf1\u1f80\ufeff\u2009\u1161\u4e00",
+   "cleanedName": "\u017b\u0001\ud83c\uddf1\u1f80\ufeff \u1161\u4e00",
+   "nameKey": "\u017c\u0001\ud83c\uddf1\u1f80\ufeff \u1161\u4e00",
+   "searchKey": "z\u0001\ud83c\uddf1\u03b1\ufeff \u1161\u4e00",
+   "looseKey": "z\u03b1\u1161\u4e00",
+   "wordsKey": "z \u03b1 \u1161\u4e00",
+   "nilIfEmpty": "\u017b\u0001\ud83c\uddf1\u1f80\ufeff\u2009\u1161\u4e00"
+  },
+  {
+   "input": "&\u102b\u00d8\u24b6\u0144\u0660",
+   "cleanedName": "&\u102b\u00d8\u24b6\u0144\u0660",
+   "nameKey": "&\u102b\u00f8\u24d0\u0144\u0660",
+   "searchKey": "&\u102b\u00f8\u24d0n\u0660",
+   "looseKey": "\u102b\u00f8\u24d0n\u0660",
+   "wordsKey": "\u102b\u00f8\u24d0n\u0660",
+   "nilIfEmpty": "&\u102b\u00d8\u24b6\u0144\u0660"
+  },
+  {
+   "input": "\u0591\u0142\t\u00c6\u00d3\u1e9bz",
+   "cleanedName": "\u0591\u0142 \u00c6\u00d3\u1e9bz",
+   "nameKey": "\u0591\u0142 \u00e6\u00f3\u1e9bz",
+   "searchKey": "\u0591l \u00e6osz",
+   "looseKey": "l\u00e6osz",
+   "wordsKey": "l \u00e6osz",
+   "nilIfEmpty": "\u0591\u0142\t\u00c6\u00d3\u1e9bz"
+  },
+  {
+   "input": "?\u11a8\u03c3\u1f80\u00a0\u017b\u0660",
+   "cleanedName": "?\u11a8\u03c3\u1f80 \u017b\u0660",
+   "nameKey": "?\u11a8\u03c3\u1f80 \u017c\u0660",
+   "searchKey": "?\u11a8\u03c3\u03b1 z\u0660",
+   "looseKey": "\u11a8\u03c3\u03b1z\u0660",
+   "wordsKey": "\u11a8\u03c3\u03b1 z\u0660",
+   "nilIfEmpty": "?\u11a8\u03c3\u1f80\u00a0\u017b\u0660"
+  },
+  {
+   "input": "[\u0903",
+   "cleanedName": "[\u0903",
+   "nameKey": "[\u0903",
+   "searchKey": "[\u0903",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "[\u0903"
+  },
+  {
+   "input": "\r\u015aKK\u1e01\u0153",
+   "cleanedName": "\u015aKK\u1e01\u0153",
+   "nameKey": "\u015bkk\u1e01\u0153",
+   "searchKey": "skka\u0153",
+   "looseKey": "skka\u0153",
+   "wordsKey": "skka\u0153",
+   "nilIfEmpty": "\r\u015aKK\u1e01\u0153"
+  },
+  {
+   "input": "\u200b\u0131",
+   "cleanedName": "\u200b\u0131",
+   "nameKey": "\u200b\u0131",
+   "searchKey": "\u200b\u0131",
+   "looseKey": "\u0131",
+   "wordsKey": "\u0131",
+   "nilIfEmpty": "\u200b\u0131"
+  },
+  {
+   "input": "z\u017b\u017b\u1fb3\u1e01.",
+   "cleanedName": "z\u017b\u017b\u1fb3\u1e01.",
+   "nameKey": "z\u017c\u017c\u1fb3\u1e01.",
+   "searchKey": "zzz\u03b1a.",
+   "looseKey": "zzz\u03b1a",
+   "wordsKey": "zzz\u03b1a",
+   "nilIfEmpty": "z\u017b\u017b\u1fb3\u1e01."
+  },
+  {
+   "input": "K\u0660\ud83d\udc68\u0131",
+   "cleanedName": "K\u0660\ud83d\udc68\u0131",
+   "nameKey": "k\u0660\ud83d\udc68\u0131",
+   "searchKey": "k\u0660\ud83d\udc68\u0131",
+   "looseKey": "k\u0660\u0131",
+   "wordsKey": "k\u0660 \u0131",
+   "nilIfEmpty": "K\u0660\ud83d\udc68\u0131"
+  },
+  {
+   "input": "\u24d0\u00f3\u0345\u00b2",
+   "cleanedName": "\u24d0\u00f3\u0345\u00b2",
+   "nameKey": "\u24d0\u00f3\u0345\u00b2",
+   "searchKey": "\u24d0o\u00b2",
+   "looseKey": "\u24d0o\u00b2",
+   "wordsKey": "\u24d0o\u00b2",
+   "nilIfEmpty": "\u24d0\u00f3\u0345\u00b2"
+  },
+  {
+   "input": "'\u0105b\u01c4",
+   "cleanedName": "'\u0105b\u01c4",
+   "nameKey": "'\u0105b\u01c6",
+   "searchKey": "'ab\u01c6",
+   "looseKey": "ab\u01c6",
+   "wordsKey": "ab\u01c6",
+   "nilIfEmpty": "'\u0105b\u01c4"
+  },
+  {
+   "input": "\u0669\uff5a\uff21\u001c0",
+   "cleanedName": "\u0669\uff5a\uff21\u001c0",
+   "nameKey": "\u0669\uff5a\uff41\u001c0",
+   "searchKey": "\u0669za\u001c0",
+   "looseKey": "\u0669za0",
+   "wordsKey": "\u0669za 0",
+   "nilIfEmpty": "\u0669\uff5a\uff21\u001c0"
+  },
+  {
+   "input": "\u00bd\u00d3\r\n\u0149\u200c\"'\u2014",
+   "cleanedName": "\u00bd\u00d3 \u0149\u200c\"'\u2014",
+   "nameKey": "\u00bd\u00f3 \u0149\u200c\"'\u2014",
+   "searchKey": "\u00bdo \u02bcn\"'\u2014",
+   "looseKey": "\u00bdo\u02bcn",
+   "wordsKey": "\u00bdo \u02bcn",
+   "nilIfEmpty": "\u00bd\u00d3\r\n\u0149\u200c\"'\u2014"
+  },
+  {
+   "input": "\u093f[\u24b6",
+   "cleanedName": "\u093f[\u24b6",
+   "nameKey": "\u093f[\u24d0",
+   "searchKey": "\u093f[\u24d0",
+   "looseKey": "\u093f\u24d0",
+   "wordsKey": "\u093f \u24d0",
+   "nilIfEmpty": "\u093f[\u24b6"
+  },
+  {
+   "input": "\u0119\u0119\u200b\u01f0\u0107\uffe3\u200c",
+   "cleanedName": "\u0119\u0119\u200b\u01f0\u0107\uffe3\u200c",
+   "nameKey": "\u0119\u0119\u200b\u01f0\u0107\uffe3\u200c",
+   "searchKey": "ee\u200bjc\uffe3\u200c",
+   "looseKey": "eejc",
+   "wordsKey": "ee jc",
+   "nilIfEmpty": "\u0119\u0119\u200b\u01f0\u0107\uffe3\u200c"
+  },
+  {
+   "input": "\ud83d\udc68\u1e9b",
+   "cleanedName": "\ud83d\udc68\u1e9b",
+   "nameKey": "\ud83d\udc68\u1e9b",
+   "searchKey": "\ud83d\udc68s",
+   "looseKey": "s",
+   "wordsKey": "s",
+   "nilIfEmpty": "\ud83d\udc68\u1e9b"
+  },
+  {
+   "input": "\u102b",
+   "cleanedName": "\u102b",
+   "nameKey": "\u102b",
+   "searchKey": "\u102b",
+   "looseKey": "\u102b",
+   "wordsKey": "\u102b",
+   "nilIfEmpty": "\u102b"
+  },
+  {
+   "input": "\u00f3\u24d0\uff9e",
+   "cleanedName": "\u00f3\u24d0\uff9e",
+   "nameKey": "\u00f3\u24d0\uff9e",
+   "searchKey": "o\u24d0\uff9e",
+   "looseKey": "o\u24d0\uff9e",
+   "wordsKey": "o\u24d0\uff9e",
+   "nilIfEmpty": "\u00f3\u24d0\uff9e"
+  },
+  {
+   "input": "'.",
+   "cleanedName": "'.",
+   "nameKey": "'.",
+   "searchKey": "'.",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "'."
+  },
+  {
+   "input": "\u017a\u3000\u0104\r\u00b2\u00bd\u0152[",
+   "cleanedName": "\u017a \u0104 \u00b2\u00bd\u0152[",
+   "nameKey": "\u017a \u0105 \u00b2\u00bd\u0153[",
+   "searchKey": "z a \u00b2\u00bd\u0153[",
+   "looseKey": "za\u00b2\u00bd\u0153",
+   "wordsKey": "z a \u00b2\u00bd\u0153",
+   "nilIfEmpty": "\u017a\u3000\u0104\r\u00b2\u00bd\u0152["
+  },
+  {
+   "input": "]",
+   "cleanedName": "]",
+   "nameKey": "]",
+   "searchKey": "]",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "]"
+  },
+  {
+   "input": "\u0149\u102b\u03c3",
+   "cleanedName": "\u0149\u102b\u03c3",
+   "nameKey": "\u0149\u102b\u03c3",
+   "searchKey": "\u02bcn\u102b\u03c3",
+   "looseKey": "\u02bcn\u102b\u03c3",
+   "wordsKey": "\u02bcn\u102b\u03c3",
+   "nilIfEmpty": "\u0149\u102b\u03c3"
+  },
+  {
+   "input": "-\u093c\n\u00c5\u0130\uac00\u0106",
+   "cleanedName": "-\u093c \u00c5\u0130\uac00\u0106",
+   "nameKey": "-\u093c \u00e5i\u0307\uac00\u0107",
+   "searchKey": "- ai\uac00c",
+   "looseKey": "ai\uac00c",
+   "wordsKey": "ai\uac00c",
+   "nilIfEmpty": "-\u093c\n\u00c5\u0130\uac00\u0106"
+  },
+  {
+   "input": "\u2204\u2204A",
+   "cleanedName": "\u2204\u2204A",
+   "nameKey": "\u2204\u2204a",
+   "searchKey": "\u2204\u2204a",
+   "looseKey": "a",
+   "wordsKey": "a",
+   "nilIfEmpty": "\u2204\u2204A"
+  },
+  {
+   "input": "K\u001f",
+   "cleanedName": "K\u001f",
+   "nameKey": "k\u001f",
+   "searchKey": "k\u001f",
+   "looseKey": "k",
+   "wordsKey": "k",
+   "nilIfEmpty": "K\u001f"
+  },
+  {
+   "input": "\u03a9\ufb00",
+   "cleanedName": "\u03a9\ufb00",
+   "nameKey": "\u03c9\ufb00",
+   "searchKey": "\u03c9ff",
+   "looseKey": "\u03c9ff",
+   "wordsKey": "\u03c9ff",
+   "nilIfEmpty": "\u03a9\ufb00"
+  },
+  {
+   "input": "Z.z",
+   "cleanedName": "Z.z",
+   "nameKey": "z.z",
+   "searchKey": "z.z",
+   "looseKey": "zz",
+   "wordsKey": "z z",
+   "nilIfEmpty": "Z.z"
+  },
+  {
+   "input": "\u0307\u1e9e\u0916\u0106a",
+   "cleanedName": "\u0307\u1e9e\u0916\u0106a",
+   "nameKey": "\u0307\u00df\u0916\u0107a",
+   "searchKey": "\u0307ss\u0916ca",
+   "looseKey": "ss\u0916ca",
+   "wordsKey": "ss\u0916ca",
+   "nilIfEmpty": "\u0307\u1e9e\u0916\u0106a"
+  },
+  {
+   "input": "\u094d/",
+   "cleanedName": "\u094d/",
+   "nameKey": "\u094d/",
+   "searchKey": "\u094d/",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\u094d/"
+  },
+  {
+   "input": "(\u0916\u0149\u24d0\"\u00f3",
+   "cleanedName": "(\u0916\u0149\u24d0\"\u00f3",
+   "nameKey": "(\u0916\u0149\u24d0\"\u00f3",
+   "searchKey": "(\u0916\u02bcn\u24d0\"o",
+   "looseKey": "\u0916\u02bcn\u24d0o",
+   "wordsKey": "\u0916\u02bcn\u24d0 o",
+   "nilIfEmpty": "(\u0916\u0149\u24d0\"\u00f3"
+  },
+  {
+   "input": "\u0903\u13a0?",
+   "cleanedName": "\u0903\u13a0?",
+   "nameKey": "\u0903\uab70?",
+   "searchKey": "\u0903\uab70?",
+   "looseKey": "\u0903\uab70",
+   "wordsKey": "\u0903\uab70",
+   "nilIfEmpty": "\u0903\u13a0?"
+  },
+  {
+   "input": "Z\u00b5\u03a9",
+   "cleanedName": "Z\u00b5\u03a9",
+   "nameKey": "z\u00b5\u03c9",
+   "searchKey": "z\u03bc\u03c9",
+   "looseKey": "z\u03bc\u03c9",
+   "wordsKey": "z\u03bc\u03c9",
+   "nilIfEmpty": "Z\u00b5\u03a9"
+  },
+  {
+   "input": "(\u00d8\u03c3 \u0131/",
+   "cleanedName": "(\u00d8\u03c3 \u0131/",
+   "nameKey": "(\u00f8\u03c3 \u0131/",
+   "searchKey": "(\u00f8\u03c3 \u0131/",
+   "looseKey": "\u00f8\u03c3\u0131",
+   "wordsKey": "\u00f8\u03c3 \u0131",
+   "nilIfEmpty": "(\u00d8\u03c3 \u0131/"
+  },
+  {
+   "input": "\uac00\u001c",
+   "cleanedName": "\uac00\u001c",
+   "nameKey": "\uac00\u001c",
+   "searchKey": "\uac00\u001c",
+   "looseKey": "\uac00",
+   "wordsKey": "\uac00",
+   "nilIfEmpty": "\uac00\u001c"
+  },
+  {
+   "input": "\t&'K\u0118\ud83c\udffd\n",
+   "cleanedName": "&'K\u0118\ud83c\udffd",
+   "nameKey": "&'k\u0119\ud83c\udffd",
+   "searchKey": "&'ke",
+   "looseKey": "ke",
+   "wordsKey": "ke",
+   "nilIfEmpty": "\t&'K\u0118\ud83c\udffd\n"
+  },
+  {
+   "input": "z\u0149K\u0345\u0085\u11a8",
+   "cleanedName": "z\u0149K\u0345 \u11a8",
+   "nameKey": "z\u0149k\u0345 \u11a8",
+   "searchKey": "z\u02bcnk \u11a8",
+   "looseKey": "z\u02bcnk\u11a8",
+   "wordsKey": "z\u02bcnk \u11a8",
+   "nilIfEmpty": "z\u0149K\u0345\u0085\u11a8"
+  },
+  {
+   "input": "\ud83d\udc68.]\u00f3\u200cz\u01c5",
+   "cleanedName": "\ud83d\udc68.]\u00f3\u200cz\u01c5",
+   "nameKey": "\ud83d\udc68.]\u00f3\u200cz\u01c6",
+   "searchKey": "\ud83d\udc68.]oz\u01c6",
+   "looseKey": "oz\u01c6",
+   "wordsKey": "oz\u01c6",
+   "nilIfEmpty": "\ud83d\udc68.]\u00f3\u200cz\u01c5"
+  },
+  {
+   "input": "?;\u200b\uab70\u017a\u0669\u11a8",
+   "cleanedName": "?;\u200b\uab70\u017a\u0669\u11a8",
+   "nameKey": "?;\u200b\uab70\u017a\u0669\u11a8",
+   "searchKey": "?;\u200b\uab70z\u0669\u11a8",
+   "looseKey": "\uab70z\u0669\u11a8",
+   "wordsKey": "\uab70z\u0669\u11a8",
+   "nilIfEmpty": "?;\u200b\uab70\u017a\u0669\u11a8"
+  },
+  {
+   "input": "\u03a9\u1e01\"",
+   "cleanedName": "\u03a9\u1e01\"",
+   "nameKey": "\u03c9\u1e01\"",
+   "searchKey": "\u03c9a\"",
+   "looseKey": "\u03c9a",
+   "wordsKey": "\u03c9a",
+   "nilIfEmpty": "\u03a9\u1e01\""
+  },
+  {
+   "input": "-\u0143;\u1e9b\ud83c\uddf1\u001fK.",
+   "cleanedName": "-\u0143;\u1e9b\ud83c\uddf1\u001fK.",
+   "nameKey": "-\u0144;\u1e9b\ud83c\uddf1\u001fk.",
+   "searchKey": "-n;s\ud83c\uddf1\u001fk.",
+   "looseKey": "nsk",
+   "wordsKey": "n s k",
+   "nilIfEmpty": "-\u0143;\u1e9b\ud83c\uddf1\u001fK."
+  },
+  {
+   "input": "\uff21\u20e3\u00f3\u24d0\u001c",
+   "cleanedName": "\uff21\u20e3\u00f3\u24d0\u001c",
+   "nameKey": "\uff41\u20e3\u00f3\u24d0\u001c",
+   "searchKey": "ao\u24d0\u001c",
+   "looseKey": "ao\u24d0",
+   "wordsKey": "ao\u24d0",
+   "nilIfEmpty": "\uff21\u20e3\u00f3\u24d0\u001c"
+  },
+  {
+   "input": "\u00c6\u017a\u24d0\uab70",
+   "cleanedName": "\u00c6\u017a\u24d0\uab70",
+   "nameKey": "\u00e6\u017a\u24d0\uab70",
+   "searchKey": "\u00e6z\u24d0\uab70",
+   "looseKey": "\u00e6z\u24d0\uab70",
+   "wordsKey": "\u00e6z\u24d0\uab70",
+   "nilIfEmpty": "\u00c6\u017a\u24d0\uab70"
+  },
+  {
+   "input": "\u0915\uff11\u00c5\u0107",
+   "cleanedName": "\u0915\uff11\u00c5\u0107",
+   "nameKey": "\u0915\uff11\u00e5\u0107",
+   "searchKey": "\u09151ac",
+   "looseKey": "\u09151ac",
+   "wordsKey": "\u09151ac",
+   "nilIfEmpty": "\u0915\uff11\u00c5\u0107"
+  },
+  {
+   "input": "\uffe3\u0915\ufb00\u0916\u0660\u102b\u3000\u24d0",
+   "cleanedName": "\uffe3\u0915\ufb00\u0916\u0660\u102b \u24d0",
+   "nameKey": "\uffe3\u0915\ufb00\u0916\u0660\u102b \u24d0",
+   "searchKey": "\uffe3\u0915ff\u0916\u0660\u102b \u24d0",
+   "looseKey": "\u0915ff\u0916\u0660\u102b\u24d0",
+   "wordsKey": "\u0915ff\u0916\u0660\u102b \u24d0",
+   "nilIfEmpty": "\uffe3\u0915\ufb00\u0916\u0660\u102b\u3000\u24d0"
+  },
+  {
+   "input": "\uff11\t\u0001\u0130\u017c\u20e3\u00e6",
+   "cleanedName": "\uff11 \u0001\u0130\u017c\u20e3\u00e6",
+   "nameKey": "\uff11 \u0001i\u0307\u017c\u20e3\u00e6",
+   "searchKey": "1 \u0001iz\u00e6",
+   "looseKey": "1iz\u00e6",
+   "wordsKey": "1 iz\u00e6",
+   "nilIfEmpty": "\uff11\t\u0001\u0130\u017c\u20e3\u00e6"
+  },
+  {
+   "input": "]\ufe0f\ud83c\udd70-\u0119\u00b5",
+   "cleanedName": "]\ufe0f\ud83c\udd70-\u0119\u00b5",
+   "nameKey": "]\ufe0f\ud83c\udd70-\u0119\u00b5",
+   "searchKey": "]\ud83c\udd70-e\u03bc",
+   "looseKey": "\ud83c\udd70e\u03bc",
+   "wordsKey": "\ud83c\udd70 e\u03bc",
+   "nilIfEmpty": "]\ufe0f\ud83c\udd70-\u0119\u00b5"
+  },
+  {
+   "input": "\u00f8B\ud83d\udc69\uac00",
+   "cleanedName": "\u00f8B\ud83d\udc69\uac00",
+   "nameKey": "\u00f8b\ud83d\udc69\uac00",
+   "searchKey": "\u00f8b\ud83d\udc69\uac00",
+   "looseKey": "\u00f8b\uac00",
+   "wordsKey": "\u00f8b \uac00",
+   "nilIfEmpty": "\u00f8B\ud83d\udc69\uac00"
+  },
+  {
+   "input": "\u03a9\u0130\u0179\u015a;\u0141\u0345\u03a9",
+   "cleanedName": "\u03a9\u0130\u0179\u015a;\u0141\u0345\u03a9",
+   "nameKey": "\u03c9i\u0307\u017a\u015b;\u0142\u0345\u03c9",
+   "searchKey": "\u03c9izs;l\u03c9",
+   "looseKey": "\u03c9izsl\u03c9",
+   "wordsKey": "\u03c9izs l\u03c9",
+   "nilIfEmpty": "\u03a9\u0130\u0179\u015a;\u0141\u0345\u03a9"
+  },
+  {
+   "input": "?\u216b-\u0001\u0142",
+   "cleanedName": "?\u216b-\u0001\u0142",
+   "nameKey": "?\u217b-\u0001\u0142",
+   "searchKey": "?\u217b-\u0001l",
+   "looseKey": "\u217bl",
+   "wordsKey": "\u217b l",
+   "nilIfEmpty": "?\u216b-\u0001\u0142"
+  },
+  {
+   "input": "\u0903\ud83c\udd70\u2014\ud83d\udc69-",
+   "cleanedName": "\u0903\ud83c\udd70\u2014\ud83d\udc69-",
+   "nameKey": "\u0903\ud83c\udd70\u2014\ud83d\udc69-",
+   "searchKey": "\u0903\ud83c\udd70\u2014\ud83d\udc69-",
+   "looseKey": "\u0903\ud83c\udd70",
+   "wordsKey": "\u0903\ud83c\udd70",
+   "nilIfEmpty": "\u0903\ud83c\udd70\u2014\ud83d\udc69-"
+  },
+  {
+   "input": "\u015b\u1f80\u0107\u00b2\u3000\u0152\u00c5",
+   "cleanedName": "\u015b\u1f80\u0107\u00b2 \u0152\u00c5",
+   "nameKey": "\u015b\u1f80\u0107\u00b2 \u0153\u00e5",
+   "searchKey": "s\u03b1c\u00b2 \u0153a",
+   "looseKey": "s\u03b1c\u00b2\u0153a",
+   "wordsKey": "s\u03b1c\u00b2 \u0153a",
+   "nilIfEmpty": "\u015b\u1f80\u0107\u00b2\u3000\u0152\u00c5"
+  },
+  {
+   "input": "x]0\u094d\ud83c\uddf5\u0104",
+   "cleanedName": "x]0\u094d\ud83c\uddf5\u0104",
+   "nameKey": "x]0\u094d\ud83c\uddf5\u0105",
+   "searchKey": "x]0\ud83c\uddf5a",
+   "looseKey": "x0a",
+   "wordsKey": "x 0 a",
+   "nilIfEmpty": "x]0\u094d\ud83c\uddf5\u0104"
+  },
+  {
+   "input": "\u0131\u0149",
+   "cleanedName": "\u0131\u0149",
+   "nameKey": "\u0131\u0149",
+   "searchKey": "\u0131\u02bcn",
+   "looseKey": "\u0131\u02bcn",
+   "wordsKey": "\u0131\u02bcn",
+   "nilIfEmpty": "\u0131\u0149"
+  },
+  {
+   "input": "\u001f",
+   "cleanedName": "\u001f",
+   "nameKey": "\u001f",
+   "searchKey": "\u001f",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\u001f"
+  },
+  {
+   "input": "\u017a\u001c\u3000)!",
+   "cleanedName": "\u017a\u001c )!",
+   "nameKey": "\u017a\u001c )!",
+   "searchKey": "z\u001c )!",
+   "looseKey": "z",
+   "wordsKey": "z",
+   "nilIfEmpty": "\u017a\u001c\u3000)!"
+  },
+  {
+   "input": "\u200c\ufe0f\u0153\u03a9\u0118",
+   "cleanedName": "\u200c\ufe0f\u0153\u03a9\u0118",
+   "nameKey": "\u200c\ufe0f\u0153\u03c9\u0119",
+   "searchKey": "\u200c\ufe0f\u0153\u03c9e",
+   "looseKey": "\u0153\u03c9e",
+   "wordsKey": "\u0153\u03c9e",
+   "nilIfEmpty": "\u200c\ufe0f\u0153\u03a9\u0118"
+  },
+  {
+   "input": "\u0153\u1161\u20e3\u11a8",
+   "cleanedName": "\u0153\u1161\u20e3\u11a8",
+   "nameKey": "\u0153\u1161\u20e3\u11a8",
+   "searchKey": "\u0153\u1161\u20e3\u11a8",
+   "looseKey": "\u0153\u1161\u20e3\u11a8",
+   "wordsKey": "\u0153\u1161\u20e3\u11a8",
+   "nilIfEmpty": "\u0153\u1161\u20e3\u11a8"
+  },
+  {
+   "input": "(\u00a0?",
+   "cleanedName": "( ?",
+   "nameKey": "( ?",
+   "searchKey": "( ?",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "(\u00a0?"
+  },
+  {
+   "input": "\u4e00\u200b\u017a\u01c5;\u3000!",
+   "cleanedName": "\u4e00\u200b\u017a\u01c5; !",
+   "nameKey": "\u4e00\u200b\u017a\u01c6; !",
+   "searchKey": "\u4e00\u200bz\u01c6; !",
+   "looseKey": "\u4e00z\u01c6",
+   "wordsKey": "\u4e00 z\u01c6",
+   "nilIfEmpty": "\u4e00\u200b\u017a\u01c5;\u3000!"
+  },
+  {
+   "input": "\u0001\ud83c\udd70\u0179\u0591",
+   "cleanedName": "\u0001\ud83c\udd70\u0179\u0591",
+   "nameKey": "\u0001\ud83c\udd70\u017a\u0591",
+   "searchKey": "\u0001\ud83c\udd70z",
+   "looseKey": "\ud83c\udd70z",
+   "wordsKey": "\ud83c\udd70z",
+   "nilIfEmpty": "\u0001\ud83c\udd70\u0179\u0591"
+  },
+  {
+   "input": "\u00c5,\u0153\u0130",
+   "cleanedName": "\u00c5,\u0153\u0130",
+   "nameKey": "\u00e5,\u0153i\u0307",
+   "searchKey": "a,\u0153i",
+   "looseKey": "a\u0153i",
+   "wordsKey": "a \u0153i",
+   "nilIfEmpty": "\u00c5,\u0153\u0130"
+  },
+  {
+   "input": "b",
+   "cleanedName": "b",
+   "nameKey": "b",
+   "searchKey": "b",
+   "looseKey": "b",
+   "wordsKey": "b",
+   "nilIfEmpty": "b"
+  },
+  {
+   "input": "\u1fb3\u093f\u00d8",
+   "cleanedName": "\u1fb3\u093f\u00d8",
+   "nameKey": "\u1fb3\u093f\u00f8",
+   "searchKey": "\u03b1\u093f\u00f8",
+   "looseKey": "\u03b1\u093f\u00f8",
+   "wordsKey": "\u03b1\u093f\u00f8",
+   "nilIfEmpty": "\u1fb3\u093f\u00d8"
+  },
+  {
+   "input": "\ud83d\udc4d\u2013\u0307",
+   "cleanedName": "\ud83d\udc4d\u2013\u0307",
+   "nameKey": "\ud83d\udc4d\u2013\u0307",
+   "searchKey": "\ud83d\udc4d\u2013",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\ud83d\udc4d\u2013\u0307"
+  },
+  {
+   "input": "\u093f\u00c5",
+   "cleanedName": "\u093f\u00c5",
+   "nameKey": "\u093f\u00e5",
+   "searchKey": "\u093fa",
+   "looseKey": "\u093fa",
+   "wordsKey": "\u093fa",
+   "nilIfEmpty": "\u093f\u00c5"
+  },
+  {
+   "input": "\u11a8;z\u20e3\ud83d\udc4d",
+   "cleanedName": "\u11a8;z\u20e3\ud83d\udc4d",
+   "nameKey": "\u11a8;z\u20e3\ud83d\udc4d",
+   "searchKey": "\u11a8;z\ud83d\udc4d",
+   "looseKey": "\u11a8z",
+   "wordsKey": "\u11a8 z",
+   "nilIfEmpty": "\u11a8;z\u20e3\ud83d\udc4d"
+  },
+  {
+   "input": "\u0916\r\u0179\u017a\u1e01\u3000",
+   "cleanedName": "\u0916 \u0179\u017a\u1e01",
+   "nameKey": "\u0916 \u017a\u017a\u1e01",
+   "searchKey": "\u0916 zza",
+   "looseKey": "\u0916zza",
+   "wordsKey": "\u0916 zza",
+   "nilIfEmpty": "\u0916\r\u0179\u017a\u1e01\u3000"
+  },
+  {
+   "input": "\u00a0\u0106",
+   "cleanedName": "\u0106",
+   "nameKey": "\u0107",
+   "searchKey": "c",
+   "looseKey": "c",
+   "wordsKey": "c",
+   "nilIfEmpty": "\u00a0\u0106"
+  },
+  {
+   "input": "9\u0144\u0106\u017b\u1e9e",
+   "cleanedName": "9\u0144\u0106\u017b\u1e9e",
+   "nameKey": "9\u0144\u0107\u017c\u00df",
+   "searchKey": "9nczss",
+   "looseKey": "9nczss",
+   "wordsKey": "9nczss",
+   "nilIfEmpty": "9\u0144\u0106\u017b\u1e9e"
+  },
+  {
+   "input": "\u01c5,\uac00\u0587",
+   "cleanedName": "\u01c5,\uac00\u0587",
+   "nameKey": "\u01c6,\uac00\u0587",
+   "searchKey": "\u01c6,\uac00\u0565\u0582",
+   "looseKey": "\u01c6\uac00\u0565\u0582",
+   "wordsKey": "\u01c6 \uac00\u0565\u0582",
+   "nilIfEmpty": "\u01c5,\uac00\u0587"
+  },
+  {
+   "input": "\ud83c\udffd\u0903\u0916",
+   "cleanedName": "\ud83c\udffd\u0903\u0916",
+   "nameKey": "\ud83c\udffd\u0903\u0916",
+   "searchKey": "\ud83c\udffd\u0903\u0916",
+   "looseKey": "\u0916",
+   "wordsKey": "\u0916",
+   "nilIfEmpty": "\ud83c\udffd\u0903\u0916"
+  },
+  {
+   "input": "\ud83c\udffd\u0915\u001cx\u0104",
+   "cleanedName": "\ud83c\udffd\u0915\u001cx\u0104",
+   "nameKey": "\ud83c\udffd\u0915\u001cx\u0105",
+   "searchKey": "\ud83c\udffd\u0915\u001cxa",
+   "looseKey": "\u0915xa",
+   "wordsKey": "\u0915 xa",
+   "nilIfEmpty": "\ud83c\udffd\u0915\u001cx\u0104"
+  },
+  {
+   "input": "\u0105",
+   "cleanedName": "\u0105",
+   "nameKey": "\u0105",
+   "searchKey": "a",
+   "looseKey": "a",
+   "wordsKey": "a",
+   "nilIfEmpty": "\u0105"
+  },
+  {
+   "input": "\u015a\"\u0153\u094d",
+   "cleanedName": "\u015a\"\u0153\u094d",
+   "nameKey": "\u015b\"\u0153\u094d",
+   "searchKey": "s\"\u0153",
+   "looseKey": "s\u0153",
+   "wordsKey": "s \u0153",
+   "nilIfEmpty": "\u015a\"\u0153\u094d"
+  },
+  {
+   "input": "\u2204;",
+   "cleanedName": "\u2204;",
+   "nameKey": "\u2204;",
+   "searchKey": "\u2204;",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\u2204;"
+  },
+  {
+   "input": " \ufb06-\u24d0\u20e3",
+   "cleanedName": "\ufb06-\u24d0\u20e3",
+   "nameKey": "\ufb06-\u24d0\u20e3",
+   "searchKey": "st-\u24d0\u20e3",
+   "looseKey": "st\u24d0\u20e3",
+   "wordsKey": "st \u24d0\u20e3",
+   "nilIfEmpty": " \ufb06-\u24d0\u20e3"
+  },
+  {
+   "input": "\u01c4",
+   "cleanedName": "\u01c4",
+   "nameKey": "\u01c6",
+   "searchKey": "\u01c6",
+   "looseKey": "\u01c6",
+   "wordsKey": "\u01c6",
+   "nilIfEmpty": "\u01c4"
+  },
+  {
+   "input": "\u0903\u11a8\ufeff\u1161\u017a\u00f3\u0152",
+   "cleanedName": "\u0903\u11a8\ufeff\u1161\u017a\u00f3\u0152",
+   "nameKey": "\u0903\u11a8\ufeff\u1161\u017a\u00f3\u0153",
+   "searchKey": "\u0903\u11a8\ufeff\u1161zo\u0153",
+   "looseKey": "\u0903\u11a8\u1161zo\u0153",
+   "wordsKey": "\u0903\u11a8 \u1161zo\u0153",
+   "nilIfEmpty": "\u0903\u11a8\ufeff\u1161\u017a\u00f3\u0152"
+  },
+  {
+   "input": "\u01c5\u01f0\u0338\u093c\u0131\u01f0-",
+   "cleanedName": "\u01c5\u01f0\u0338\u093c\u0131\u01f0-",
+   "nameKey": "\u01c6\u01f0\u0338\u093c\u0131\u01f0-",
+   "searchKey": "\u01c6j\u0131j-",
+   "looseKey": "\u01c6j\u0131j",
+   "wordsKey": "\u01c6j\u0131j",
+   "nilIfEmpty": "\u01c5\u01f0\u0338\u093c\u0131\u01f0-"
+  },
+  {
+   "input": "\u1f80\u0179\u0916",
+   "cleanedName": "\u1f80\u0179\u0916",
+   "nameKey": "\u1f80\u017a\u0916",
+   "searchKey": "\u03b1z\u0916",
+   "looseKey": "\u03b1z\u0916",
+   "wordsKey": "\u03b1z\u0916",
+   "nilIfEmpty": "\u1f80\u0179\u0916"
+  },
+  {
+   "input": ";)\u0107\u03c2-\u017c",
+   "cleanedName": ";)\u0107\u03c2-\u017c",
+   "nameKey": ";)\u0107\u03c2-\u017c",
+   "searchKey": ";)c\u03c3-z",
+   "looseKey": "c\u03c3z",
+   "wordsKey": "c\u03c3 z",
+   "nilIfEmpty": ";)\u0107\u03c2-\u017c"
+  },
+  {
+   "input": ".\u0144\ud83d\udc69Z)",
+   "cleanedName": ".\u0144\ud83d\udc69Z)",
+   "nameKey": ".\u0144\ud83d\udc69z)",
+   "searchKey": ".n\ud83d\udc69z)",
+   "looseKey": "nz",
+   "wordsKey": "n z",
+   "nilIfEmpty": ".\u0144\ud83d\udc69Z)"
+  },
+  {
+   "input": "\u017b\u0144",
+   "cleanedName": "\u017b\u0144",
+   "nameKey": "\u017c\u0144",
+   "searchKey": "zn",
+   "looseKey": "zn",
+   "wordsKey": "zn",
+   "nilIfEmpty": "\u017b\u0144"
+  },
+  {
+   "input": "\u0106AK\u01c4",
+   "cleanedName": "\u0106AK\u01c4",
+   "nameKey": "\u0107ak\u01c6",
+   "searchKey": "cak\u01c6",
+   "looseKey": "cak\u01c6",
+   "wordsKey": "cak\u01c6",
+   "nilIfEmpty": "\u0106AK\u01c4"
+  },
+  {
+   "input": "\u00d3\u0660a\uff9e\u2014\u2204\u0179",
+   "cleanedName": "\u00d3\u0660a\uff9e\u2014\u2204\u0179",
+   "nameKey": "\u00f3\u0660a\uff9e\u2014\u2204\u017a",
+   "searchKey": "o\u0660a\u2014\u2204z",
+   "looseKey": "o\u0660az",
+   "wordsKey": "o\u0660a z",
+   "nilIfEmpty": "\u00d3\u0660a\uff9e\u2014\u2204\u0179"
+  },
+  {
+   "input": "\u00c5\u0105]KA\uffe3x\ud83c\uddf1",
+   "cleanedName": "\u00c5\u0105]KA\uffe3x\ud83c\uddf1",
+   "nameKey": "\u00e5\u0105]ka\uffe3x\ud83c\uddf1",
+   "searchKey": "aa]ka\uffe3x\ud83c\uddf1",
+   "looseKey": "aakax",
+   "wordsKey": "aa ka x",
+   "nilIfEmpty": "\u00c5\u0105]KA\uffe3x\ud83c\uddf1"
+  },
+  {
+   "input": "\uac00\u2204\u24b6\u00b5",
+   "cleanedName": "\uac00\u2204\u24b6\u00b5",
+   "nameKey": "\uac00\u2204\u24d0\u00b5",
+   "searchKey": "\uac00\u2204\u24d0\u03bc",
+   "looseKey": "\uac00\u24d0\u03bc",
+   "wordsKey": "\uac00 \u24d0\u03bc",
+   "nilIfEmpty": "\uac00\u2204\u24b6\u00b5"
+  },
+  {
+   "input": "\u0085;\u0152\u094d\u0301\uffe3\u1100",
+   "cleanedName": ";\u0152\u094d\u0301\uffe3\u1100",
+   "nameKey": ";\u0153\u094d\u0301\uffe3\u1100",
+   "searchKey": ";\u0153\uffe3\u1100",
+   "looseKey": "\u0153\u1100",
+   "wordsKey": "\u0153 \u1100",
+   "nilIfEmpty": "\u0085;\u0152\u094d\u0301\uffe3\u1100"
+  },
+  {
+   "input": "\u0130",
+   "cleanedName": "\u0130",
+   "nameKey": "i\u0307",
+   "searchKey": "i",
+   "looseKey": "i",
+   "wordsKey": "i",
+   "nilIfEmpty": "\u0130"
+  },
+  {
+   "input": "(",
+   "cleanedName": "(",
+   "nameKey": "(",
+   "searchKey": "(",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "("
+  },
+  {
+   "input": "\u2014\u200d\u0338\u216b\u017a",
+   "cleanedName": "\u2014\u200d\u0338\u216b\u017a",
+   "nameKey": "\u2014\u200d\u0338\u217b\u017a",
+   "searchKey": "\u2014\u200d\u217bz",
+   "looseKey": "\u217bz",
+   "wordsKey": "\u217bz",
+   "nilIfEmpty": "\u2014\u200d\u0338\u216b\u017a"
+  },
+  {
+   "input": "-\t\u2009\u0345\u0131\u0104\u102b",
+   "cleanedName": "- \u0131\u0104\u102b",
+   "nameKey": "- \u0131\u0105\u102b",
+   "searchKey": "- \u0131a\u102b",
+   "looseKey": "\u0131a\u102b",
+   "wordsKey": "\u0131a\u102b",
+   "nilIfEmpty": "-\t\u2009\u0345\u0131\u0104\u102b"
+  },
+  {
+   "input": "\u093c",
+   "cleanedName": "\u093c",
+   "nameKey": "\u093c",
+   "searchKey": "\u093c",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\u093c"
+  },
+  {
+   "input": "\u00d3\uff11\"\u017b\u0916\u001c\u20e3",
+   "cleanedName": "\u00d3\uff11\"\u017b\u0916\u001c\u20e3",
+   "nameKey": "\u00f3\uff11\"\u017c\u0916\u001c\u20e3",
+   "searchKey": "o1\"z\u0916\u001c",
+   "looseKey": "o1z\u0916",
+   "wordsKey": "o1 z\u0916",
+   "nilIfEmpty": "\u00d3\uff11\"\u017b\u0916\u001c\u20e3"
+  },
+  {
+   "input": "\u0915",
+   "cleanedName": "\u0915",
+   "nameKey": "\u0915",
+   "searchKey": "\u0915",
+   "looseKey": "\u0915",
+   "wordsKey": "\u0915",
+   "nilIfEmpty": "\u0915"
+  },
+  {
+   "input": "\u2013\u1e01",
+   "cleanedName": "\u2013\u1e01",
+   "nameKey": "\u2013\u1e01",
+   "searchKey": "\u2013a",
+   "looseKey": "a",
+   "wordsKey": "a",
+   "nilIfEmpty": "\u2013\u1e01"
+  },
+  {
+   "input": "\ud83c\uddf1\u0119\u03c2\u0142&",
+   "cleanedName": "\ud83c\uddf1\u0119\u03c2\u0142&",
+   "nameKey": "\ud83c\uddf1\u0119\u03c2\u0142&",
+   "searchKey": "\ud83c\uddf1e\u03c3l&",
+   "looseKey": "e\u03c3l",
+   "wordsKey": "e\u03c3l",
+   "nilIfEmpty": "\ud83c\uddf1\u0119\u03c2\u0142&"
+  },
+  {
+   "input": "\u24d0",
+   "cleanedName": "\u24d0",
+   "nameKey": "\u24d0",
+   "searchKey": "\u24d0",
+   "looseKey": "\u24d0",
+   "wordsKey": "\u24d0",
+   "nilIfEmpty": "\u24d0"
+  },
+  {
+   "input": "\ud83d\udc68\u00b2K",
+   "cleanedName": "\ud83d\udc68\u00b2K",
+   "nameKey": "\ud83d\udc68\u00b2k",
+   "searchKey": "\ud83d\udc68\u00b2k",
+   "looseKey": "\u00b2k",
+   "wordsKey": "\u00b2k",
+   "nilIfEmpty": "\ud83d\udc68\u00b2K"
+  },
+  {
+   "input": "\u0338\ud83d\udc69\uff5a",
+   "cleanedName": "\u0338\ud83d\udc69\uff5a",
+   "nameKey": "\u0338\ud83d\udc69\uff5a",
+   "searchKey": "\u0338\ud83d\udc69z",
+   "looseKey": "z",
+   "wordsKey": "z",
+   "nilIfEmpty": "\u0338\ud83d\udc69\uff5a"
+  },
+  {
+   "input": "z\u00d8\u13a0",
+   "cleanedName": "z\u00d8\u13a0",
+   "nameKey": "z\u00f8\uab70",
+   "searchKey": "z\u00f8\uab70",
+   "looseKey": "z\u00f8\uab70",
+   "wordsKey": "z\u00f8\uab70",
+   "nilIfEmpty": "z\u00d8\u13a0"
+  },
+  {
+   "input": "\u0660\ufb06\u0916.a[",
+   "cleanedName": "\u0660\ufb06\u0916.a[",
+   "nameKey": "\u0660\ufb06\u0916.a[",
+   "searchKey": "\u0660st\u0916.a[",
+   "looseKey": "\u0660st\u0916a",
+   "wordsKey": "\u0660st\u0916 a",
+   "nilIfEmpty": "\u0660\ufb06\u0916.a["
+  },
+  {
+   "input": "\u01c4\u0179\u0307\u1100\u24d0\uab70",
+   "cleanedName": "\u01c4\u0179\u0307\u1100\u24d0\uab70",
+   "nameKey": "\u01c6\u017a\u0307\u1100\u24d0\uab70",
+   "searchKey": "\u01c6z\u1100\u24d0\uab70",
+   "looseKey": "\u01c6z\u1100\u24d0\uab70",
+   "wordsKey": "\u01c6z\u1100\u24d0\uab70",
+   "nilIfEmpty": "\u01c4\u0179\u0307\u1100\u24d0\uab70"
+  },
+  {
+   "input": "z\u001f",
+   "cleanedName": "z\u001f",
+   "nameKey": "z\u001f",
+   "searchKey": "z\u001f",
+   "looseKey": "z",
+   "wordsKey": "z",
+   "nilIfEmpty": "z\u001f"
+  },
+  {
+   "input": "\u0144\u00d3\u0130\u03a3\u00c5B\ud83c\udffd\u1161",
+   "cleanedName": "\u0144\u00d3\u0130\u03a3\u00c5B\ud83c\udffd\u1161",
+   "nameKey": "\u0144\u00f3i\u0307\u03c3\u00e5b\ud83c\udffd\u1161",
+   "searchKey": "noi\u03c3ab\u1161",
+   "looseKey": "noi\u03c3ab\u1161",
+   "wordsKey": "noi\u03c3ab\u1161",
+   "nilIfEmpty": "\u0144\u00d3\u0130\u03a3\u00c5B\ud83c\udffd\u1161"
+  },
+  {
+   "input": "\u0104\ud83c\udd70\u00b2\u017c\u0660\u0915\u13a0\u11a8",
+   "cleanedName": "\u0104\ud83c\udd70\u00b2\u017c\u0660\u0915\u13a0\u11a8",
+   "nameKey": "\u0105\ud83c\udd70\u00b2\u017c\u0660\u0915\uab70\u11a8",
+   "searchKey": "a\ud83c\udd70\u00b2z\u0660\u0915\uab70\u11a8",
+   "looseKey": "a\ud83c\udd70\u00b2z\u0660\u0915\uab70\u11a8",
+   "wordsKey": "a\ud83c\udd70\u00b2z\u0660\u0915\uab70\u11a8",
+   "nilIfEmpty": "\u0104\ud83c\udd70\u00b2\u017c\u0660\u0915\u13a0\u11a8"
+  },
+  {
+   "input": "\u03c3\u1100",
+   "cleanedName": "\u03c3\u1100",
+   "nameKey": "\u03c3\u1100",
+   "searchKey": "\u03c3\u1100",
+   "looseKey": "\u03c3\u1100",
+   "wordsKey": "\u03c3\u1100",
+   "nilIfEmpty": "\u03c3\u1100"
+  },
+  {
+   "input": "(\u00c6\u017b\u017c\u3000\u4e00\ud83d\udc4d",
+   "cleanedName": "(\u00c6\u017b\u017c \u4e00\ud83d\udc4d",
+   "nameKey": "(\u00e6\u017c\u017c \u4e00\ud83d\udc4d",
+   "searchKey": "(\u00e6zz \u4e00\ud83d\udc4d",
+   "looseKey": "\u00e6zz\u4e00",
+   "wordsKey": "\u00e6zz \u4e00",
+   "nilIfEmpty": "(\u00c6\u017b\u017c\u3000\u4e00\ud83d\udc4d"
+  },
+  {
+   "input": "\u093c\uff5a\u0144",
+   "cleanedName": "\u093c\uff5a\u0144",
+   "nameKey": "\u093c\uff5a\u0144",
+   "searchKey": "\u093czn",
+   "looseKey": "zn",
+   "wordsKey": "zn",
+   "nilIfEmpty": "\u093c\uff5a\u0144"
+  },
+  {
+   "input": "x\u2013",
+   "cleanedName": "x\u2013",
+   "nameKey": "x\u2013",
+   "searchKey": "x\u2013",
+   "looseKey": "x",
+   "wordsKey": "x",
+   "nilIfEmpty": "x\u2013"
+  },
+  {
+   "input": "\uff5a\u0131\u00d3?b",
+   "cleanedName": "\uff5a\u0131\u00d3?b",
+   "nameKey": "\uff5a\u0131\u00f3?b",
+   "searchKey": "z\u0131o?b",
+   "looseKey": "z\u0131ob",
+   "wordsKey": "z\u0131o b",
+   "nilIfEmpty": "\uff5a\u0131\u00d3?b"
+  },
+  {
+   "input": "\u0152/\u00b5\u13a0\u13a0\u0144.&",
+   "cleanedName": "\u0152/\u00b5\u13a0\u13a0\u0144.&",
+   "nameKey": "\u0153/\u00b5\uab70\uab70\u0144.&",
+   "searchKey": "\u0153/\u03bc\uab70\uab70n.&",
+   "looseKey": "\u0153\u03bc\uab70\uab70n",
+   "wordsKey": "\u0153 \u03bc\uab70\uab70n",
+   "nilIfEmpty": "\u0152/\u00b5\u13a0\u13a0\u0144.&"
+  },
+  {
+   "input": "\u0144.\ud83c\udffd\u102b/\u4e00",
+   "cleanedName": "\u0144.\ud83c\udffd\u102b/\u4e00",
+   "nameKey": "\u0144.\ud83c\udffd\u102b/\u4e00",
+   "searchKey": "n.\u102b/\u4e00",
+   "looseKey": "n\u102b\u4e00",
+   "wordsKey": "n \u102b \u4e00",
+   "nilIfEmpty": "\u0144.\ud83c\udffd\u102b/\u4e00"
+  },
+  {
+   "input": "\u0301b,\ud83d\udc69\u093f\ud83d\udc68?",
+   "cleanedName": "\u0301b,\ud83d\udc69\u093f\ud83d\udc68?",
+   "nameKey": "\u0301b,\ud83d\udc69\u093f\ud83d\udc68?",
+   "searchKey": "\u0301b,\ud83d\udc69\u093f\ud83d\udc68?",
+   "looseKey": "b",
+   "wordsKey": "b",
+   "nilIfEmpty": "\u0301b,\ud83d\udc69\u093f\ud83d\udc68?"
+  },
+  {
+   "input": "\u01539[\u03a9\u0153",
+   "cleanedName": "\u01539[\u03a9\u0153",
+   "nameKey": "\u01539[\u03c9\u0153",
+   "searchKey": "\u01539[\u03c9\u0153",
+   "looseKey": "\u01539\u03c9\u0153",
+   "wordsKey": "\u01539 \u03c9\u0153",
+   "nilIfEmpty": "\u01539[\u03a9\u0153"
+  },
+  {
+   "input": "B\ufb06\ud83c\uddf5\u0328",
+   "cleanedName": "B\ufb06\ud83c\uddf5\u0328",
+   "nameKey": "b\ufb06\ud83c\uddf5\u0328",
+   "searchKey": "bst\ud83c\uddf5",
+   "looseKey": "bst",
+   "wordsKey": "bst",
+   "nilIfEmpty": "B\ufb06\ud83c\uddf5\u0328"
+  },
+  {
+   "input": "\u0301",
+   "cleanedName": "\u0301",
+   "nameKey": "\u0301",
+   "searchKey": "\u0301",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\u0301"
+  },
+  {
+   "input": "]\u03a3\u0903",
+   "cleanedName": "]\u03a3\u0903",
+   "nameKey": "]\u03c3\u0903",
+   "searchKey": "]\u03c3\u0903",
+   "looseKey": "\u03c3\u0903",
+   "wordsKey": "\u03c3\u0903",
+   "nilIfEmpty": "]\u03a3\u0903"
+  },
+  {
+   "input": "\n\u2014\u0141\u0669",
+   "cleanedName": "\u2014\u0141\u0669",
+   "nameKey": "\u2014\u0142\u0669",
+   "searchKey": "\u2014l\u0669",
+   "looseKey": "l\u0669",
+   "wordsKey": "l\u0669",
+   "nilIfEmpty": "\n\u2014\u0141\u0669"
+  },
+  {
+   "input": "\u0130\u0587z\u017c\u094d\u1fb3\u0307\u1e01",
+   "cleanedName": "\u0130\u0587z\u017c\u094d\u1fb3\u0307\u1e01",
+   "nameKey": "i\u0307\u0587z\u017c\u094d\u1fb3\u0307\u1e01",
+   "searchKey": "i\u0565\u0582zz\u03b1a",
+   "looseKey": "i\u0565\u0582zz\u03b1a",
+   "wordsKey": "i\u0565\u0582zz\u03b1a",
+   "nilIfEmpty": "\u0130\u0587z\u017c\u094d\u1fb3\u0307\u1e01"
+  },
+  {
+   "input": ",\u00c6[\u0119.\u11a8",
+   "cleanedName": ",\u00c6[\u0119.\u11a8",
+   "nameKey": ",\u00e6[\u0119.\u11a8",
+   "searchKey": ",\u00e6[e.\u11a8",
+   "looseKey": "\u00e6e\u11a8",
+   "wordsKey": "\u00e6 e \u11a8",
+   "nilIfEmpty": ",\u00c6[\u0119.\u11a8"
+  },
+  {
+   "input": "\n",
+   "cleanedName": "",
+   "nameKey": "",
+   "searchKey": "",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\n"
+  },
+  {
+   "input": "\n\u00e6",
+   "cleanedName": "\u00e6",
+   "nameKey": "\u00e6",
+   "searchKey": "\u00e6",
+   "looseKey": "\u00e6",
+   "wordsKey": "\u00e6",
+   "nilIfEmpty": "\n\u00e6"
+  },
+  {
+   "input": "\u0130\u1f80\u094d\ud83c\uddf5;\u0587\u094d\uffe3",
+   "cleanedName": "\u0130\u1f80\u094d\ud83c\uddf5;\u0587\u094d\uffe3",
+   "nameKey": "i\u0307\u1f80\u094d\ud83c\uddf5;\u0587\u094d\uffe3",
+   "searchKey": "i\u03b1\ud83c\uddf5;\u0565\u0582\u094d\uffe3",
+   "looseKey": "i\u03b1\u0565\u0582\u094d",
+   "wordsKey": "i\u03b1 \u0565\u0582\u094d",
+   "nilIfEmpty": "\u0130\u1f80\u094d\ud83c\uddf5;\u0587\u094d\uffe3"
+  },
+  {
+   "input": "!\u01c5\u017b\u200b\u0104;\u017b\u00f8",
+   "cleanedName": "!\u01c5\u017b\u200b\u0104;\u017b\u00f8",
+   "nameKey": "!\u01c6\u017c\u200b\u0105;\u017c\u00f8",
+   "searchKey": "!\u01c6z\u200ba;z\u00f8",
+   "looseKey": "\u01c6zaz\u00f8",
+   "wordsKey": "\u01c6z a z\u00f8",
+   "nilIfEmpty": "!\u01c5\u017b\u200b\u0104;\u017b\u00f8"
+  },
+  {
+   "input": "\t\u1f80\ud83d\udc4d\u00a0\u216b",
+   "cleanedName": "\u1f80\ud83d\udc4d \u216b",
+   "nameKey": "\u1f80\ud83d\udc4d \u217b",
+   "searchKey": "\u03b1\ud83d\udc4d \u217b",
+   "looseKey": "\u03b1\u217b",
+   "wordsKey": "\u03b1 \u217b",
+   "nilIfEmpty": "\t\u1f80\ud83d\udc4d\u00a0\u216b"
+  },
+  {
+   "input": "\u2014\u0179\u1161\u00e6\u102b\u0144\u00b5\r",
+   "cleanedName": "\u2014\u0179\u1161\u00e6\u102b\u0144\u00b5",
+   "nameKey": "\u2014\u017a\u1161\u00e6\u102b\u0144\u00b5",
+   "searchKey": "\u2014z\u1161\u00e6\u102bn\u03bc",
+   "looseKey": "z\u1161\u00e6\u102bn\u03bc",
+   "wordsKey": "z\u1161\u00e6\u102bn\u03bc",
+   "nilIfEmpty": "\u2014\u0179\u1161\u00e6\u102b\u0144\u00b5\r"
+  },
+  {
+   "input": "\u00a0)\u0345z",
+   "cleanedName": ")\u0345z",
+   "nameKey": ")\u0345z",
+   "searchKey": ")z",
+   "looseKey": "z",
+   "wordsKey": "z",
+   "nilIfEmpty": "\u00a0)\u0345z"
+  },
+  {
+   "input": "a\u2009",
+   "cleanedName": "a",
+   "nameKey": "a",
+   "searchKey": "a",
+   "looseKey": "a",
+   "wordsKey": "a",
+   "nilIfEmpty": "a\u2009"
+  },
+  {
+   "input": "\u00d8\u015b\u015a",
+   "cleanedName": "\u00d8\u015b\u015a",
+   "nameKey": "\u00f8\u015b\u015b",
+   "searchKey": "\u00f8ss",
+   "looseKey": "\u00f8ss",
+   "wordsKey": "\u00f8ss",
+   "nilIfEmpty": "\u00d8\u015b\u015a"
+  },
+  {
+   "input": "\u3000\ufb00\u2009\u11a8\u00a0",
+   "cleanedName": "\ufb00 \u11a8",
+   "nameKey": "\ufb00 \u11a8",
+   "searchKey": "ff \u11a8",
+   "looseKey": "ff\u11a8",
+   "wordsKey": "ff \u11a8",
+   "nilIfEmpty": "\u3000\ufb00\u2009\u11a8\u00a0"
+  },
+  {
+   "input": "\u00f3\ud83c\udd70\u00b2(\u1f80(",
+   "cleanedName": "\u00f3\ud83c\udd70\u00b2(\u1f80(",
+   "nameKey": "\u00f3\ud83c\udd70\u00b2(\u1f80(",
+   "searchKey": "o\ud83c\udd70\u00b2(\u03b1(",
+   "looseKey": "o\ud83c\udd70\u00b2\u03b1",
+   "wordsKey": "o\ud83c\udd70\u00b2 \u03b1",
+   "nilIfEmpty": "\u00f3\ud83c\udd70\u00b2(\u1f80("
+  },
+  {
+   "input": "\u00c5\u1f80A",
+   "cleanedName": "\u00c5\u1f80A",
+   "nameKey": "\u00e5\u1f80a",
+   "searchKey": "a\u03b1a",
+   "looseKey": "a\u03b1a",
+   "wordsKey": "a\u03b1a",
+   "nilIfEmpty": "\u00c5\u1f80A"
+  },
+  {
+   "input": "\u0301\u4e00\ud83d\udc69\u017a\u0916\u0107\n",
+   "cleanedName": "\u0301\u4e00\ud83d\udc69\u017a\u0916\u0107",
+   "nameKey": "\u0301\u4e00\ud83d\udc69\u017a\u0916\u0107",
+   "searchKey": "\u0301\u4e00\ud83d\udc69z\u0916c",
+   "looseKey": "\u4e00z\u0916c",
+   "wordsKey": "\u4e00 z\u0916c",
+   "nilIfEmpty": "\u0301\u4e00\ud83d\udc69\u017a\u0916\u0107\n"
+  },
+  {
+   "input": "\ud83c\uddf1\ud83d\udc69\ufb01\u03c2\u0587",
+   "cleanedName": "\ud83c\uddf1\ud83d\udc69\ufb01\u03c2\u0587",
+   "nameKey": "\ud83c\uddf1\ud83d\udc69\ufb01\u03c2\u0587",
+   "searchKey": "\ud83c\uddf1\ud83d\udc69fi\u03c3\u0565\u0582",
+   "looseKey": "fi\u03c3\u0565\u0582",
+   "wordsKey": "fi\u03c3\u0565\u0582",
+   "nilIfEmpty": "\ud83c\uddf1\ud83d\udc69\ufb01\u03c2\u0587"
+  },
+  {
+   "input": "\u093f\u00c5\uff21\u0131",
+   "cleanedName": "\u093f\u00c5\uff21\u0131",
+   "nameKey": "\u093f\u00e5\uff41\u0131",
+   "searchKey": "\u093faa\u0131",
+   "looseKey": "\u093faa\u0131",
+   "wordsKey": "\u093faa\u0131",
+   "nilIfEmpty": "\u093f\u00c5\uff21\u0131"
+  },
+  {
+   "input": "-0\u01c5\ufb01",
+   "cleanedName": "-0\u01c5\ufb01",
+   "nameKey": "-0\u01c6\ufb01",
+   "searchKey": "-0\u01c6fi",
+   "looseKey": "0\u01c6fi",
+   "wordsKey": "0\u01c6fi",
+   "nilIfEmpty": "-0\u01c5\ufb01"
+  },
+  {
+   "input": "\u0152\u0131\u200b\u0130\u0301b\u1fb3\u2009",
+   "cleanedName": "\u0152\u0131\u200b\u0130\u0301b\u1fb3",
+   "nameKey": "\u0153\u0131\u200bi\u0307\u0301b\u1fb3",
+   "searchKey": "\u0153\u0131\u200bib\u03b1",
+   "looseKey": "\u0153\u0131ib\u03b1",
+   "wordsKey": "\u0153\u0131 ib\u03b1",
+   "nilIfEmpty": "\u0152\u0131\u200b\u0130\u0301b\u1fb3\u2009"
+  },
+  {
+   "input": "\u00e6)\u01c5",
+   "cleanedName": "\u00e6)\u01c5",
+   "nameKey": "\u00e6)\u01c6",
+   "searchKey": "\u00e6)\u01c6",
+   "looseKey": "\u00e6\u01c6",
+   "wordsKey": "\u00e6 \u01c6",
+   "nilIfEmpty": "\u00e6)\u01c5"
+  },
+  {
+   "input": "\u0118\n",
+   "cleanedName": "\u0118",
+   "nameKey": "\u0119",
+   "searchKey": "e",
+   "looseKey": "e",
+   "wordsKey": "e",
+   "nilIfEmpty": "\u0118\n"
+  },
+  {
+   "input": "\u093c\u0119\u01c6A\u0153",
+   "cleanedName": "\u093c\u0119\u01c6A\u0153",
+   "nameKey": "\u093c\u0119\u01c6a\u0153",
+   "searchKey": "\u093ce\u01c6a\u0153",
+   "looseKey": "e\u01c6a\u0153",
+   "wordsKey": "e\u01c6a\u0153",
+   "nilIfEmpty": "\u093c\u0119\u01c6A\u0153"
+  },
+  {
+   "input": "\u0916\u0106\u0587\u13a0\ud83d\udc68",
+   "cleanedName": "\u0916\u0106\u0587\u13a0\ud83d\udc68",
+   "nameKey": "\u0916\u0107\u0587\uab70\ud83d\udc68",
+   "searchKey": "\u0916c\u0565\u0582\uab70\ud83d\udc68",
+   "looseKey": "\u0916c\u0565\u0582\uab70",
+   "wordsKey": "\u0916c\u0565\u0582\uab70",
+   "nilIfEmpty": "\u0916\u0106\u0587\u13a0\ud83d\udc68"
+  },
+  {
+   "input": ".\ud83c\udd70\u0141\u00d3\u216b\u20e3",
+   "cleanedName": ".\ud83c\udd70\u0141\u00d3\u216b\u20e3",
+   "nameKey": ".\ud83c\udd70\u0142\u00f3\u217b\u20e3",
+   "searchKey": ".\ud83c\udd70lo\u217b\u20e3",
+   "looseKey": "\ud83c\udd70lo\u217b\u20e3",
+   "wordsKey": "\ud83c\udd70lo\u217b\u20e3",
+   "nilIfEmpty": ".\ud83c\udd70\u0141\u00d3\u216b\u20e3"
+  },
+  {
+   "input": "\u0916\u00d80\u01c4?[",
+   "cleanedName": "\u0916\u00d80\u01c4?[",
+   "nameKey": "\u0916\u00f80\u01c6?[",
+   "searchKey": "\u0916\u00f80\u01c6?[",
+   "looseKey": "\u0916\u00f80\u01c6",
+   "wordsKey": "\u0916\u00f80\u01c6",
+   "nilIfEmpty": "\u0916\u00d80\u01c4?["
+  },
+  {
+   "input": "\u03c3\u2009\u2204\u00c6\uab70",
+   "cleanedName": "\u03c3 \u2204\u00c6\uab70",
+   "nameKey": "\u03c3 \u2204\u00e6\uab70",
+   "searchKey": "\u03c3 \u2204\u00e6\uab70",
+   "looseKey": "\u03c3\u00e6\uab70",
+   "wordsKey": "\u03c3 \u00e6\uab70",
+   "nilIfEmpty": "\u03c3\u2009\u2204\u00c6\uab70"
+  },
+  {
+   "input": "\u00f3\u200d\u20e3",
+   "cleanedName": "\u00f3\u200d\u20e3",
+   "nameKey": "\u00f3\u200d\u20e3",
+   "searchKey": "o\u200d\u20e3",
+   "looseKey": "o\u200d\u20e3",
+   "wordsKey": "o\u200d\u20e3",
+   "nilIfEmpty": "\u00f3\u200d\u20e3"
+  },
+  {
+   "input": "\u200d\r\n",
+   "cleanedName": "\u200d",
+   "nameKey": "\u200d",
+   "searchKey": "\u200d",
+   "looseKey": "",
+   "wordsKey": "",
+   "nilIfEmpty": "\u200d\r\n"
+  },
+  {
+   "input": "\u01c5\u2028\u0328A\u1f80\u0660\uff11;",
+   "cleanedName": "\u01c5 \u0328A\u1f80\u0660\uff11;",
+   "nameKey": "\u01c6 \u0328a\u1f80\u0660\uff11;",
+   "searchKey": "\u01c6 a\u03b1\u06601;",
+   "looseKey": "\u01c6a\u03b1\u06601",
+   "wordsKey": "\u01c6 a\u03b1\u06601",
+   "nilIfEmpty": "\u01c5\u2028\u0328A\u1f80\u0660\uff11;"
+  },
+  {
+   "input": "\u0105\uab70\ufb00\u24b6\u2028",
+   "cleanedName": "\u0105\uab70\ufb00\u24b6",
+   "nameKey": "\u0105\uab70\ufb00\u24d0",
+   "searchKey": "a\uab70ff\u24d0",
+   "looseKey": "a\uab70ff\u24d0",
+   "wordsKey": "a\uab70ff\u24d0",
+   "nilIfEmpty": "\u0105\uab70\ufb00\u24b6\u2028"
+  },
+  {
+   "input": "\u0105 x\ufe0f",
+   "cleanedName": "\u0105 x\ufe0f",
+   "nameKey": "\u0105 x\ufe0f",
+   "searchKey": "a x",
+   "looseKey": "ax",
+   "wordsKey": "a x",
+   "nilIfEmpty": "\u0105 x\ufe0f"
+  }
+ ],
+ "matchRank": [
+  {
+   "text": "Wied\u017amin",
+   "query": "wiedz",
+   "rank": 0
+  },
+  {
+   "text": "Wied\u017amin",
+   "query": "min",
+   "rank": 2
+  },
+  {
+   "text": "Harry Potter i Czara Ognia",
+   "query": "czara",
+   "rank": 1
+  },
+  {
+   "text": "Harry Potter",
+   "query": "xyz",
+   "rank": null
+  },
+  {
+   "text": "Harry Potter",
+   "query": "  ",
+   "rank": 2
+  },
+  {
+   "text": "Felix, Net i Nika",
+   "query": "net",
+   "rank": 1
+  },
+  {
+   "text": "Pan Tadeusz",
+   "query": "pan t",
+   "rank": 0
+  },
+  {
+   "text": "\u0141\u00f3d\u017a",
+   "query": "lodz",
+   "rank": 0
+  },
+  {
+   "text": "Ziemiomorze",
+   "query": "morze",
+   "rank": 2
+  },
+  {
+   "text": "J.K. Rowling",
+   "query": "k. row",
+   "rank": 2
+  },
+  {
+   "text": "J.K. Rowling",
+   "query": "rowling",
+   "rank": 1
+  },
+  {
+   "text": "Wied\u017amin",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "",
+   "query": "a",
+   "rank": null
+  },
+  {
+   "text": "",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "Stra\u00dfe",
+   "query": "strasse",
+   "rank": 0
+  },
+  {
+   "text": "STRASSE",
+   "query": "stra\u00dfe",
+   "rank": 0
+  },
+  {
+   "text": "G\u0119\u015b",
+   "query": "GES",
+   "rank": 0
+  },
+  {
+   "text": "Za\u017c\u00f3\u0142\u0107 g\u0119\u015bl\u0105 ja\u017a\u0144",
+   "query": "jazn",
+   "rank": 1
+  },
+  {
+   "text": "Za\u017c\u00f3\u0142\u0107 g\u0119\u015bl\u0105 ja\u017a\u0144",
+   "query": "g\u0119\u015b",
+   "rank": 1
+  },
+  {
+   "text": "Za\u017c\u00f3\u0142\u0107 g\u0119\u015bl\u0105 ja\u017a\u0144",
+   "query": "\u015bl\u0105",
+   "rank": 2
+  },
+  {
+   "text": "Ostatnie z\u0307yczenie",
+   "query": "\u017cyc",
+   "rank": 1
+  },
+  {
+   "text": "Ostatnie \u017cyczenie",
+   "query": "Z\u0307YCZ",
+   "rank": 1
+  },
+  {
+   "text": "Pucio. M\u00f3wi!",
+   "query": "mowi!",
+   "rank": 1
+  },
+  {
+   "text": "Pucio. M\u00f3wi!",
+   "query": "mowi",
+   "rank": 1
+  },
+  {
+   "text": "J.K. Rowling",
+   "query": "j.k.",
+   "rank": 0
+  },
+  {
+   "text": "J.K. Rowling",
+   "query": "k.",
+   "rank": 2
+  },
+  {
+   "text": "\uff21\uff22\uff23\uff11",
+   "query": "abc1",
+   "rank": 0
+  },
+  {
+   "text": "\ufb01lm",
+   "query": "fil",
+   "rank": 0
+  },
+  {
+   "text": "\u216b wiek",
+   "query": "\u217b",
+   "rank": 0
+  },
+  {
+   "text": "x\u00b2",
+   "query": "x2",
+   "rank": null
+  },
+  {
+   "text": "\u0915\u093f\u0924\u093e\u092c",
+   "query": "\u0915",
+   "rank": null
+  },
+  {
+   "text": "\u0915\u093f",
+   "query": "\u0915",
+   "rank": null
+  },
+  {
+   "text": "Ksi\u0105\u017cka \ud83d\udc4d\ud83c\udffd",
+   "query": "\ud83d\udc4d",
+   "rank": null
+  },
+  {
+   "text": "a\u001cb",
+   "query": "b",
+   "rank": 2
+  },
+  {
+   "text": "Tom 10",
+   "query": "tom 1",
+   "rank": 0
+  },
+  {
+   "text": "Tom 10",
+   "query": "10",
+   "rank": 1
+  },
+  {
+   "text": "Pan  Tadeusz",
+   "query": "pan t",
+   "rank": 0
+  },
+  {
+   "text": "Mickiewicz \u2013 \u201eDziady\u201d",
+   "query": "dziady",
+   "rank": 2
+  },
+  {
+   "text": "Mickiewicz \u2013 \u201eDziady\u201d",
+   "query": "\u201edz",
+   "rank": 1
+  },
+  {
+   "text": "\u0141\u00d3D\u0179",
+   "query": "\u0142o",
+   "rank": 0
+  },
+  {
+   "text": "\u0142\u00f3d\u017a",
+   "query": "L\u00d3D",
+   "rank": 0
+  },
+  {
+   "text": "\u13a0\uab70",
+   "query": "\uab70",
+   "rank": 0
+  },
+  {
+   "text": "\u039f\u0394\u039f\u03a3",
+   "query": "\u03bf\u03b4\u03bf\u03c2",
+   "rank": 0
+  },
+  {
+   "text": "\u039f\u0394\u039f\u03a3",
+   "query": "\u03bf\u03b4\u03bf\u03c3",
+   "rank": 0
+  },
+  {
+   "text": "\u0130stanbul",
+   "query": "istan",
+   "rank": 0
+  },
+  {
+   "text": "\u13a0\u1161\u0130\u0345\u093f",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u0660\u0903\u4e00[\u00df\u0144\u0591",
+   "query": "\u0660\u0903\u4e00",
+   "rank": 0
+  },
+  {
+   "text": "]",
+   "query": "]",
+   "rank": 0
+  },
+  {
+   "text": "\u216b\u017c\ufeff\u0338\u017c",
+   "query": "\u0338",
+   "rank": null
+  },
+  {
+   "text": "\u1100\u200d]\u00c5x-",
+   "query": "X-",
+   "rank": 2
+  },
+  {
+   "text": "/\u00d3\u0916\u4e00ZK\u001f",
+   "query": "\u2014\u0179\u1161",
+   "rank": null
+  },
+  {
+   "text": "\u2013\u1100",
+   "query": "\u1100",
+   "rank": 2
+  },
+  {
+   "text": "\u015a\"\u0153\u094d",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "z\u2009\"\u200b\u0153",
+   "query": "\u200b\u0153",
+   "rank": 2
+  },
+  {
+   "text": "\ufb06\ud83c\uddf1\u00a0\u03c39\u0104'A",
+   "query": "\ud83c\uddf1\ud83d\udc69\ufb01",
+   "rank": null
+  },
+  {
+   "text": "\u0142\u017c,\u0142\u24b6",
+   "query": "\u00f3\u24b6\u0142",
+   "rank": null
+  },
+  {
+   "text": "(\u00c6\u017b\u017c\u3000\u4e00\ud83d\udc4d",
+   "query": "\u017b\u017b",
+   "rank": 2
+  },
+  {
+   "text": "\u0001\ud83c\uddf1\uff9ebb\u0903\n",
+   "query": "\u20e3\u0119\u24d0",
+   "rank": null
+  },
+  {
+   "text": "\u017b \u00c5\u200d\u2028",
+   "query": "z\u001f",
+   "rank": null
+  },
+  {
+   "text": "\u0301",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "'\u0105b\u01c4",
+   "query": "\u0915\u0153",
+   "rank": null
+  },
+  {
+   "text": "\u2028\ud83d\udc69",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u001c\ud83d\udc69\u0307K\ufb06",
+   "query": "\u0307K\ufb06",
+   "rank": null
+  },
+  {
+   "text": "\u0001\u24b6'\"\u00b2\ud83d\udc69\u00f8",
+   "query": "\u017a\u03c2\u0338",
+   "rank": null
+  },
+  {
+   "text": "9",
+   "query": "\u094d\u0591",
+   "rank": null
+  },
+  {
+   "text": "/\u00d3\u0916\u4e00ZK\u001f",
+   "query": "\u015a\"\u0153",
+   "rank": null
+  },
+  {
+   "text": "\ud83d\udc68\u1e9b",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u0149\u102b\u03c3",
+   "query": "\u0118\u001f",
+   "rank": null
+  },
+  {
+   "text": "\u0152/\u00b5\u13a0\u13a0\u0144.&",
+   "query": "\u01f0\u093c\u2028",
+   "rank": null
+  },
+  {
+   "text": "\u00d8\u1fb3\u0105\u015b\u200b\ud83c\uddf1\u1100\u0143",
+   "query": "\ud83c\uddf1\u1100\u0143",
+   "rank": 2
+  },
+  {
+   "text": "\u00b2",
+   "query": "\u093f\u0085",
+   "rank": null
+  },
+  {
+   "text": "\u1100\u200d]\u00c5x-",
+   "query": "\u1100\u200d",
+   "rank": 0
+  },
+  {
+   "text": "-0\u01c5\ufb01",
+   "query": " \u0107\u2009",
+   "rank": null
+  },
+  {
+   "text": "\u0916\u0106\u0587\u13a0\ud83d\udc68",
+   "query": "\u0106",
+   "rank": 2
+  },
+  {
+   "text": "\ufb06\u102b",
+   "query": ".\ud83d\udc4dx",
+   "rank": null
+  },
+  {
+   "text": "-\u0143;\u1e9b\ud83c\uddf1\u001fK.",
+   "query": "\t\u0328\u2013",
+   "rank": null
+  },
+  {
+   "text": "(\u00c6\u017b\u017c\u3000\u4e00\ud83d\udc4d",
+   "query": "\u00c6\u017b",
+   "rank": 2
+  },
+  {
+   "text": "\u2014\u200d\u0338\u216b\u017a",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u0338\ud83d\udc69\uff5a",
+   "query": "z\u0149K",
+   "rank": null
+  },
+  {
+   "text": "\u03a3",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u0106\ufe0fK\u03c2(",
+   "query": "\ufe0f",
+   "rank": null
+  },
+  {
+   "text": "\u0301A\ufb01\u00d30",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u24b6\u01c5\u0141A",
+   "query": "\u01c4\u0141A",
+   "rank": 2
+  },
+  {
+   "text": "\uff5a\u001f\ufb01\u0106\u017c\u0152\u00a0",
+   "query": "\u001f\ufb01",
+   "rank": 2
+  },
+  {
+   "text": "a\u2009",
+   "query": "\u2009",
+   "rank": 2
+  },
+  {
+   "text": "\ufb01?\u0131\u00c5\ud83d\udc69\u0591\u03c2,",
+   "query": "\u03a9\u0153\uff5a",
+   "rank": null
+  },
+  {
+   "text": "\u0149\u102b\u03c3",
+   "query": "\u0149\u102b\u03c3",
+   "rank": 0
+  },
+  {
+   "text": "\u0903\u00c6",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u01c4",
+   "query": "\u00bd\u00d3\r",
+   "rank": null
+  },
+  {
+   "text": "\u00d8\u1fb3\u0105\u015b\u200b\ud83c\uddf1\u1100\u0143",
+   "query": "\u015b",
+   "rank": 2
+  },
+  {
+   "text": "\u4e00\u200b\u017a\u01c5;\u3000!",
+   "query": ";\u3000!",
+   "rank": 2
+  },
+  {
+   "text": "\uff5a\u001f\ufb01\u0106\u017c\u0152\u00a0",
+   "query": "\u0179\u00f3\u00a0",
+   "rank": null
+  },
+  {
+   "text": "\u102b",
+   "query": "'",
+   "rank": null
+  },
+  {
+   "text": "\u24d0",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\ud83c\uddf5\u0106\ud83d\udc68",
+   "query": "\u0106",
+   "rank": 2
+  },
+  {
+   "text": "\u01c5,\uac00\u0587",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "9",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": ";)\u0107\u03c2-\u017c",
+   "query": ";)\u0107",
+   "rank": 0
+  },
+  {
+   "text": "\u0107\ud83c\uddf1\u0152\u00c5\u01c5\u017b",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u0591\u00b2K\u00d8a\u2013",
+   "query": "\u0591\u00b2K",
+   "rank": 0
+  },
+  {
+   "text": "\u094d/",
+   "query": "K\u2009\u2028",
+   "rank": null
+  },
+  {
+   "text": "\u0143/\u0142.\u01c6\u00f8",
+   "query": "-\u0143;",
+   "rank": null
+  },
+  {
+   "text": "\ud83d\udc69\u015a\u094dK",
+   "query": "\u0118\n",
+   "rank": null
+  },
+  {
+   "text": "\u03a9\u0130\u0179\u015a;\u0141\u0345\u03a9",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "&\u0903\u00df&\ud83d\udc4d",
+   "query": "\u0107\ud83c\uddf5\u0142",
+   "rank": null
+  },
+  {
+   "text": "\ufe0f\u1fb3\u0328\u015a\ud83c\udd70A\u094d\u0660",
+   "query": "\u0903\u11a8\ufeff",
+   "rank": null
+  },
+  {
+   "text": "\ufe0f\r\n\u0105&",
+   "query": "\r\n\u0104",
+   "rank": 1
+  },
+  {
+   "text": "x,",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "Z.z",
+   "query": "Z",
+   "rank": 0
+  },
+  {
+   "text": "(\u00d8\u03c3 \u0131/",
+   "query": " \u0131/",
+   "rank": 1
+  },
+  {
+   "text": "(\u00d8\u03c3 \u0131/",
+   "query": "x\u2013",
+   "rank": null
+  },
+  {
+   "text": "\u017a\u001c\u3000)!",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u0152\u0338\u0328\uab70\u2009\ufb01",
+   "query": "\ufb01\u03a3a",
+   "rank": null
+  },
+  {
+   "text": "\r\u015aKK\u1e01\u0153",
+   "query": "\u1e01\u0153",
+   "rank": 2
+  },
+  {
+   "text": "\u0669\uff5a\uff21\u001c0",
+   "query": "0",
+   "rank": 2
+  },
+  {
+   "text": "\u001c\ud83d\udc69\u0307K\ufb06",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u0152\u0338\u0328\uab70\u2009\ufb01",
+   "query": "\u0328\u13a0\u2009FI",
+   "rank": null
+  },
+  {
+   "text": "/\u00d3\u0916\u4e00ZK\u001f",
+   "query": "\u0916\u4e00",
+   "rank": 2
+  },
+  {
+   "text": "(\u1100\u0916\u200c\u200d\u1f80\u1e9b\u2028",
+   "query": "(",
+   "rank": 0
+  },
+  {
+   "text": "]\u03a3\u0903",
+   "query": "\ufe0f\u1fb3\u0328",
+   "rank": null
+  },
+  {
+   "text": "]\ufe0f\ud83c\udd70-\u0119\u00b5",
+   "query": "\ud83c\udd70",
+   "rank": 2
+  },
+  {
+   "text": "\u03c3\u24b6\u0660\u13a0\u001f\u4e00\ufb06",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u11a8;z\u20e3\ud83d\udc4d",
+   "query": "\u11a8;z",
+   "rank": 0
+  },
+  {
+   "text": "\u0085;\u0152\u094d\u0301\uffe3\u1100",
+   "query": "\u1100",
+   "rank": 2
+  },
+  {
+   "text": "\u00c6\u03a9\u1e9b\ufb00\u0915\u00b5\u0153",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u0660\ufb06\u0916.a[",
+   "query": "\ufb06\u0916.a",
+   "rank": 2
+  },
+  {
+   "text": "\u2013\u1100",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\ufb06\u200d\u0591\u01c6\u1fb3!\u00b5",
+   "query": "\u01c4\u0391\u0399",
+   "rank": null
+  },
+  {
+   "text": "\ud83c\uddf1\ud83d\udc69\ufb01\u03c2\u0587",
+   "query": "x\ufeffb",
+   "rank": null
+  },
+  {
+   "text": "\u0153\u0118\r\u00f8\u0328\uac009\u11a8",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": ".",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u001c\ud83d\udc69\u0307K\ufb06",
+   "query": ",\u11a8b",
+   "rank": null
+  },
+  {
+   "text": "\ud83d\udc69\u00c5",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u200d\u093c",
+   "query": "\u200d",
+   "rank": null
+  },
+  {
+   "text": "\u2009",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u015b\u1f80\u0107\u00b2\u3000\u0152\u00c5",
+   "query": "\u0119\u0119\u200b",
+   "rank": null
+  },
+  {
+   "text": "\u093f\u0085",
+   "query": "\u0085",
+   "rank": 2
+  },
+  {
+   "text": "\u1161",
+   "query": "\u1161",
+   "rank": 0
+  },
+  {
+   "text": "\u00b20\u00e6\u4e00\u00c6\u0345\u2204",
+   "query": "\u0085\uff9e\uff9e",
+   "rank": null
+  },
+  {
+   "text": "\u001f\u0307",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "/\u01f0\ufb01",
+   "query": "\ufb01",
+   "rank": 2
+  },
+  {
+   "text": "\u1e9e\u0587a\u0001\u1f80\u03c3",
+   "query": "\ufb06\n",
+   "rank": null
+  },
+  {
+   "text": "\u00f3\u200d\u20e3",
+   "query": "\u200d",
+   "rank": null
+  },
+  {
+   "text": "\u200d\u093c",
+   "query": "/\u01f0\ufb01",
+   "rank": null
+  },
+  {
+   "text": "\u2014\u0179\u1161\u00e6\u102b\u0144\u00b5\r",
+   "query": "\u102b",
+   "rank": 2
+  },
+  {
+   "text": ")\uab70\u00f8\u0142\uac00\u1fb3",
+   "query": "\uab70\u00f8\u0142",
+   "rank": 2
+  },
+  {
+   "text": "\ud83d\udc69\u00bd\u0149\u0301\u0669-.\u00e6",
+   "query": "\u0301\u0669-",
+   "rank": null
+  },
+  {
+   "text": "\u200d",
+   "query": "\u2028\u01c5B",
+   "rank": null
+  },
+  {
+   "text": "\u0915\uff11\u00c5\u0107",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u1fb3\u093f\u00d8",
+   "query": "\u1fb3\u093f\u00d8",
+   "rank": 0
+  },
+  {
+   "text": "\u0141\u0118\uff21.\uab70\ufeff",
+   "query": "\u0118\uff21.",
+   "rank": 2
+  },
+  {
+   "text": "\u216b\u01f0!",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "!",
+   "query": "\u2204\u0587\u03a9",
+   "rank": null
+  },
+  {
+   "text": "\n",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u2013\u1100",
+   "query": "\u00d3\u2204\u00c5",
+   "rank": null
+  },
+  {
+   "text": "\u0153\u0118\r\u00f8\u0328\uac009\u11a8",
+   "query": "\uff11\t\u0001",
+   "rank": null
+  },
+  {
+   "text": "\u1100\u200d]\u00c5x-",
+   "query": ")\uab70\u00f8",
+   "rank": null
+  },
+  {
+   "text": "\u24b6\u01c5\u0141A",
+   "query": "\u01c5\u0141A",
+   "rank": 2
+  },
+  {
+   "text": "\u0301\u4e00\ud83d\udc69\u017a\u0916\u0107\n",
+   "query": "\ud83d\udc69\u017a",
+   "rank": 2
+  },
+  {
+   "text": "\u0915",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u0143",
+   "query": "\u0143",
+   "rank": 0
+  },
+  {
+   "text": "\u01f0\u093c\u2028\u0141\u00bdK-",
+   "query": "\u2028\u0141\u00bd",
+   "rank": 1
+  },
+  {
+   "text": "'\u0105b\u01c4",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u0119\u0345",
+   "query": "\u0345",
+   "rank": null
+  },
+  {
+   "text": "\u0119\ufe0f[\u03a3\u0142\ud83c\uddf1\u0085",
+   "query": "\ufe0f[\u03a3\u0141\ud83c\uddf1",
+   "rank": null
+  },
+  {
+   "text": "\u24b6\uff11\uffe3\u216b\uac00\u01f0\u200c",
+   "query": "\u216b\uac00",
+   "rank": 2
+  },
+  {
+   "text": "\u01c4\u0179\u0307\u1100\u24d0\uab70",
+   "query": "\u24d0",
+   "rank": 2
+  },
+  {
+   "text": "&\u102b\u00d8\u24b6\u0144\u0660",
+   "query": "\u24b6\u0144\u0660",
+   "rank": 2
+  },
+  {
+   "text": "\u06690\u017bx\u0119",
+   "query": "X\u0118",
+   "rank": 2
+  },
+  {
+   "text": "\u093f\u00c5",
+   "query": "\u0001\u24b6'",
+   "rank": null
+  },
+  {
+   "text": "\uac00\u001c",
+   "query": "\u001c",
+   "rank": 2
+  },
+  {
+   "text": "\u093f\u00c5\uff21\u0131",
+   "query": "\uff21",
+   "rank": 2
+  },
+  {
+   "text": "\ud83c\udffd\r\n\u2204\u0307\u001f'\u00c6",
+   "query": "\n\u2204\u0307\u001f'",
+   "rank": 1
+  },
+  {
+   "text": "\uffe3!\u0001\u0669\u01f0'",
+   "query": "\u00d8\u1fb3\u0105",
+   "rank": null
+  },
+  {
+   "text": "\u03c3\u24b6\u0660\u13a0\u001f\u4e00\ufb06",
+   "query": "\u00bd",
+   "rank": null
+  },
+  {
+   "text": "\u001f",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u00f3\ud83c\udd70\u00b2(\u1f80(",
+   "query": "K\u015a\u017c",
+   "rank": null
+  },
+  {
+   "text": "!",
+   "query": "A\u0179\u3000",
+   "rank": null
+  },
+  {
+   "text": "\u0301b,\ud83d\udc69\u093f\ud83d\udc68?",
+   "query": "\u00b2",
+   "rank": null
+  },
+  {
+   "text": "\u0338\ud83d\udc69\uff5a",
+   "query": "\uff5a",
+   "rank": 2
+  },
+  {
+   "text": "\u0301b,\ud83d\udc69\u093f\ud83d\udc68?",
+   "query": " \u3000\u1e9e",
+   "rank": null
+  },
+  {
+   "text": "\uff21\u20e3\u00f3\u24d0\u001c",
+   "query": "\u017a\u001c\u3000",
+   "rank": null
+  },
+  {
+   "text": "\u0591\u00b2K\u00d8a\u2013",
+   "query": "\u03c3\u2009\u2204",
+   "rank": null
+  },
+  {
+   "text": "\ud83c\uddf5\u0106\ud83d\udc68",
+   "query": "\ud83c\uddf5",
+   "rank": 0
+  },
+  {
+   "text": "\u00c6\u017a\u00c5z\u0142\u0001\ud83d\udc69",
+   "query": "\ud83d\udc69",
+   "rank": 2
+  },
+  {
+   "text": "\u0119\u0345",
+   "query": "(\u0916\u0149",
+   "rank": null
+  },
+  {
+   "text": "\r\u015aKK\u1e01\u0153",
+   "query": "\r\u015a",
+   "rank": 0
+  },
+  {
+   "text": "\u0119?\u015a\u1e9b\ud83c\udd70\ud83c\udd70\ufe0f\u0152",
+   "query": "?\u015a\u1e60\ud83c\udd70\ud83c\udd70\ufe0f\u0152",
+   "rank": 2
+  },
+  {
+   "text": "z\u0149K\u0345\u0085\u11a8",
+   "query": "\u1e9b\u093c\u216b",
+   "rank": null
+  },
+  {
+   "text": "\u00c6\u017a\u00c5z\u0142\u0001\ud83d\udc69",
+   "query": "\ud83d\udc69",
+   "rank": 2
+  },
+  {
+   "text": "\ud83c\uddf1\ud83d\udc69\ufb01\u03c2\u0587",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u0587\u216b\ufe0f\ud83c\udffd0\ufb01",
+   "query": "Z.z",
+   "rank": null
+  },
+  {
+   "text": "\u2204\u0587\u03a9/\u0141\ufe0f\u0338",
+   "query": "?\u11a8\u03c3",
+   "rank": null
+  },
+  {
+   "text": "\u0130",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "-\u001f\u200b\u093c",
+   "query": "\ud83d\udc68.]",
+   "rank": null
+  },
+  {
+   "text": "\u0107\ud83c\uddf5\u0142\u00c5B\u00bd\u01f0\u093f",
+   "query": "\u01f0",
+   "rank": null
+  },
+  {
+   "text": "\u2013\u1100",
+   "query": "\u102b",
+   "rank": null
+  },
+  {
+   "text": "z\u0149K\u0345\u0085\u11a8",
+   "query": "\u0149K\u0345\u0085\u11a8",
+   "rank": 2
+  },
+  {
+   "text": "\ufb06\u03a9\u00c6",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u1f80\u093f\u0141\uff21\u017b\u03c2",
+   "query": "\ud83c\uddf1\ufb01\u00f3",
+   "rank": null
+  },
+  {
+   "text": "\u00f8",
+   "query": "x\ufeff\u00bd",
+   "rank": null
+  },
+  {
+   "text": "\u0118a\u0141",
+   "query": ")\u01c6\r",
+   "rank": null
+  },
+  {
+   "text": "\u1f80\u0179\u0916",
+   "query": "\u00c6\u017a\u24d0",
+   "rank": null
+  },
+  {
+   "text": "\uac00\u00d8\u0307",
+   "query": "-\t\u2009",
+   "rank": null
+  },
+  {
+   "text": "\ufb06\u0085\u2009\u20e3\u0338",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u0106\u0104",
+   "query": "\u0106",
+   "rank": 0
+  },
+  {
+   "text": "\u00f3\ud83c\udd70\u00b2(\u1f80(",
+   "query": "\u00b2",
+   "rank": 2
+  },
+  {
+   "text": "\u00f8B\ud83d\udc69\uac00",
+   "query": "x\u2013",
+   "rank": null
+  },
+  {
+   "text": "\u102b\u0338\u102b\r\n\ud83c\uddf5\u0131",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u0903\u00c6",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u015b\u0104",
+   "query": "\u0591\u3000\ud83d\udc4d",
+   "rank": null
+  },
+  {
+   "text": "\u01c5\u0143\u0141\u20280\u03c2\ud83d\udc68\u1161",
+   "query": "\u1161",
+   "rank": 2
+  },
+  {
+   "text": "\ud83c\udffd\r\n\u2204\u0307\u001f'\u00c6",
+   "query": "\u0118\u001f",
+   "rank": null
+  },
+  {
+   "text": "\u200b\u00d3",
+   "query": "\u03a9",
+   "rank": null
+  },
+  {
+   "text": "\uff5a\u001f\ufb01\u0106\u017c\u0152\u00a0",
+   "query": "(\u00d8\u03c3",
+   "rank": null
+  },
+  {
+   "text": "\u0153\u1161\u20e3\u11a8",
+   "query": "\u0106AK",
+   "rank": null
+  },
+  {
+   "text": "\u0144.\ud83c\udffd\u102b/\u4e00",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\n\u2014\u0141\u0669",
+   "query": "\uffe3\u0915\ufb00",
+   "rank": null
+  },
+  {
+   "text": "\u093f\u00c5\uff21\u0131",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\t\u1f80;\u015b",
+   "query": ";",
+   "rank": 2
+  },
+  {
+   "text": "]\ufe0f\ud83c\udd70-\u0119\u00b5",
+   "query": ".\u093f",
+   "rank": null
+  },
+  {
+   "text": "\ud83c\uddf5\u017a\u0660.x",
+   "query": "\ud83c\uddf5\u017a\u0660",
+   "rank": 0
+  },
+  {
+   "text": "\u01c5\u0143\u0141\u20280\u03c2\ud83d\udc68\u1161",
+   "query": "\ud83d\udc68\u1161",
+   "rank": 2
+  },
+  {
+   "text": "\u3000\ufb00\u2009\u11a8\u00a0",
+   "query": "\u00f8b\u1e9b",
+   "rank": null
+  },
+  {
+   "text": "\n\u00e6",
+   "query": "\u0915\uffe3\r",
+   "rank": null
+  },
+  {
+   "text": "\u00d3\u0085\u0141\u13a0\u015a\u03c2\u2013\u00b5",
+   "query": "\ud83c\uddf5\u0106\ud83d\udc68",
+   "rank": null
+  },
+  {
+   "text": "x\ufeffb\u0001K&\ud83c\uddf1\u0328",
+   "query": "\u03c3\u2009\u2204",
+   "rank": null
+  },
+  {
+   "text": "\u093f\u00c5",
+   "query": "\u093c\uff5a\u0144",
+   "rank": null
+  },
+  {
+   "text": "-\t\u2009\u0345\u0131\u0104\u102b",
+   "query": "\u0141\u0149;",
+   "rank": null
+  },
+  {
+   "text": "\u1161\u00d3\u0119",
+   "query": "\u0119",
+   "rank": 2
+  },
+  {
+   "text": "\u0179\ufb06\u0118",
+   "query": "\u102b",
+   "rank": null
+  },
+  {
+   "text": "\u0328\u0345\ufb06\u093fa\ud83c\uddf5",
+   "query": "\u20e3\u0119\u24d0",
+   "rank": null
+  },
+  {
+   "text": "\u2028\u017b)\u0915",
+   "query": "\u2028\u017b)\u0915",
+   "rank": 0
+  },
+  {
+   "text": "-\u0143;\u1e9b\ud83c\uddf1\u001fK.",
+   "query": "\ud83c\uddf1\u001fK",
+   "rank": 2
+  },
+  {
+   "text": "[\u4e00\ufb06",
+   "query": "9",
+   "rank": null
+  },
+  {
+   "text": "\u0591\u0142\t\u00c6\u00d3\u1e9bz",
+   "query": "\ud83c\udffd\u0915\u001c",
+   "rank": null
+  },
+  {
+   "text": "\u00a0\u0106",
+   "query": "\u03a9\u0130\u0179",
+   "rank": null
+  },
+  {
+   "text": "\u0903\u13a0?",
+   "query": ",",
+   "rank": null
+  },
+  {
+   "text": "\u00d8\u1fb3\u0105\u015b\u200b\ud83c\uddf1\u1100\u0143",
+   "query": "\u0587\u00d3",
+   "rank": null
+  },
+  {
+   "text": "\u00b5",
+   "query": "\u0916\u00d80",
+   "rank": null
+  },
+  {
+   "text": ".\ud83d\udc4dx",
+   "query": "\u0916\u00d80",
+   "rank": null
+  },
+  {
+   "text": "\u0903\u13a0?",
+   "query": "\u13a0?",
+   "rank": 2
+  },
+  {
+   "text": "-\u0143;\u1e9b\ud83c\uddf1\u001fK.",
+   "query": "\u0179\ufb06\u0118",
+   "rank": null
+  },
+  {
+   "text": "\u24b6\uff11\uffe3\u216b\uac00\u01f0\u200c",
+   "query": "\u24b6\uff11\uffe3",
+   "rank": 0
+  },
+  {
+   "text": "\uffe3\u0915\ufb00\u0916\u0660\u102b\u3000\u24d0",
+   "query": "9",
+   "rank": null
+  },
+  {
+   "text": "\n\u2014\u0141\u0669",
+   "query": "\u0587\u00d3",
+   "rank": null
+  },
+  {
+   "text": "\u0143\u00b2\u0149\u03a3",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u1fb3]\u0587\"",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u01c5\u00f8\u0142K\u01c4\uff11",
+   "query": "\u0142",
+   "rank": 2
+  },
+  {
+   "text": "\ufe0f\r\n\u0105&",
+   "query": "\u0104&",
+   "rank": 1
+  },
+  {
+   "text": "\u200c\ufe0f\u0153\u03a9\u0118",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u06690\u017bx\u0119",
+   "query": "\n\u1f80)",
+   "rank": null
+  },
+  {
+   "text": "\u00a0\u0106",
+   "query": "\u00a0",
+   "rank": 2
+  },
+  {
+   "text": "\u216b\u017c\ufeff\u0338\u017c",
+   "query": "\ud83d\udc68\ud83c\uddf5\uff11",
+   "rank": null
+  },
+  {
+   "text": "\u1e9e9\u24d0;\u015b",
+   "query": "\u06690\u017b",
+   "rank": null
+  },
+  {
+   "text": "\u0149\u102b\u03c3",
+   "query": "\u11a8;z",
+   "rank": null
+  },
+  {
+   "text": ".\u093f",
+   "query": "?\u0179\u094d",
+   "rank": null
+  },
+  {
+   "text": "\n\u1f80)\u0142\u3000\ufb06",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u1f80\u0179\u0916",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\ufe0f\r\n\u0105&",
+   "query": "\ufe0f\r",
+   "rank": 0
+  },
+  {
+   "text": "\u03c2\u0144x\u0301\u00f8\u0107\u093f",
+   "query": "'.",
+   "rank": null
+  },
+  {
+   "text": "\u03a9\ufb00\u03c3",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u00c6\u017a\u24d0\uab70",
+   "query": "\u00c6\u017a\u24d0",
+   "rank": 0
+  },
+  {
+   "text": "\u1f80\u093f\u0141\uff21\u017b\u03c2",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "(\u1100\u0916\u200c\u200d\u1f80\u1e9b\u2028",
+   "query": "\u1f80\u1e9b\u2028",
+   "rank": 2
+  },
+  {
+   "text": "\u0915\uff11\u00c5\u0107",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u0149\u102b\u03c3",
+   "query": "\u102b\u03c3",
+   "rank": 2
+  },
+  {
+   "text": "\u093f\u00c5\uff21\u0131",
+   "query": "I",
+   "rank": null
+  },
+  {
+   "text": "\u1161",
+   "query": "\u1161",
+   "rank": 0
+  },
+  {
+   "text": "\uac00\u2204\u24b6\u00b5",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u0107\ud83c\uddf5\u0142\u00c5B\u00bd\u01f0\u093f",
+   "query": "\u01f0\u093f",
+   "rank": 2
+  },
+  {
+   "text": "\u0903\u0660\u20e3\uab70",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u0338\ud83d\udc69\uff5a",
+   "query": "\ud83d\udc69",
+   "rank": 2
+  },
+  {
+   "text": "\u0118\n",
+   "query": "z\u2009\"",
+   "rank": null
+  },
+  {
+   "text": "\u0152/\u00b5\u13a0\u13a0\u0144.&",
+   "query": ".",
+   "rank": 2
+  },
+  {
+   "text": "\u0107\u094d\ud83d\udc4d\uff21\u0106B\u00a0(",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u2204\u2204A",
+   "query": "A",
+   "rank": 2
+  },
+  {
+   "text": "\n\u00e6",
+   "query": "\n",
+   "rank": 2
+  },
+  {
+   "text": "\u0903\uff21",
+   "query": "\u0903\uff21",
+   "rank": 0
+  },
+  {
+   "text": "\u0130",
+   "query": ".\u0144\ud83d\udc69",
+   "rank": null
+  },
+  {
+   "text": "\ud83d\udc69\u00c5",
+   "query": "\u0591\u00b2K",
+   "rank": null
+  },
+  {
+   "text": "x\ufeff\u00bd\u017b\u00d39\u13a0\ufb00\u00f8",
+   "query": "\u3000\ufb00\u2009",
+   "rank": 2
+  },
+  {
+   "text": "\u017b\u0001\ud83c\uddf1\u1f80\ufeff\u2009\u1161\u4e00",
+   "query": "\u017b",
+   "rank": 0
+  },
+  {
+   "text": "a\u2009",
+   "query": "\u2014\u0328\u00f8",
+   "rank": null
+  },
+  {
+   "text": "\u0916\r\u0179\u017a\u1e01\u3000",
+   "query": "\u0916",
+   "rank": 0
+  },
+  {
+   "text": "\u06690\u017bx\u0119",
+   "query": "0\u017bX",
+   "rank": 2
+  },
+  {
+   "text": "\ufb00\u0119\uff5a\u216b-",
+   "query": "\u216b-",
+   "rank": 2
+  },
+  {
+   "text": "?\u11a8\u03c3\u1f80\u00a0\u017b\u0660",
+   "query": "\u11a8\u03c3\u1f80\u00a0",
+   "rank": 2
+  },
+  {
+   "text": "x\ufb06\u24d0\u00df\u0338\u1e9b\u1e9b\u13a0",
+   "query": "\u1f80(\u01c5",
+   "rank": null
+  },
+  {
+   "text": "\t\"\u0153",
+   "query": "(\u00c6\u017b",
+   "rank": null
+  },
+  {
+   "text": "\u2028\u0141\u2014\n\u13a0\uff11\u0119",
+   "query": "\u2014\n\u13a0\uff11",
+   "rank": 2
+  },
+  {
+   "text": "\u00f8",
+   "query": "\ud83d\udc68\u00b2K",
+   "rank": null
+  },
+  {
+   "text": "\u200d\r\n",
+   "query": "\u2009\u0915\u00e6",
+   "rank": null
+  },
+  {
+   "text": "\u0104\ud83c\udd70\u00b2\u017c\u0660\u0915\u13a0\u11a8",
+   "query": "\u13a0\u11a8",
+   "rank": 2
+  },
+  {
+   "text": "\u00c5\u0105]KA\uffe3x\ud83c\uddf1",
+   "query": "\u0105]KA\uffe3",
+   "rank": 2
+  },
+  {
+   "text": ")\uab70\u00f8\u0142\uac00\u1fb3",
+   "query": ")\u13a0",
+   "rank": 0
+  },
+  {
+   "text": "\u03a9\u0130\u0179\u015a;\u0141\u0345\u03a9",
+   "query": ";\u0141\u0399",
+   "rank": null
+  },
+  {
+   "text": "\ufe0f\r\n\u0105&",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u0149\u102b\u03c3",
+   "query": "\u0149",
+   "rank": 0
+  },
+  {
+   "text": ".\ud83d\udc4dx",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "'",
+   "query": "'",
+   "rank": 0
+  },
+  {
+   "text": "\u001f",
+   "query": "\u001f",
+   "rank": 0
+  },
+  {
+   "text": "(\u00c6\u017b\u017c\u3000\u4e00\ud83d\udc4d",
+   "query": "\u094d\u1e9e0",
+   "rank": null
+  },
+  {
+   "text": "\u200d\u093c",
+   "query": "\u093c",
+   "rank": null
+  },
+  {
+   "text": "-\u03c2\u0130",
+   "query": "\u00f8b\u1e9b",
+   "rank": null
+  },
+  {
+   "text": "\u094d/",
+   "query": "\u094d",
+   "rank": 0
+  },
+  {
+   "text": "\u03c3\u2009\u2204\u00c6\uab70",
+   "query": "\u2204\u00c6\uab70",
+   "rank": 1
+  },
+  {
+   "text": "\u0153\u1161\u20e3\u11a8",
+   "query": "\u20e3\u11a8",
+   "rank": null
+  },
+  {
+   "text": "\u13a0\u1161\u0130\u0345\u093f",
+   "query": "\u0130\u0345",
+   "rank": null
+  },
+  {
+   "text": "\u00bd",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u03a9",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u00b2\u0669\ufe0f\u01c4\u1100\u017c\u0669\u0591",
+   "query": "\u00b2\u0669\ufe0f",
+   "rank": 0
+  },
+  {
+   "text": "\u01f0\u093c\u2028\u0141\u00bdK-",
+   "query": "(",
+   "rank": null
+  },
+  {
+   "text": "\u0903\uff21",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u00c6/,\u200b\u03a9\u0153\u0141(",
+   "query": "\u0141(",
+   "rank": 2
+  },
+  {
+   "text": "\u24b6\u01c5\u0141A",
+   "query": "\u00c5\u1f80A",
+   "rank": null
+  },
+  {
+   "text": "\u200d",
+   "query": "\u200d",
+   "rank": 0
+  },
+  {
+   "text": "\u00f8B\ud83d\udc69\uac00",
+   "query": "\u0142\u017c,",
+   "rank": null
+  },
+  {
+   "text": "K\u001f",
+   "query": "K\u001f",
+   "rank": 0
+  },
+  {
+   "text": "\u0131",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u01f0\u093c\u2028\u0141\u00bdK-",
+   "query": "J\u093c\u030c\u2028\u0141\u00bdK-",
+   "rank": 0
+  },
+  {
+   "text": "\u0107\ud83c\uddf1\u0152\u00c5\u01c5\u017b",
+   "query": "\u017b",
+   "rank": 2
+  },
+  {
+   "text": "\u2204\u0587\u03a9/\u0141\ufe0f\u0338",
+   "query": "\u0587\u03a9/",
+   "rank": 2
+  },
+  {
+   "text": ".\ud83d\udc69Z\n;\u00d3\u0916\uff21",
+   "query": "\u00f3\u24d0\uff9e",
+   "rank": null
+  },
+  {
+   "text": "x\ufeffb\u0001K&\ud83c\uddf1\u0328",
+   "query": "\ud83c\udffd\u0915\u001c",
+   "rank": null
+  },
+  {
+   "text": "\u0143\u00b2\u0149\u03a3",
+   "query": "\u0143\u00b2",
+   "rank": 0
+  },
+  {
+   "text": "\u03a9\ufb00",
+   "query": "\u0131",
+   "rank": null
+  },
+  {
+   "text": "\uac00\u2204\u24b6\u00b5",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\ud83d\udc69\uff9e\u0916",
+   "query": "\u093c\u0119\u01c6",
+   "rank": null
+  },
+  {
+   "text": "\u0001\ud83c\udd70\u0179\u0591",
+   "query": "\ud83c\udd70",
+   "rank": 2
+  },
+  {
+   "text": "\u0130\u1f80\u094d\ud83c\uddf5;\u0587\u094d\uffe3",
+   "query": "\u06699\u102b",
+   "rank": null
+  },
+  {
+   "text": "\u0903\u11a8\ufeff\u1161\u017a\u00f3\u0152",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "A\u0179\u3000\u0591&\u015a\u0001",
+   "query": "-0\u01c5",
+   "rank": null
+  },
+  {
+   "text": "\u0085\uff9e\uff9e\u001c\u015b\ud83c\uddf5\u0142\u0915",
+   "query": "",
+   "rank": 2
+  },
+  {
+   "text": "\u00c6\u03a9\u1e9b\ufb00\u0915\u00b5\u0153",
+   "query": ".\ud83d\udc69Z",
+   "rank": null
+  },
+  {
+   "text": "x\u2013",
+   "query": "\u0118\n",
+   "rank": null
+  },
+  {
+   "text": "(\u00a0?",
+   "query": "(\u00a0",
+   "rank": 0
+  },
+  {
+   "text": "\u03a9\u0153\uff5a\u017a",
+   "query": "\u0153\uff5a",
+   "rank": 2
+  },
+  {
+   "text": "\u3000",
+   "query": "\u094d/",
+   "rank": null
+  },
+  {
+   "text": "\u1fb3]\u0587\"",
+   "query": "[",
+   "rank": null
+  },
+  {
+   "text": "\u0119\ufe0f[\u03a3\u0142\ud83c\uddf1\u0085",
+   "query": "\u0085",
+   "rank": 2
+  },
+  {
+   "text": "\u1100\u0660\u0143\u015a\u03a9\ud83c\uddf5\u03a9-",
+   "query": "\u01c4\u0141\uab70",
+   "rank": null
+  },
+  {
+   "text": "[\u0903",
+   "query": "\u2014\ud83c\udffdZ",
+   "rank": null
+  },
+  {
+   "text": "\u2009",
+   "query": "\u094d/",
+   "rank": null
+  },
+  {
+   "text": "\u0903\u0660\u20e3\uab70",
+   "query": "-\u0143;",
+   "rank": null
+  }
+ ]
+}

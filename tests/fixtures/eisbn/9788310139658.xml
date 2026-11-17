@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXMessage release="3.0"
+    xsi:schemaLocation="http://ns.editeur.org/onix/3.0/reference https://e-isbn.pl/IsbnWeb/schemas/ONIX_BookProduct_3.0_reference.xsd"
+    xmlns:eisbn="http://e-isbn.pl"
+    xmlns="http://ns.editeur.org/onix/3.0/reference" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Header>
+        <Sender>
+            <SenderName>Serwis e-ISBN</SenderName>
+            <ContactName>Kontakt testowy, tel. +48000000000</ContactName>
+            <EmailAddress>kontakt@example.invalid</EmailAddress>
+        </Sender>
+        <MessageNumber>4611</MessageNumber>
+        <SentDateTime>20261115T1741+0000</SentDateTime>
+        <MessageNote>API e-ISBN</MessageNote>
+        <DefaultLanguageOfText>pol</DefaultLanguageOfText>
+    </Header>
+</ONIXMessage>

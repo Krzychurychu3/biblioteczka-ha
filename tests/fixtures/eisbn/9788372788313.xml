@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXMessage release="3.0"
+    xsi:schemaLocation="http://ns.editeur.org/onix/3.0/reference https://e-isbn.pl/IsbnWeb/schemas/ONIX_BookProduct_3.0_reference.xsd"
+    xmlns:eisbn="http://e-isbn.pl"
+    xmlns="http://ns.editeur.org/onix/3.0/reference" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Header>
+        <Sender>
+            <SenderName>Serwis e-ISBN</SenderName>
+            <ContactName>Kontakt testowy, tel. +48000000000</ContactName>
+            <EmailAddress>kontakt@example.invalid</EmailAddress>
+        </Sender>
+        <MessageNumber>4611</MessageNumber>
+        <SentDateTime>20261115T1743+0000</SentDateTime>
+        <MessageNote>API e-ISBN</MessageNote>
+        <DefaultLanguageOfText>pol</DefaultLanguageOfText>
+    </Header>
+    <Product datestamp="20260929">
+        <RecordReference>pl-eisbn-2824675</RecordReference>
+        <NotificationType>03</NotificationType>
+        <RecordSourceType>01</RecordSourceType>
+        <RecordSourceName>Niebieskie rekordy</RecordSourceName>
+        <ProductIdentifier>
+            <ProductIDType>15</ProductIDType>
+            <IDValue>9788372788313</IDValue>
+        </ProductIdentifier>
+        <DescriptiveDetail>
+            <ProductComposition>00</ProductComposition>
+            <ProductForm>BA</ProductForm>
+            <Measure>
+                <MeasureType>01</MeasureType>
+                <Measurement>192</Measurement>
+                <MeasureUnitCode>mm</MeasureUnitCode>
+            </Measure>
+            <Measure>
+                <MeasureType>02</MeasureType>
+                <Measurement>192</Measurement>
+                <MeasureUnitCode>mm</MeasureUnitCode>
+            </Measure>
+            <TitleDetail>
+                <TitleType>01</TitleType>
+                <TitleElement>
+                    <TitleElementLevel>01</TitleElementLevel>
+                    <TitleText>Kicia Kocia nie może zasnąć</TitleText>
+                </TitleElement>
+            </TitleDetail>
+            <Contributor>
+                <SequenceNumber>1</SequenceNumber>
+                <ContributorRole>A01</ContributorRole>
+                <PersonNameInverted>Anita Głowińska</PersonNameInverted>
+            </Contributor>
+            <Contributor>
+                <SequenceNumber>2</SequenceNumber>
+                <ContributorRole>A12</ContributorRole>
+                <PersonNameInverted>Anita Głowińska</PersonNameInverted>
+            </Contributor>
+            <EditionType>NED</EditionType>
+            <EditionNumber>1</EditionNumber>
+            <Language>
+                <LanguageRole>01</LanguageRole>
+                <LanguageCode>pol</LanguageCode>
+            </Language>
+        </DescriptiveDetail>
+        <CollateralDetail>
+            <TextContent>
+                <TextType>03</TextType>
+                <ContentAudience>00</ContentAudience>
+                <Text>&lt;p&gt;Opis testowy.&lt;/p&gt;</Text>
+            </TextContent>
+            <SupportingResource>
+                <ResourceContentType>01</ResourceContentType>
+                <ContentAudience>00</ContentAudience>
+                <ResourceMode>03</ResourceMode>
+                <ResourceVersion>
+                    <ResourceForm>01</ResourceForm>
+                    <ResourceLink>https://example.invalid/cover.jpg</ResourceLink>
+                </ResourceVersion>
+            </SupportingResource>
+        </CollateralDetail>
+        <PublishingDetail>
+            <Imprint>
+                <ImprintName>Media Rodzina</ImprintName>
+            </Imprint>
+            <Publisher>
+                <PublishingRole>01</PublishingRole>
+                <PublisherName>Niebieskie rekordy</PublisherName>
+            </Publisher>
+            <CityOfPublication>Poznań</CityOfPublication>
+            <CountryOfPublication>PL</CountryOfPublication>
+            <PublishingStatus>07</PublishingStatus>
+            <PublishingDate>
+                <PublishingDateRole>01</PublishingDateRole>
+                <Date>20131016</Date>
+            </PublishingDate>
+            <PublishingDate>
+                <PublishingDateRole>09</PublishingDateRole>
+                <Date>20131016</Date>
+            </PublishingDate>
+        </PublishingDetail>
+        <RelatedMaterial/>
+        <ProductSupply>
+            <SupplyDetail>
+                <Supplier>
+                    <SupplierRole>00</SupplierRole>
+                    <SupplierIdentifier>
+                        <SupplierIDType>23</SupplierIDType>
+                        <IDValue>PL7780043660</IDValue>
+                    </SupplierIdentifier>
+                    <SupplierName>Media Rodzina</SupplierName>
+                </Supplier>
+                <ProductAvailability>99</ProductAvailability>
+                <Price>
+                    <PriceType>02</PriceType>
+                    <PriceAmount>6.9</PriceAmount>
+                    <Tax>
+                        <TaxType>01</TaxType>
+                        <TaxRatePercent>5</TaxRatePercent>
+                    </Tax>
+                    <CurrencyCode>PLN</CurrencyCode>
+                </Price>
+            </SupplyDetail>
+        </ProductSupply>
+    </Product>
+</ONIXMessage>

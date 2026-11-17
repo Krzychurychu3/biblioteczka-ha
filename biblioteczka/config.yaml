@@ -1,0 +1,29 @@
+# Konfiguracja aplikacji Home Assistant OS (dawniej „dodatek”).
+# Opis kluczy: https://contributors.home-assistant.io/apps/reference/configuration/
+name: Biblioteczka
+version: "0.1.0"
+slug: biblioteczka
+description: Wspólna domowa biblioteczka – książki, serie, autorzy i brakujące tomy
+url: https://github.com/Krzychurychu3/biblioteczka-ha
+arch:
+  - aarch64
+  - amd64
+# Obraz bazowy HA ma S6 overlay jako PID 1, więc tini od Dockera musi być wyłączone.
+init: false
+startup: application
+boot: auto
+# Interfejs tylko przez Ingress – bez wystawionych portów i bez własnego logowania.
+ingress: true
+ingress_port: 8099
+# Supervisor buforuje treść POST do 16 MiB; strumieniowanie pozwala na przesyłanie
+# do 20 MB (zdjęcia okładek i kodów, pliki CSV wysyłane jako surowa treść żądania).
+ingress_stream: true
+panel_icon: mdi:bookshelf
+panel_title: Biblioteczka
+# Panel widoczny dla wszystkich domowników, nie tylko administratorów.
+panel_admin: false
+# SQLite w /data – na czas kopii zapasowej aplikacja jest na chwilę zatrzymywana,
+# dzięki czemu kopia bazy jest zawsze spójna.
+backup: cold
+# Supervisor sprawdza zdrowie aplikacji przez wewnętrzną sieć HA (port kontenera).
+watchdog: "http://[HOST]:[PORT:8099]/healthz"

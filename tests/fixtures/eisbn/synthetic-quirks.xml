@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Plik syntetyczny: puste PersonName autora (poprawka §9.5), wydawca „©” (pusty po porządkowaniu),
+     encje, dwa elementy Product łączone w jeden wynik, rozłożone znaki (NFD). -->
+<ONIXMessage release="3.0" xmlns="http://ns.editeur.org/onix/3.0/reference">
+    <Header>
+        <Sender>
+            <SenderName>Serwis e-ISBN</SenderName>
+        </Sender>
+    </Header>
+    <Product>
+        <DescriptiveDetail>
+            <TitleDetail>
+                <TitleType>01</TitleType>
+                <TitleElement>
+                    <TitleText>Zaz&#x307;o&#x301;&#x142;c&#x301; g&#x119;s&#x301;l&#x105; ja&#x17A;n&#x301; &amp; inne</TitleText>
+                </TitleElement>
+            </TitleDetail>
+            <Contributor>
+                <ContributorRole>A01</ContributorRole>
+                <PersonName></PersonName>
+            </Contributor>
+            <Contributor>
+                <ContributorRole>A01</ContributorRole>
+                <PersonName>  </PersonName>
+                <PersonNameInverted>Kowalski, Jan</PersonNameInverted>
+            </Contributor>
+        </DescriptiveDetail>
+        <PublishingDetail>
+            <Publisher>
+                <PublisherName>©</PublisherName>
+            </Publisher>
+            <PublishingDate>
+                <PublishingDateRole>09</PublishingDateRole>
+                <Date>1499</Date>
+            </PublishingDate>
+            <PublishingDate>
+                <PublishingDateRole>09</PublishingDateRole>
+                <Date>20101231</Date>
+            </PublishingDate>
+            <PublishingDate>
+                <PublishingDateRole>11</PublishingDateRole>
+                <Date>20200101</Date>
+            </PublishingDate>
+        </PublishingDetail>
+    </Product>
+    <Product>
+        <DescriptiveDetail>
+            <TitleDetail>
+                <TitleElement>
+                    <TitleText>Drugi produkt</TitleText>
+                </TitleElement>
+            </TitleDetail>
+            <Extent>
+                <ExtentType>11</ExtentType>
+                <ExtentValue>ok. 100</ExtentValue>
+                <ExtentUnit>03</ExtentUnit>
+            </Extent>
+            <Extent>
+                <ExtentType>08</ExtentType>
+                <ExtentValue>  128 </ExtentValue>
+                <ExtentUnit>03</ExtentUnit>
+            </Extent>
+        </DescriptiveDetail>
+        <PublishingDetail>
+            <Publisher>
+                <PublisherName>Pierwszy niepusty wygrywa, ten jest pomijany</PublisherName>
+            </Publisher>
+        </PublishingDetail>
+    </Product>
+</ONIXMessage>

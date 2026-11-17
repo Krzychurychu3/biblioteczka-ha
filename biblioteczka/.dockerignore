@@ -1,0 +1,5 @@
+# Śmieci z macOS i lokalnego uruchamiania – nie trafiają do obrazu.
+**/__pycache__
+**/*.pyc
+**/.DS_Store
+**/._*

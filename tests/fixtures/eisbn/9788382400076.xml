@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXMessage release="3.0"
+    xsi:schemaLocation="http://ns.editeur.org/onix/3.0/reference https://e-isbn.pl/IsbnWeb/schemas/ONIX_BookProduct_3.0_reference.xsd"
+    xmlns:eisbn="http://e-isbn.pl"
+    xmlns="http://ns.editeur.org/onix/3.0/reference" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Header>
+        <Sender>
+            <SenderName>Serwis e-ISBN</SenderName>
+            <ContactName>Kontakt testowy, tel. +48000000000</ContactName>
+            <EmailAddress>kontakt@example.invalid</EmailAddress>
+        </Sender>
+        <MessageNumber>4611</MessageNumber>
+        <SentDateTime>20261115T1743+0000</SentDateTime>
+        <MessageNote>API e-ISBN</MessageNote>
+        <DefaultLanguageOfText>pol</DefaultLanguageOfText>
+    </Header>
+    <Product datestamp="20221220">
+        <RecordReference>pl-eisbn-10254609</RecordReference>
+        <NotificationType>03</NotificationType>
+        <RecordSourceType>01</RecordSourceType>
+        <RecordSourceName>Wydawnictwo ZIELONA SOWA, spółka z o.o.</RecordSourceName>
+        <ProductIdentifier>
+            <ProductIDType>15</ProductIDType>
+            <IDValue>9788382400076</IDValue>
+        </ProductIdentifier>
+        <DescriptiveDetail>
+            <ProductComposition>00</ProductComposition>
+            <ProductForm>BC</ProductForm>
+            <TitleDetail>
+                <TitleType>01</TitleType>
+                <TitleElement>
+                    <TitleElementLevel>01</TitleElementLevel>
+                    <TitleText>Tomek Łebski ma (chrapkę na) smakołyki</TitleText>
+                </TitleElement>
+            </TitleDetail>
+            <Contributor>
+                <SequenceNumber>1</SequenceNumber>
+                <ContributorRole>A01</ContributorRole>
+                <PersonNameInverted>Pichon, Liz</PersonNameInverted>
+            </Contributor>
+            <EditionType>NED</EditionType>
+            <EditionNumber>1</EditionNumber>
+            <Language>
+                <LanguageRole>01</LanguageRole>
+                <LanguageCode>pol</LanguageCode>
+            </Language>
+        </DescriptiveDetail>
+        <PublishingDetail>
+            <Imprint>
+                <ImprintName>Wydawnictwo Zielona Sowa</ImprintName>
+            </Imprint>
+            <Publisher>
+                <PublishingRole>01</PublishingRole>
+                <PublisherName>Wydawnictwo ZIELONA SOWA, spółka z o.o.</PublisherName>
+            </Publisher>
+            <CityOfPublication>Warszawa</CityOfPublication>
+            <CountryOfPublication>PL</CountryOfPublication>
+            <PublishingDate>
+                <PublishingDateRole>01</PublishingDateRole>
+                <Date>20210215</Date>
+            </PublishingDate>
+            <PublishingDate>
+                <PublishingDateRole>09</PublishingDateRole>
+                <Date>20210215</Date>
+            </PublishingDate>
+        </PublishingDetail>
+    </Product>
+</ONIXMessage>

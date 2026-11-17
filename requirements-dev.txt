@@ -1,0 +1,9 @@
+# Zależności środowiska deweloperskiego (.venv w katalogu głównym repozytorium). W kontenerze HA te same biblioteki
+# pochodzą z pakietów Alpine 3.24: py3-aiohttp 3.13, py3-pillow 12.2, py3-zxing-cpp 2.3.
+# Kod musi działać na Pythonie 3.10–3.14, z aiohttp >= 3.9, Pillow >= 10 i zxing-cpp 2.x/3.x.
+aiohttp>=3.9
+Pillow>=10
+zxing-cpp>=2.2
+certifi
+pytest>=8
+pytest-aiohttp>=1.0

@@ -1,0 +1,10 @@
+{"bibs": [
+ {"publicationYear": "2010", "marc": {"fields": [
+  {"020": {"subfields": [{"a": "8375780634"}]}},
+  {"100": {"subfields": [{"a": "Żółkiewski, Ć."}]}},
+  {"245": {"subfields": [{"a": "Zażółć gęślą jaźń /"}]}},
+  {"260": {"subfields": [{"b": "© \"Świat Książki\" ;"}]}},
+  {"300": {"subfields": [{"a": "[42] strony :"}]}},
+  {"490": {"subfields": [{"a": "Myśli ; "}, {"v": "Księga V. Pani"}]}}
+ ]}}
+]}

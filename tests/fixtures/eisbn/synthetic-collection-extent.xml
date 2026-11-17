@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Plik syntetyczny: ścieżki parsera ONIX, których nie pokrywa żadna prawdziwa odpowiedź e-ISBN
+     (Collection, TitlePrefix/TitleWithoutPrefix, PartNumber, kolejność ról, Extent, daty). -->
+<ONIXMessage release="3.0" xmlns="http://ns.editeur.org/onix/3.0/reference">
+    <Header>
+        <Sender>
+            <SenderName>Serwis e-ISBN</SenderName>
+            <ContactName>Kontakt testowy, tel. +48000000000</ContactName>
+            <EmailAddress>kontakt@example.invalid</EmailAddress>
+        </Sender>
+    </Header>
+    <Product>
+        <RecordReference>synthetic-1</RecordReference>
+        <ProductIdentifier>
+            <ProductIDType>15</ProductIDType>
+            <IDValue>9788375780635</IDValue>
+        </ProductIdentifier>
+        <DescriptiveDetail>
+            <Collection>
+                <CollectionType>10</CollectionType>
+                <TitleDetail>
+                    <TitleType>01</TitleType>
+                    <TitleElement>
+                        <TitleElementLevel>02</TitleElementLevel>
+                        <PartNumber>7</PartNumber>
+                        <TitleText>Pucio / seria ; 2</TitleText>
+                    </TitleElement>
+                </TitleDetail>
+                <Contributor>
+                    <ContributorRole>B01</ContributorRole>
+                    <PersonName>Redaktor Serii</PersonName>
+                </Contributor>
+            </Collection>
+            <TitleDetail>
+                <TitleType>01</TitleType>
+                <TitleElement>
+                    <TitleElementLevel>01</TitleElementLevel>
+                    <PartNumber>t. 3</PartNumber>
+                    <TitlePrefix>The</TitlePrefix>
+                    <TitleWithoutPrefix>Hobbit</TitleWithoutPrefix>
+                </TitleElement>
+            </TitleDetail>
+            <Contributor>
+                <ContributorRole>B06</ContributorRole>
+                <PersonNameInverted>Tłumacz, Jan</PersonNameInverted>
+            </Contributor>
+            <Contributor>
+                <ContributorRole>A01</ContributorRole>
+                <PersonNameInverted>Tolkien, J. R. R.</PersonNameInverted>
+            </Contributor>
+            <Contributor>
+                <ContributorRole>A01</ContributorRole>
+                <PersonName>Drugi Autor</PersonName>
+            </Contributor>
+            <Extent>
+                <ExtentType>08</ExtentType>
+                <ExtentValue>400</ExtentValue>
+                <ExtentUnit>03</ExtentUnit>
+            </Extent>
+            <Extent>
+                <ExtentType>00</ExtentType>
+                <ExtentValue>320</ExtentValue>
+                <ExtentUnit>03</ExtentUnit>
+            </Extent>
+            <Extent>
+                <ExtentType>08</ExtentType>
+                <ExtentValue>500</ExtentValue>
+                <ExtentUnit>03</ExtentUnit>
+            </Extent>
+            <Extent>
+                <ExtentType>00</ExtentType>
+                <ExtentValue>900</ExtentValue>
+                <ExtentUnit>02</ExtentUnit>
+            </Extent>
+        </DescriptiveDetail>
+        <PublishingDetail>
+            <Imprint>
+                <ImprintName></ImprintName>
+            </Imprint>
+            <Publisher>
+                <PublishingRole>01</PublishingRole>
+                <PublisherName>"Iskry",</PublisherName>
+            </Publisher>
+            <PublishingDate>
+                <PublishingDateRole>19</PublishingDateRole>
+                <Date>20120101</Date>
+            </PublishingDate>
+            <PublishingDate>
+                <PublishingDateRole>01</PublishingDateRole>
+                <Date>2013</Date>
+            </PublishingDate>
+            <PublishingDate>
+                <PublishingDateRole>09</PublishingDateRole>
+                <Date>20150101</Date>
+            </PublishingDate>
+        </PublishingDetail>
+    </Product>
+</ONIXMessage>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXMessage release="3.0"
+    xsi:schemaLocation="http://ns.editeur.org/onix/3.0/reference https://e-isbn.pl/IsbnWeb/schemas/ONIX_BookProduct_3.0_reference.xsd"
+    xmlns:eisbn="http://e-isbn.pl"
+    xmlns="http://ns.editeur.org/onix/3.0/reference" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Header>
+        <Sender>
+            <SenderName>Serwis e-ISBN</SenderName>
+            <ContactName>Kontakt testowy, tel. +48000000000</ContactName>
+            <EmailAddress>kontakt@example.invalid</EmailAddress>
+        </Sender>
+        <MessageNumber>4611</MessageNumber>
+        <SentDateTime>20261115T1741+0000</SentDateTime>
+        <MessageNote>API e-ISBN</MessageNote>
+        <DefaultLanguageOfText>pol</DefaultLanguageOfText>
+    </Header>
+    <Product datestamp="20180809">
+        <RecordReference>pl-eisbn-1795548</RecordReference>
+        <NotificationType>03</NotificationType>
+        <RecordSourceType>01</RecordSourceType>
+        <RecordSourceName>MEDIA RODZINA, spółka z o.o.</RecordSourceName>
+        <ProductIdentifier>
+            <ProductIDType>15</ProductIDType>
+            <IDValue>9788380083738</IDValue>
+        </ProductIdentifier>
+        <ProductIdentifier>
+            <ProductIDType>01</ProductIDType>
+            <IDTypeName>numer rekordu Biblioteki Narodowej</IDTypeName>
+            <IDValue>b6024634</IDValue>
+        </ProductIdentifier>
+        <DescriptiveDetail>
+            <ProductComposition>00</ProductComposition>
+            <ProductForm>BC</ProductForm>
+            <Measure>
+                <MeasureType>01</MeasureType>
+                <Measurement>28</Measurement>
+                <MeasureUnitCode>cm</MeasureUnitCode>
+            </Measure>
+            <TitleDetail>
+                <TitleType>01</TitleType>
+                <TitleElement>
+                    <TitleElementLevel>01</TitleElementLevel>
+                    <TitleText>Harry Potter i więzień Azkabanu</TitleText>
+                </TitleElement>
+            </TitleDetail>
+            <TitleDetail>
+                <TitleType>03</TitleType>
+                <TitleElement>
+                    <TitleElementLevel>01</TitleElementLevel>
+                    <TitleText>Harry Potter and the prisoner of Azkaban</TitleText>
+                </TitleElement>
+            </TitleDetail>
+            <Contributor>
+                <SequenceNumber>1</SequenceNumber>
+                <ContributorRole>A01</ContributorRole>
+                <PersonNameInverted>Rowling, J. K</PersonNameInverted>
+            </Contributor>
+            <Contributor>
+                <SequenceNumber>2</SequenceNumber>
+                <ContributorRole>Z99</ContributorRole>
+                <PersonNameInverted>Kay, Jim</PersonNameInverted>
+            </Contributor>
+            <Contributor>
+                <SequenceNumber>3</SequenceNumber>
+                <ContributorRole>Z99</ContributorRole>
+                <PersonNameInverted>Polkowski, Andrzej</PersonNameInverted>
+            </Contributor>
+            <Contributor>
+                <SequenceNumber>4</SequenceNumber>
+                <ContributorRole>Z99</ContributorRole>
+                <PersonNameInverted>Media Rodzina</PersonNameInverted>
+            </Contributor>
+            <EditionType>NED</EditionType>
+            <EditionNumber>1</EditionNumber>
+            <Language>
+                <LanguageRole>01</LanguageRole>
+                <LanguageCode>pol</LanguageCode>
+            </Language>
+            <Subject>
+                <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+                <SubjectCode>Magia</SubjectCode>
+            </Subject>
+            <Subject>
+                <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+                <SubjectCode>Metamorfoza postaci</SubjectCode>
+            </Subject>
+            <Subject>
+                <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+                <SubjectCode>Podróże w czasie</SubjectCode>
+            </Subject>
+            <Subject>
+                <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+                <SubjectCode>Przedmioty magiczne</SubjectCode>
+            </Subject>
+            <Subject>
+                <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+                <SubjectCode>Czarownice i czarownicy</SubjectCode>
+            </Subject>
+            <Subject>
+                <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+                <SubjectCode>Walka dobra ze złem</SubjectCode>
+            </Subject>
+            <Subject>
+                <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+                <SubjectCode>Więźniowie</SubjectCode>
+            </Subject>
+            <Subject>
+                <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+                <SubjectCode>Sieroty</SubjectCode>
+            </Subject>
+            <Subject>
+                <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+                <SubjectCode>Szkoły magii</SubjectCode>
+            </Subject>
+            <Subject>
+                <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+                <SubjectCode>Ucieczki więźniów</SubjectCode>
+            </Subject>
+            <Subject>
+                <SubjectSchemeIdentifier>09</SubjectSchemeIdentifier>
+                <SubjectCode>821.111-93</SubjectCode>
+            </Subject>
+        </DescriptiveDetail>
+        <PublishingDetail>
+            <Imprint>
+                <ImprintName>Media Rodzina,</ImprintName>
+            </Imprint>
+            <Publisher>
+                <PublishingRole>01</PublishingRole>
+                <PublisherName>MEDIA RODZINA, spółka z o.o.</PublisherName>
+            </Publisher>
+            <CityOfPublication>Poznań :</CityOfPublication>
+            <CountryOfPublication>PL</CountryOfPublication>
+            <PublishingDate>
+                <PublishingDateRole>09</PublishingDateRole>
+                <Date>20180809</Date>
+            </PublishingDate>
+        </PublishingDetail>
+    </Product>
+</ONIXMessage>

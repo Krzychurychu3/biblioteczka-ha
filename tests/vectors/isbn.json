@@ -1,0 +1,275 @@
+{
+ "_source": "Wygenerowane z oryginalnego kodu Swift (Biblioteczka/Models, Theme/Palette.swift) \u2013 nie edytowa\u0107 r\u0119cznie.",
+ "parse": [
+  {
+   "input": "9788375780635",
+   "digits": "9788375780635",
+   "isbn10": "8375780634"
+  },
+  {
+   "input": "978-83-7578-063-5",
+   "digits": "9788375780635",
+   "isbn10": "8375780634"
+  },
+  {
+   "input": "978 83 7578 063 5",
+   "digits": "9788375780635",
+   "isbn10": "8375780634"
+  },
+  {
+   "input": "ISBN 978-83-7578-063-5",
+   "digits": "9788375780635",
+   "isbn10": "8375780634"
+  },
+  {
+   "input": "97883 75780635 ",
+   "digits": "9788375780635",
+   "isbn10": "8375780634"
+  },
+  {
+   "input": "8370540619",
+   "digits": "9788370540616",
+   "isbn10": "8370540619"
+  },
+  {
+   "input": "83-7054-061-9",
+   "digits": "9788370540616",
+   "isbn10": "8370540619"
+  },
+  {
+   "input": "080442957X",
+   "digits": "9780804429573",
+   "isbn10": "080442957X"
+  },
+  {
+   "input": "0-8044-2957-x",
+   "digits": "9780804429573",
+   "isbn10": "080442957X"
+  },
+  {
+   "input": "9788375780636",
+   "digits": null,
+   "isbn10": null
+  },
+  {
+   "input": "0804429579",
+   "digits": null,
+   "isbn10": null
+  },
+  {
+   "input": "9798375780635",
+   "digits": null,
+   "isbn10": null
+  },
+  {
+   "input": "9771234567003",
+   "digits": null,
+   "isbn10": null
+  },
+  {
+   "input": "1234567890123",
+   "digits": null,
+   "isbn10": null
+  },
+  {
+   "input": "97883757806",
+   "digits": null,
+   "isbn10": null
+  },
+  {
+   "input": "X80442957X",
+   "digits": null,
+   "isbn10": null
+  },
+  {
+   "input": "978837578063X",
+   "digits": null,
+   "isbn10": null
+  },
+  {
+   "input": "\uff19\uff17\uff18\uff18\uff13\uff17\uff15\uff17\uff18\uff10\uff16\uff13\uff15",
+   "digits": null,
+   "isbn10": null
+  },
+  {
+   "input": "",
+   "digits": null,
+   "isbn10": null
+  },
+  {
+   "input": "ISBN",
+   "digits": null,
+   "isbn10": null
+  },
+  {
+   "input": "979-10-90636-07-1",
+   "digits": "9791090636071",
+   "isbn10": null
+  },
+  {
+   "input": "9791090636071",
+   "digits": "9791090636071",
+   "isbn10": null
+  },
+  {
+   "input": "isbn: 83-7054-061-9 (oprawa)",
+   "digits": "9788370540616",
+   "isbn10": "8370540619"
+  },
+  {
+   "input": "978-83-7578-063-5-1",
+   "digits": null,
+   "isbn10": null
+  },
+  {
+   "input": "8\u0301370540619",
+   "digits": null,
+   "isbn10": null
+  },
+  {
+   "input": "83 70 54 06 1 9",
+   "digits": "9788370540616",
+   "isbn10": "8370540619"
+  },
+  {
+   "input": "0306406152",
+   "digits": "9780306406157",
+   "isbn10": "0306406152"
+  },
+  {
+   "input": "030640615X",
+   "digits": null,
+   "isbn10": null
+  },
+  {
+   "input": "978030640615",
+   "digits": null,
+   "isbn10": null
+  },
+  {
+   "input": "9780306406157",
+   "digits": "9780306406157",
+   "isbn10": "0306406152"
+  },
+  {
+   "input": "978-0-306-40615-7",
+   "digits": "9780306406157",
+   "isbn10": "0306406152"
+  },
+  {
+   "input": "1\u20e39788375780635",
+   "digits": "9788375780635",
+   "isbn10": "8375780634"
+  }
+ ],
+ "classify": [
+  {
+   "input": "9788375780635",
+   "kind": "book",
+   "digits": "9788375780635"
+  },
+  {
+   "input": "978-83-7578-063-5",
+   "kind": "book",
+   "digits": "9788375780635"
+  },
+  {
+   "input": "9771234567003",
+   "kind": "magazine"
+  },
+  {
+   "input": "977",
+   "kind": "magazine"
+  },
+  {
+   "input": "5901234123457",
+   "kind": "other"
+  },
+  {
+   "input": "978837578063",
+   "kind": "other"
+  },
+  {
+   "input": "8370540619",
+   "kind": "other"
+  },
+  {
+   "input": "9788375780636",
+   "kind": "other"
+  },
+  {
+   "input": "",
+   "kind": "other"
+  },
+  {
+   "input": "9791090636071",
+   "kind": "book",
+   "digits": "9791090636071"
+  },
+  {
+   "input": "97712345670031",
+   "kind": "magazine"
+  },
+  {
+   "input": "ISBN9788375780635",
+   "kind": "book",
+   "digits": "9788375780635"
+  },
+  {
+   "input": "080442957X",
+   "kind": "other"
+  }
+ ],
+ "check13": [
+  {
+   "in": "978837578063",
+   "out": "5"
+  },
+  {
+   "in": "978837054061",
+   "out": "6"
+  },
+  {
+   "in": "978080442957",
+   "out": "3"
+  },
+  {
+   "in": "979109063607",
+   "out": "1"
+  },
+  {
+   "in": "000000000000",
+   "out": "0"
+  },
+  {
+   "in": "978030640615",
+   "out": "7"
+  }
+ ],
+ "check10": [
+  {
+   "in": "837054061",
+   "out": "9"
+  },
+  {
+   "in": "080442957",
+   "out": "X"
+  },
+  {
+   "in": "837578063",
+   "out": "4"
+  },
+  {
+   "in": "000000000",
+   "out": "0"
+  },
+  {
+   "in": "030640615",
+   "out": "2"
+  },
+  {
+   "in": "999999999",
+   "out": "9"
+  }
+ ]
+}

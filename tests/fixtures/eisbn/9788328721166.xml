@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXMessage release="3.0"
+    xsi:schemaLocation="http://ns.editeur.org/onix/3.0/reference https://e-isbn.pl/IsbnWeb/schemas/ONIX_BookProduct_3.0_reference.xsd"
+    xmlns:eisbn="http://e-isbn.pl"
+    xmlns="http://ns.editeur.org/onix/3.0/reference" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Header>
+        <Sender>
+            <SenderName>Serwis e-ISBN</SenderName>
+            <ContactName>Kontakt testowy, tel. +48000000000</ContactName>
+            <EmailAddress>kontakt@example.invalid</EmailAddress>
+        </Sender>
+        <MessageNumber>4611</MessageNumber>
+        <SentDateTime>20261115T1743+0000</SentDateTime>
+        <MessageNote>API e-ISBN</MessageNote>
+        <DefaultLanguageOfText>pol</DefaultLanguageOfText>
+    </Header>
+    <Product datestamp="20240108">
+        <RecordReference>pl-eisbn-1411788</RecordReference>
+        <NotificationType>03</NotificationType>
+        <RecordSourceType>01</RecordSourceType>
+        <RecordSourceName>MUZA S.A.</RecordSourceName>
+        <ProductIdentifier>
+            <ProductIDType>15</ProductIDType>
+            <IDValue>9788328721166</IDValue>
+        </ProductIdentifier>
+        <ProductIdentifier>
+            <ProductIDType>01</ProductIDType>
+            <IDTypeName>numer rekordu Biblioteki Narodowej</IDTypeName>
+            <IDValue>b1000002736491</IDValue>
+        </ProductIdentifier>
+        <DescriptiveDetail>
+            <ProductComposition>00</ProductComposition>
+            <ProductForm>BC</ProductForm>
+            <Measure>
+                <MeasureType>01</MeasureType>
+                <Measurement>22</Measurement>
+                <MeasureUnitCode>cm</MeasureUnitCode>
+            </Measure>
+            <TitleDetail>
+                <TitleType>01</TitleType>
+                <TitleElement>
+                    <TitleElementLevel>01</TitleElementLevel>
+                    <TitleText>Tomek na Czarnym Lądzie</TitleText>
+                </TitleElement>
+            </TitleDetail>
+            <EditionType>NED</EditionType>
+            <EditionNumber>1</EditionNumber>
+            <Language>
+                <LanguageRole>01</LanguageRole>
+                <LanguageCode>pol</LanguageCode>
+            </Language>
+        </DescriptiveDetail>
+        <PublishingDetail>
+            <Imprint>
+                <ImprintName>Muza,</ImprintName>
+            </Imprint>
+            <Publisher>
+                <PublishingRole>01</PublishingRole>
+                <PublisherName>MUZA S.A.</PublisherName>
+            </Publisher>
+            <CityOfPublication>Warszawa :</CityOfPublication>
+            <CountryOfPublication>PL</CountryOfPublication>
+            <PublishingDate>
+                <PublishingDateRole>01</PublishingDateRole>
+                <Date>20211230</Date>
+            </PublishingDate>
+            <PublishingDate>
+                <PublishingDateRole>09</PublishingDateRole>
+                <Date>20211230</Date>
+            </PublishingDate>
+        </PublishingDetail>
+    </Product>
+</ONIXMessage>

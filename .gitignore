@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+._*
+
+# Python – środowisko deweloperskie
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node (testy JS nie mają zależności, ale na wszelki wypadek)
+node_modules/
+
+# Dane z tools/dev.sh
+devdata/
